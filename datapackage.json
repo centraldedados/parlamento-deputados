@@ -1,5 +1,5 @@
 {
-  "name": "parlamento_deputados",
+  "name": "parlamento-deputados",
   "title": "",
   "homepage": "",
   "version": "0.1.0",
@@ -48,5 +48,5 @@
     }
   ],
   "description": "Lista de Deputados da Assembleia da República",
-  "repository": "git://github.com/centraldedados/parlamento_deputados.git"
+  "repository": "git://github.com/centraldedados/parlamento-deputados.git"
 }
