@@ -1,0 +1,52 @@
+{
+  "name": "parlamento_deputados",
+  "title": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "deputados",
+      "path": "data/deputados.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 70655,
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "official_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "birthday",
+            "type": "date",
+            "description": ""
+          },
+          {
+            "name": "party_id",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "is_active",
+            "type": "boolean",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "description": "Lista de Deputados da Assembleia da República",
+  "repository": "git://github.com/centraldedados/parlamento_deputados.git"
+}
