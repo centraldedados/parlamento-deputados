@@ -10,7 +10,7 @@
       "path": "data/deputados.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 70655,
+      "bytes": 70368,
       "schema": {
         "fields": [
           {
