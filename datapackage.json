@@ -1,6 +1,6 @@
 {
   "name": "parlamento-deputados",
-  "title": "",
+  "title": "Deputados do Parlamento",
   "homepage": "",
   "version": "0.1.0",
   "license": "PDDL-1.0",
@@ -47,6 +47,6 @@
       }
     }
   ],
-  "description": "Lista de Deputados da Assembleia da República",
+  "description": "Deputados da Assembleia da República desde 1976",
   "repository": "git://github.com/centraldedados/parlamento-deputados.git"
 }
