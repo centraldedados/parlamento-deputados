@@ -4,6 +4,12 @@
   "homepage": "",
   "version": "0.1.0",
   "license": "PDDL-1.0",
+  "sources": [
+    {
+      "name": "Parlamento",
+      "web": "http://www.parlamento.pt"
+    }
+  ],
   "resources": [
     {
       "name": "deputados",
