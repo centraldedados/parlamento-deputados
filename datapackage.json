@@ -1,58 +1,92 @@
 {
   "name": "parlamento-deputados",
   "title": "Deputados do Parlamento",
-  "homepage": "",
-  "version": "0.1.0",
-  "license": "PDDL-1.0",
-  "sources": [
-    {
-      "name": "Parlamento",
-      "web": "http://www.parlamento.pt"
-    }
-  ],
+  "homepage": "http://centraldedados.pt/parlamento-deputados.html",
+  "version": "0.9",
+  "license": "ODbL",
+  "description": "Lista de Deputados da Assembleia da República",
+  "repository": "git://github.com/centraldedados/parlamento-deputados.git",
   "resources": [
     {
-      "name": "deputados",
+      "name": "Deputados do Parlamento",
       "path": "data/deputados.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 70368,
+      "bytes": 739743,
       "schema": {
         "fields": [
           {
             "name": "id",
             "type": "integer",
-            "description": ""
+            "description": "ID numérico no parlamento.pt"
           },
           {
-            "name": "official_id",
-            "type": "integer",
-            "description": ""
+            "name": "shortname",
+            "type": "string",
+            "description": "Nome abreviado"
           },
           {
             "name": "name",
             "type": "string",
-            "description": ""
+            "description": "Nome completo"
           },
           {
-            "name": "birthday",
+            "name": "party",
+            "type": "string",
+            "description": "Partido"
+          },
+          {
+            "name": "education",
+            "type": "number",
+            "description": "Formação"
+          },
+          {
+            "name": "birthdate",
             "type": "date",
-            "description": ""
+            "description": "Data de nascimento"
           },
           {
-            "name": "party_id",
-            "type": "integer",
-            "description": ""
+            "name": "occupation",
+            "type": "string",
+            "description": "Profissão"
           },
           {
-            "name": "is_active",
-            "type": "boolean",
-            "description": ""
+            "name": "current_jobs",
+            "type": "number",
+            "description": "Cargos atuais"
+          },
+          {
+            "name": "jobs",
+            "type": "number",
+            "description": "Cargos anteriores"
+          },
+          {
+            "name": "commissions",
+            "type": "number",
+            "description": "Comissões parlamentares"
+          },
+          {
+            "name": "mandates",
+            "type": "number",
+            "description": "Mandatos"
+          },
+          {
+            "name": "awards",
+            "type": "number",
+            "description": "Condecorações"
+          },
+          {
+            "name": "url",
+            "type": "string",
+            "description": "URL do parlamento.pt"
+          },
+          {
+            "name": "scrape_date",
+            "type": "datetime",
+            "description": "Hora do scraping"
           }
         ]
       }
     }
   ],
-  "description": "Deputados da Assembleia da República desde 1976",
-  "repository": "git://github.com/centraldedados/parlamento-deputados.git"
 }
