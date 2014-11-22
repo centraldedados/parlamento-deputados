@@ -4,7 +4,7 @@
 
 DATAPKG_REPO_URL="git@github.com:centraldedados/parlamento-deputados.git"
 SCRAPER_REPO_URL="git@github.com:transparenciahackday/scraper-deputados.git"
-SCRAPER_SCRIPT="depscrap -f csv -v -o ../deputados.csv"
+SCRAPER_SCRIPT="depscrap -f csv -v -p 1 -o ../deputados.csv"
 
 SCRAPER_DIR="scraper-deputados"
 DATAPKG_DIR="datapkg-deputados"
