@@ -38,10 +38,12 @@ import re
 from itertools import chain
 from datetime import datetime as dt
 from json import dumps
+import unicodecsv as csv
 from utils import *
 from replaces_depscrap import SHORTNAME_REPLACES
 import click
 from zenlog import log
+import multiprocessing
 
 
 fieldnames = ['id', 'shortname', 'name', 'party', 'active', 'education', 'birthdate', 'occupation', 'current_jobs',
@@ -58,9 +60,9 @@ ROMAN_NUMERALS = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5,
 URL_DEPS_ACTIVOS = 'http://www.parlamento.pt/DeputadoGP/Paginas/Deputadoslista.aspx'
 FORMATTER_URL_BIO_DEP = 'http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=%d'
 
-RE_NAME = re.compile('Nome_rptContent')
+RE_NAME = re.compile('Nome.*Text')
 RE_SHORT = re.compile('NomeDeputado')
-RE_BIRTHDATE = re.compile('DOB_rptContent')
+RE_BIRTHDATE = re.compile('DOB.*Text')
 RE_PARTY = re.compile('Partido')
 RE_OCCUPATION = re.compile('Prof')
 RE_EDUCATION = re.compile('Habilitacoes')
@@ -116,6 +118,7 @@ def parse_legislature(s):
         start = start.replace(' a', '')
     return number, start, end
 
+
 def get_active_deps():
     # returns list of BIDs
     ids = []
@@ -139,87 +142,101 @@ def get_active_deps():
     log.info('Active MP list created.')
     return ids
 
+
 def extract_details(block):
     return [item.text.strip() for item in block.find_all('tr')[1:]]
 
 
 def extract_multiline_details(block):
-    return  [item for item in chain.from_iterable(tr.text.split('\n') for tr in block.find_all('tr')[1:]) if item]
+    return [item for item in chain.from_iterable(tr.text.split('\n') for tr in block.find_all('tr')[1:]) if item]
+
+
+def process_dep(i):
+    log.debug("Trying ID %d..." % i)
+
+    url = FORMATTER_URL_BIO_DEP % i
+    soup = BeautifulSoup(getpage(url), "lxml")
+    name = soup.find('span', id=RE_NAME)
+    if name:
+        short = soup.find('span', id=RE_SHORT)
+        birthdate = soup.find('span', id=RE_BIRTHDATE)
+        party = soup.find('span', id=RE_PARTY)
+        occupation = soup.find('div', id=RE_OCCUPATION)
+        education = soup.find('div', id=RE_EDUCATION)
+        current_jobs = soup.find('div', id=RE_CURRENT_JOBS)  # ;)
+        jobs = soup.find('div', id=RE_JOBS)  # ;)
+        awards = soup.find('div', id=RE_AWARDS)
+        coms = soup.find('div', id=RE_COMS)
+        mandates = soup.find('table', id=RE_MANDATES)
+
+        deprow = {'id': i,
+                  'name': name.text,
+                  'url': url,
+                  'scrape_date': dt.utcnow().isoformat()}
+
+        if short:
+            # replace by canonical shortnames if appropriate
+            if short.text in SHORTNAME_REPLACES:
+                t = SHORTNAME_REPLACES[short.text]
+            else:
+                t = short.text
+            deprow['shortname'] = t
+        if birthdate:
+            deprow['birthdate'] = birthdate.text
+        if party:
+            deprow['party'] = party.text
+        if education:
+            # TODO: break educations string into multiple entries, ';' is the separator
+            deprow['education'] = extract_details(education)
+        if occupation:
+            deprow['occupation'] = extract_details(occupation)
+        if jobs:
+            deprow['jobs'] = extract_multiline_details(jobs)
+        if current_jobs:
+            deprow['current_jobs'] = extract_multiline_details(current_jobs)
+        if coms:
+            deprow['commissions'] = extract_details(coms)
+        if awards:
+            deprow['awards'] = extract_multiline_details(awards)
+        if mandates:
+            # TODO: this block may take advantage of the new functions
+            deprow['mandates'] = []
+            for each in mandates.findAll('tr')[1:]:
+                leg = each.findAll('td')
+                l = leg[0].text
+                number, start, end = parse_legislature(l)
+                end = end.rstrip(']\n')
+                deprow['mandates'].append({
+                    'legislature': number,
+                    'start_date': start,
+                    'end_date': end,
+                    'constituency': leg[3].text,
+                    'party': leg[4].text})
+
+        log.info("Scraped MP: %s" % short.text)
+
+        return deprow
 
 
 def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1):
+    pool = multiprocessing.Pool(processes=4)
     max = end
     deprows = {}
     active_ids = get_active_deps()
 
-    for i in range(start, max):
-        if verbose:
-            log.debug("Trying ID %d..." % i)
+    try:
+        processed_deps = (proced_dep for proced_dep in pool.map(process_dep, range(start, max), chunksize=4) if proced_dep)
+    except KeyboardInterrupt:
+        pool.terminate()
 
-        url = FORMATTER_URL_BIO_DEP % i
-        soup = BeautifulSoup(getpage(url), "lxml")
-        name = soup.find('span', id=RE_NAME)
-        if name:
-            short = soup.find('span', id=RE_SHORT)
-            birthdate = soup.find('span', id=RE_BIRTHDATE)
-            party = soup.find('span', id=RE_PARTY)
-            occupation = soup.find('div', id=RE_OCCUPATION)
-            education = soup.find('div', id=RE_EDUCATION)
-            current_jobs = soup.find('div', id=RE_CURRENT_JOBS)  # ;)
-            jobs = soup.find('div', id=RE_JOBS)  # ;)
-            awards = soup.find('div', id=RE_AWARDS)
-            coms = soup.find('div', id=RE_COMS)
-            mandates = soup.find('table', id=RE_MANDATES)
-            deprows[i] = {'id': i,
-                          'name': name.text,
-                          'url': url,
-                          'scrape_date': dt.utcnow().isoformat()}
-            if short:
-                # replace by canonical shortnames if appropriate
-                if short.text in SHORTNAME_REPLACES:
-                    t = SHORTNAME_REPLACES[short.text]
-                else:
-                    t = short.text
-                deprows[i]['shortname'] = t
-            if birthdate:
-                deprows[i]['birthdate'] = birthdate.text
-            if party:
-                deprows[i]['party'] = party.text
-            if education:
-                # TODO: break educations string into multiple entries, ';' is the separator
-                deprows[i]['education'] = extract_details(education)
-            if occupation:
-                deprows[i]['occupation'] = extract_details(occupation)
-            if jobs:
-                deprows[i]['jobs'] = extract_multiline_details(jobs)
-            if current_jobs:
-                deprows[i]['current_jobs'] = extract_multiline_details(current_jobs)
-            if coms:
-                deprows[i]['commissions'] = extract_details(coms)
-            if awards:
-                deprows[i]['awards'] = extract_multiline_details(awards)
-            if mandates:
-                # TODO: this block may take advantage of the new functions
-                deprows[i]['mandates'] = []
-                for each in mandates.findAll('tr')[1:]:
-                    leg = each.findAll('td')
-                    l = leg[0].text
-                    number, start, end = parse_legislature(l)
-                    end = end.rstrip(']\n')
-                    deprows[i]['mandates'].append({
-                        'legislature': number,
-                        'start_date': start,
-                        'end_date': end,
-                        'constituency': leg[3].text,
-                        'party': leg[4].text})
+    for processed_dep in processed_deps:
+        deprows[processed_dep['id']] = processed_dep
 
-            if i in active_ids:
-                deprows[i]['active'] = True
-            else:
-                deprows[i]['active'] = False
-
-            if verbose:
-                log.info("Scraped MP: %s" % short.text)
+    for k in deprows.keys():
+        if deprows[k]['id'] in active_ids:
+            deprows[k]['active'] = True
+        else:
+            deprows[k]['active'] = False
 
     log.info("Saving to file %s..." % outfile)
     depsfp = open(outfile, 'w+')
@@ -227,7 +244,6 @@ def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1):
         depsfp.write(dumps(deprows, encoding='utf-8', indent=indent, sort_keys=True))
         depsfp.close()
     elif format == "csv":
-        import unicodecsv as csv
         writer = csv.DictWriter(depsfp, delimiter=",", quoting=csv.QUOTE_NONNUMERIC, quotechar='"', fieldnames=fieldnames)
         writer.writeheader()
         for rownumber in deprows:
