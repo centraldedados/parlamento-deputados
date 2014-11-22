@@ -218,7 +218,7 @@ def process_dep(i):
         return deprow
 
 
-def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, processes=1):
+def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, processes=2):
     pool = multiprocessing.Pool(processes=processes)
     max = end
     deprows = {}
@@ -265,7 +265,7 @@ def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, proce
 @click.option("-v", "--verbose", is_flag=True, help="Print some helpful information when running")
 @click.option("-o", "--outfile", type=click.Path(), help="Output file (default is deputados.json)")
 @click.option("-i", "--indent", type=int, help="Spaces for JSON indentation (default is 2)", default=2)
-@click.option("-p", "--processes", type=int, help="Number of simultaneous processes to run (default is 2)", default=2)
+@click.option("-p", "--processes", type=int, help="Simultaneous processes to run (default is 2)", default=2)
 @click.option("-c", "--clear-cache", help="Clean the local webpage cache", is_flag=True)
 def main(format, start, end, verbose, outfile, indent, clear_cache, processes):
     if not outfile and format == "csv":
