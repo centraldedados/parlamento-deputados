@@ -218,8 +218,8 @@ def process_dep(i):
         return deprow
 
 
-def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1):
-    pool = multiprocessing.Pool(processes=4)
+def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, processes=1):
+    pool = multiprocessing.Pool(processes=processes)
     max = end
     deprows = {}
     active_ids = get_active_deps()
@@ -265,8 +265,9 @@ def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1):
 @click.option("-v", "--verbose", is_flag=True, help="Print some helpful information when running")
 @click.option("-o", "--outfile", type=click.Path(), help="Output file (default is deputados.json)")
 @click.option("-i", "--indent", type=int, help="Spaces for JSON indentation (default is 2)", default=2)
+@click.option("-p", "--processes", type=int, help="Number of simultaneous processes to run (default is 2)", default=2)
 @click.option("-c", "--clear-cache", help="Clean the local webpage cache", is_flag=True)
-def main(format, start, end, verbose, outfile, indent, clear_cache):
+def main(format, start, end, verbose, outfile, indent, clear_cache, processes):
     if not outfile and format == "csv":
         outfile = "deputados.csv"
     elif not outfile and format == "json":
@@ -275,7 +276,7 @@ def main(format, start, end, verbose, outfile, indent, clear_cache):
         log.info("Clearing old cache...")
         shutil.rmtree("cache/")
 
-    scrape(format, start, end, verbose, outfile, indent)
+    scrape(format, start, end, verbose, outfile, indent, processes)
 
 if __name__ == "__main__":
     main()
