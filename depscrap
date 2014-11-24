@@ -1,33 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-depscrap
-========
-
-Descarrega a página de um deputado do Parlamento.pt e extrai uma parte da informação, convertendo para JSON.
-Também obtém a lista de deputados em funções caso não seja indicado um intervalo de ID's.
-
-Como usar
----------
-
-Gravar o resultado num ficheiro:
-    python depscrap -o deputados.json
-
-Gravar o resultado num ficheiro com uma indentação de 4 espaços:
-    python depscrap -o deputados.json -i 4
-
-Para mostrar o resultado na linha de comandos:
-    python depscrap
-
-Para ver todas as opções possíveis:
-    python depscrap -h
-
-Ver também
-----------
-* interessesscrap.py
-* pic_scrapper.py
-
-"""
 
 from hashlib import sha1
 import os
@@ -39,7 +11,6 @@ from itertools import chain
 from datetime import datetime as dt
 from json import dumps
 import unicodecsv as csv
-from utils import *
 from replaces_depscrap import SHORTNAME_REPLACES
 import click
 from zenlog import log
