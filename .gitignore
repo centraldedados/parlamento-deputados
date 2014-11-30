@@ -4,3 +4,5 @@ cache/
 
 # Ignore output of scraper
 data.sqlite
+deputados.csv
+deputados.json

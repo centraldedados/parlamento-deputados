@@ -10,6 +10,7 @@ import re
 from itertools import chain
 from datetime import datetime as dt
 from json import dumps
+import codecs
 import unicodecsv as csv
 from replaces_depscrap import SHORTNAME_REPLACES
 import click
@@ -55,7 +56,7 @@ def file_get_contents(file):
 
 
 def file_put_contents(file, contents):
-    open(file, 'w+').write(contents)
+    codecs.open(file, 'w+', 'utf-8').write(contents)
 
 
 def getpage(url):
@@ -210,9 +211,9 @@ def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, proce
             deprows[k]['active'] = False
 
     log.info("Saving to file %s..." % outfile)
-    depsfp = open(outfile, 'w+')
+    depsfp = codecs.open(outfile, 'w+', 'utf-8')
     if format == "json":
-        depsfp.write(dumps(deprows, encoding='utf-8', indent=indent, sort_keys=True))
+        depsfp.write(dumps(deprows, encoding='utf-8', ensure_ascii=False, indent=indent, sort_keys=True))
         depsfp.close()
     elif format == "csv":
         writer = csv.DictWriter(depsfp, delimiter=",", quoting=csv.QUOTE_NONNUMERIC, quotechar='"', fieldnames=fieldnames)
