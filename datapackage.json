@@ -37,7 +37,7 @@
           },
           {
             "name": "education",
-            "type": "number",
+            "type": "string",
             "description": "Formação"
           },
           {
@@ -52,27 +52,27 @@
           },
           {
             "name": "current_jobs",
-            "type": "number",
+            "type": "string",
             "description": "Cargos atuais"
           },
           {
             "name": "jobs",
-            "type": "number",
+            "type": "string",
             "description": "Cargos anteriores"
           },
           {
             "name": "commissions",
-            "type": "number",
+            "type": "string",
             "description": "Comissões parlamentares"
           },
           {
             "name": "mandates",
-            "type": "number",
+            "type": "string",
             "description": "Mandatos"
           },
           {
             "name": "awards",
-            "type": "number",
+            "type": "string",
             "description": "Condecorações"
           },
           {
