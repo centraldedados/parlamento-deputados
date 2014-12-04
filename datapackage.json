@@ -8,7 +8,7 @@
   "repository": "git://github.com/centraldedados/parlamento-deputados.git",
   "resources": [
     {
-      "name": "Deputados do Parlamento",
+      "name": "deputados",
       "path": "data/deputados.csv",
       "format": "csv",
       "mediatype": "text/csv",
