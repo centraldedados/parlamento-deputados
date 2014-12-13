@@ -11,7 +11,7 @@ from itertools import chain
 from datetime import datetime as dt
 from json import dumps
 import codecs
-import unicodecsv as csv
+import csv
 from replaces_depscrap import SHORTNAME_REPLACES
 import click
 from zenlog import log
@@ -227,11 +227,12 @@ def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, proce
             deprows[k]['active'] = False
 
     log.info("Saving to file %s..." % outfile)
-    depsfp = codecs.open(outfile, 'w+', 'utf-8')
     if format == "json":
+        depsfp = codecs.open(outfile, 'w+', 'utf-8')
         depsfp.write(dumps(deprows, encoding='utf-8', ensure_ascii=False, indent=indent, sort_keys=True))
         depsfp.close()
     elif format == "csv":
+        depsfp = open(outfile, 'w+')
         writer = csv.DictWriter(depsfp, delimiter=",", quoting=csv.QUOTE_NONNUMERIC, quotechar='"', fieldnames=fieldnames)
         writer.writeheader()
         for rownumber in deprows:
@@ -241,8 +242,8 @@ def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, proce
                 if type(row[key]) == list:
                     # convert lists to ;-separated strings
                     row[key] = "; ".join(row[key])
+            row = {k: v.strip().encode('utf-8') if type(v) in (str, unicode) else v for k, v in row.items()}
             writer.writerow(row)
-
     log.info("Done.")
 
 
