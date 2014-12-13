@@ -1,22 +1,28 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# built-in
 from hashlib import sha1
 import os
 import urllib
 import shutil
-from bs4 import BeautifulSoup
 import re
 from itertools import chain
 from datetime import datetime as dt
 from json import dumps
 import codecs
 import csv
-from replaces_depscrap import SHORTNAME_REPLACES
-import click
-from zenlog import log
+import logging
 import multiprocessing
 
+# third parties
+import click
+from bs4 import BeautifulSoup
+
+# internal
+from replaces_depscrap import SHORTNAME_REPLACES
+
+logger = logging.getLogger(__name__)
 
 fieldnames = ['id', 'shortname', 'name', 'party', 'active', 'education', 'birthdate', 'occupation', 'current_jobs',
               'jobs', 'commissions', 'mandates', 'awards', 'url', 'scrape_date']
@@ -61,16 +67,16 @@ def file_put_contents(file, contents):
 
 def getpage(url):
     if not os.path.exists('cache'):
-        log.info('Creating new cache/ folder.')
+        logger.info('Creating new cache/ folder.')
         os.mkdir('cache')
     url_hash = hash(url)
     cache_file = 'cache/' + url_hash
 
     if os.path.exists(cache_file):
-        log.debug("Cache hit for %s" % url)
+        logger.debug("Cache hit for %s" % url)
         page = file_get_contents(cache_file)
     else:
-        log.debug("Cache miss for %s" % url)
+        logger.debug("Cache miss for %s" % url)
         page = urllib.urlopen(url).read()
         file_put_contents(cache_file, page)
     return page
@@ -95,12 +101,11 @@ def get_active_deps():
     # returns list of BIDs
     ids = []
     try:
-        log.info("Fetching active MP list...")
+        logger.info("Fetching active MP list...")
         deps_activos_list = getpage(URL_DEPS_ACTIVOS)
         soup = BeautifulSoup(deps_activos_list, "lxml")
     except:  # há muitos erros http ou parse que podem ocorrer
-        soup = None
-        log.warning('Active MP page could not be fetched.')
+        logger.warning('Active MP page could not be fetched.')
         raise
 
     table_deps = soup.find('table', 'ARTabResultados')
@@ -111,7 +116,7 @@ def get_active_deps():
         dep_bid = int(depurl[depurl.find('BID=') + 4:])
         ids.append(dep_bid)
 
-    log.info('Active MP list created.')
+    logger.info('Active MP list created.')
     return ids
 
 
@@ -124,7 +129,7 @@ def extract_multiline_details(block):
 
 
 def process_dep(i):
-    log.debug("Trying ID %d..." % i)
+    logger.debug("Trying ID %d..." % i)
 
     url = FORMATTER_URL_BIO_DEP % i
     soup = BeautifulSoup(getpage(url), "lxml")
@@ -201,12 +206,12 @@ def process_dep(i):
                     mandate['interest_url'] = url
                 deprow['mandates'].append(mandate)
 
-        log.info("Scraped MP: %s" % short.text)
+        logger.info("Scraped MP: %s" % short.text)
 
         return deprow
 
 
-def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, processes=2):
+def scrape(format, start=1, end=None, outfile='', indent=1, processes=2):
     pool = multiprocessing.Pool(processes=processes)
     max = end
     deprows = {}
@@ -226,7 +231,7 @@ def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, proce
         else:
             deprows[k]['active'] = False
 
-    log.info("Saving to file %s..." % outfile)
+    logger.info("Saving to file %s..." % outfile)
     if format == "json":
         depsfp = codecs.open(outfile, 'w+', 'utf-8')
         depsfp.write(dumps(deprows, encoding='utf-8', ensure_ascii=False, indent=indent, sort_keys=True))
@@ -244,7 +249,7 @@ def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, proce
                     row[key] = "; ".join(row[key])
             row = {k: v.strip().encode('utf-8') if type(v) in (str, unicode) else v for k, v in row.items()}
             writer.writerow(row)
-    log.info("Done.")
+    logger.info("Done.")
 
 
 @click.command()
@@ -257,15 +262,22 @@ def scrape(format, start=1, end=None, verbose=False, outfile='', indent=1, proce
 @click.option("-p", "--processes", type=int, help="Simultaneous processes to run (default is 2)", default=2)
 @click.option("-c", "--clear-cache", help="Clean the local webpage cache", is_flag=True)
 def main(format, start, end, verbose, outfile, indent, clear_cache, processes):
+    if verbose:
+        import sys
+        root = logging.getLogger()
+        ch = logging.StreamHandler(sys.stdout)
+        ch.setLevel(logging.INFO)
+        root.setLevel(logging.INFO)
+        root.addHandler(ch)
     if not outfile and format == "csv":
         outfile = "deputados.csv"
     elif not outfile and format == "json":
         outfile = "deputados.json"
     if clear_cache:
-        log.info("Clearing old cache...")
+        logger.info("Clearing old cache...")
         shutil.rmtree("cache/")
 
-    scrape(format, start, end, verbose, outfile, indent, processes)
+    scrape(format, start, end, outfile, indent, processes)
 
 if __name__ == "__main__":
     main()
