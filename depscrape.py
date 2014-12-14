@@ -10,7 +10,7 @@ import re
 from itertools import chain
 from datetime import datetime as dt
 from json import dumps
-import codecs
+import io
 import csv
 import logging
 import multiprocessing
@@ -58,11 +58,11 @@ def hash(str):
 
 
 def file_get_contents(file):
-    return open(file).read()
+    return io.open(file, 'br').read()
 
 
 def file_put_contents(file, contents):
-    codecs.open(file, 'w+', 'utf-8').write(contents)
+    io.open(file, 'bw').write(contents)
 
 
 def getpage(url):
@@ -233,7 +233,7 @@ def scrape(format, start=1, end=None, outfile='', indent=1, processes=2):
 
     logger.info("Saving to file %s..." % outfile)
     if format == "json":
-        depsfp = codecs.open(outfile, 'w+', 'utf-8')
+        depsfp = io.open(outfile, 'w+')
         depsfp.write(dumps(deprows, encoding='utf-8', ensure_ascii=False, indent=indent, sort_keys=True))
         depsfp.close()
     elif format == "csv":
