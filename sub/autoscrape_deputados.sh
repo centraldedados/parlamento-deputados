@@ -1,17 +1,20 @@
 #!/bin/sh
 
-# bot para scrape e push dos deputados
+# This script
+# 1. automatically scraps parlamento's website data
+# 2. commits and pushes the data to a github repository
 
-DATAPKG_REPO_URL="git@github.com:centraldedados/parlamento-deputados.git"
-SCRAPER_REPO_URL="git@github.com:transparenciahackday/scraper-deputados.git"
-SCRAPER_SCRIPT="depscrap -f csv -v -p 1 -o ../deputados.csv"
+DATAPKG_REPO_URL="git@github.com:publicos_pt/parlamento-deputados.git"
+SCRAPER_REPO_URL="git@github.com:publicos_pt/scraper-deputados.git"
 
 SCRAPER_DIR="scraper-deputados"
 DATAPKG_DIR="datapkg-deputados"
 OUTFILENAME="deputados.csv"
-COMMIT_MSG="Auto update"
+COMMIT_MSG="Automatically updated the list of deputies via scraper."
 
-# site está online?
+git pull origin master --force
+cd ..
+# is the website online?
 wget -q --tries=10 --timeout=20 --spider http://www.parlamento.pt
 if [ $? -eq 0 ]; then
         echo "Online"
@@ -19,21 +22,18 @@ else
         echo "Offline"
 fi
 
-if [ ! -d "$SCRAPER_DIR" ]; then
+if [ ! -d "$DATAPKG_REPO_URL" ]; then
     # clonar repos
-    git clone $SCRAPER_REPO_URL $SCRAPER_DIR --quiet
     git clone $DATAPKG_REPO_URL $DATAPKG_DIR --quiet
 else
     # pull
-    cd $SCRAPER_DIR; git pull --quiet; cd ..
     cd $DATAPKG_DIR; git pull --quiet; cd ..
 fi
 
+# run the script
+cd $SCRAPER_DIR
+python -m depscrape -f csv -v -p 1 --end 5000 -o ../$OUTFILENAME
+cd ..
 
-# commit e push se os ficheiros forem diferentes
-# src: http://stackoverflow.com/questions/12900538/unix-fastest-way-to-tell-if-two-files-are-the-same
-cd $SCRAPER_DIR && ./$SCRAPER_SCRIPT && cd .. && \
-cmp --silent $OUTFILENAME $DATAPKG_DIR/data/$OUTFILENAME || \
-  cp $OUTFILENAME $DATAPKG_DIR/data -f && \
-  cd $DATAPKG_DIR && git commit -am "$COMMIT_MSG" && git push && \
-  cd ..
+# if there is no difference, it will not commit anyway.
+cd $DATAPKG_DIR && git commit -am "$COMMIT_MSG" && git push
