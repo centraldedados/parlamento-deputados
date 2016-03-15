@@ -27,7 +27,7 @@ logger = logging.getLogger(__name__)
 fieldnames = ['id', 'shortname', 'name', 'party', 'active', 'education', 'birthdate', 'occupation', 'current_jobs',
               'jobs', 'commissions', 'mandates', 'awards', 'url', 'scrape_date']
 
-DEFAULT_MAX = 5000
+DEFAULT_MAX = 5700
 
 ROMAN_NUMERALS = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5,
                   'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10,
@@ -35,7 +35,7 @@ ROMAN_NUMERALS = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5,
                   'XVI': 16, 'XVII': 17, 'XVIII': 18, 'XIX': 19, 'XX': 20,
                   'XXI': 21, 'XXII': 22, 'XXIII': 23, 'XXIV': 24, 'XXV': 25}
 
-URL_DEPS_ACTIVOS = 'http://www.parlamento.pt/DeputadoGP/Paginas/Deputadoslista.aspx'
+URL_DEPS_ACTIVOS = 'http://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx'
 FORMATTER_URL_BIO_DEP = 'http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=%d'
 
 RE_NAME = re.compile('Nome.*Text')
@@ -62,7 +62,7 @@ def file_get_contents(file):
 
 
 def file_put_contents(file, contents):
-    codecs.open(file, 'w+', 'utf-8').write(contents)
+    open(file, 'w+').write(contents)
 
 
 def getpage(url):
