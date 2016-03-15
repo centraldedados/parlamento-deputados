@@ -61,11 +61,7 @@ def file_get_contents(file):
 
 
 def file_put_contents(file, contents):
-<<<<<<< HEAD
-    open(file, 'w+').write(contents)
-=======
     io.open(file, 'bw').write(contents)
->>>>>>> 8a119b3b6bfbd16bc9c63b11b7eb8dac3abdcfe5
 
 
 def getpage(url):
