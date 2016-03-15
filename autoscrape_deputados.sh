@@ -29,6 +29,7 @@ else
     cd $DATAPKG_DIR; git pull --quiet; cd ..
 fi
 
+# FIXME: csvsort
 
 # commit e push se os ficheiros forem diferentes
 # src: http://stackoverflow.com/questions/12900538/unix-fastest-way-to-tell-if-two-files-are-the-same
