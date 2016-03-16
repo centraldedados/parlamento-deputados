@@ -186,8 +186,8 @@ def process_dep(i):
                     'legislature': number,
                     'start_date': start,
                     'end_date': end,
-                    'constituency': leg[3].text,
-                    'party': leg[4].text
+                    'constituency': leg[4].text,
+                    'party': leg[5].text
                 }
 
                 if leg[1].find("a"):
