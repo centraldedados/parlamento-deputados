@@ -144,6 +144,7 @@ def process_dep(i):
         awards = soup.find('div', id=RE_AWARDS)
         coms = soup.find('div', id=RE_COMS)
         mandates = soup.find('table', id=RE_MANDATES)
+        image_src = soup.find('td', {'class': 'tdFotoBio'}).img['src']
 
         deprow = {'id': i,
                   'name': name.text,
@@ -203,6 +204,8 @@ def process_dep(i):
                         url = "http://www.parlamento.pt" + url
                     mandate['interest_url'] = url
                 deprow['mandates'].append(mandate)
+        if image_src:
+            deprow['image'] = image_src
 
         logger.info("Scraped MP: %s" % short.text)
 
