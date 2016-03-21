@@ -24,7 +24,7 @@ from replaces_depscrap import SHORTNAME_REPLACES
 logger = logging.getLogger(__name__)
 
 FIELDNAMES = ['id', 'shortname', 'name', 'party', 'active', 'education', 'birthdate', 'occupation', 'current_jobs',
-              'jobs', 'commissions', 'mandates', 'awards', 'url']
+              'jobs', 'commissions', 'mandates', 'awards', 'url', 'image_url']
 
 DEFAULT_MAX = 5700
 
@@ -205,7 +205,7 @@ def process_dep(i):
                     mandate['interest_url'] = url
                 deprow['mandates'].append(mandate)
         if image_src:
-            deprow['image'] = image_src
+            deprow['image_url'] = image_src
 
         logger.info("Scraped MP: %s" % short.text)
 
