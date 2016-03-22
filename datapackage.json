@@ -81,10 +81,11 @@
             "description": "URL do parlamento.pt"
           },
           {
-            "name": "scrape_date",
-            "type": "datetime",
-            "description": "Hora do scraping"
+            "name": "image_url",
+            "type": "string",
+            "description": "URL da foto"
           }
+
         ]
       }
     }
