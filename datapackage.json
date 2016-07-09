@@ -1,7 +1,7 @@
 {
   "name": "parlamento-deputados",
   "title": "Deputados do Parlamento",
-  "homepage": "http://centraldedados.pt/parlamento-deputados.html",
+  "homepage": "https://github.com/centraldedados/parlamento-deputados/",
   "version": "0.9.0",
   "license": "ODbL",
   "description": "Lista de Deputados da Assembleia da República",
