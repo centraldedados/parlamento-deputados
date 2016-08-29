@@ -16,7 +16,7 @@ import click
 from bs4 import BeautifulSoup
 
 # internal
-from replaces_depscrap import SHORTNAME_REPLACES
+from replaces import SHORTNAME_REPLACES
 from utils import getpage, load_csv
 
 logger = logging.getLogger(__name__)
