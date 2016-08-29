@@ -20,6 +20,7 @@ from bs4 import BeautifulSoup
 
 # internal
 from replaces_depscrap import SHORTNAME_REPLACES
+from utils import getpage, load_csv
 
 logger = logging.getLogger(__name__)
 
@@ -127,6 +128,11 @@ def extract_multiline_details(block):
     return [item.strip(" ;,") for item in chain.from_iterable(tr.text.split('\n') for tr in block.find_all('tr')[1:]) if item]
 
 
+def process_old_deps():
+    data = load_csv('deputados-antigos.csv', keys=('leg', 'constituency_code', 'constituency', 'party', 'name', 'date_start', 'date_end'), header=True)
+    return data
+
+
 def process_dep(i):
     logger.debug("Trying ID %d..." % i)
 
@@ -213,6 +219,8 @@ def process_dep(i):
 
 
 def scrape(format, start=1, end=None, outfile='', indent=1, processes=2):
+    process_old_deps()
+
     pool = multiprocessing.Pool(processes=processes)
     max = end
     deprows = {}
