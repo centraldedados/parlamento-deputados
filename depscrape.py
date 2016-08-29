@@ -2,9 +2,6 @@
 # -*- coding: utf-8 -*-
 
 # built-in
-from hashlib import sha1
-import os
-import urllib
 import shutil
 import re
 from itertools import chain
@@ -51,37 +48,6 @@ RE_COMS = re.compile('Comissoes')
 RE_MANDATES = re.compile('TabLegs')
 
 
-def hash(str):
-    hash = sha1()
-    hash.update(str)
-    return hash.hexdigest()
-
-
-def file_get_contents(file):
-    return io.open(file, 'br').read()
-
-
-def file_put_contents(file, contents):
-    io.open(file, 'bw').write(contents)
-
-
-def getpage(url):
-    if not os.path.exists('cache'):
-        logger.info('Creating new cache/ folder.')
-        os.mkdir('cache')
-    url_hash = hash(url)
-    cache_file = 'cache/' + url_hash
-
-    if os.path.exists(cache_file):
-        logger.debug("Cache hit for %s" % url)
-        page = file_get_contents(cache_file)
-    else:
-        logger.debug("Cache miss for %s" % url)
-        page = urllib.urlopen(url).read()
-        file_put_contents(cache_file, page)
-    return page
-
-
 def parse_legislature(s):
     s = s.replace('&nbsp;', '')
     number, dates = s.split('[')
@@ -102,8 +68,8 @@ def get_active_mps():
     ids = []
     try:
         logger.info("Fetching active MP list...")
-        deps_activos_list = getpage(ACTIVE_MP_URL)
-        soup = BeautifulSoup(deps_activos_list, "lxml")
+        active_mp_list = getpage(ACTIVE_MP_URL)
+        soup = BeautifulSoup(active_mp_list, "lxml")
     except:  # há muitos erros http ou parse que podem ocorrer
         logger.warning('Active MP page could not be fetched.')
         raise
@@ -126,12 +92,6 @@ def extract_details(block):
 
 def extract_multiline_details(block):
     return [item.strip(" ;,") for item in chain.from_iterable(tr.text.split('\n') for tr in block.find_all('tr')[1:]) if item]
-
-
-def process_old_mps():
-    csvkeys = ('leg', 'constituency_code', 'constituency', 'party', 'name', 'date_start', 'date_end')
-    data = load_csv('deputados-antigos.csv', keys=csvkeys, header=True)
-    return data
 
 
 def process_mp(i):
@@ -220,7 +180,10 @@ def process_mp(i):
 
 
 def scrape(format, start=1, end=None, outfile='', indent=1, processes=2):
-    process_old_mps()
+    # Start with including the old MP list (those not on Parlamento.pt)
+    csvkeys = ('leg', 'constituency_code', 'constituency', 'party', 'name', 'date_start', 'date_end')
+    data = load_csv('deputados-antigos.csv', keys=csvkeys, header=True)
+    return data
 
     pool = multiprocessing.Pool(processes=processes)
     max = end
