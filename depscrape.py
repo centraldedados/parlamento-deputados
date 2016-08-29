@@ -35,8 +35,8 @@ ROMAN_NUMERALS = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5,
                   'XVI': 16, 'XVII': 17, 'XVIII': 18, 'XIX': 19, 'XX': 20,
                   'XXI': 21, 'XXII': 22, 'XXIII': 23, 'XXIV': 24, 'XXV': 25}
 
-URL_DEPS_ACTIVOS = 'http://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx'
-FORMATTER_URL_BIO_DEP = 'http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=%d'
+ACTIVE_MP_URL = 'http://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx'
+MP_BIO_URL_FORMATTER = 'http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=%d'
 
 RE_NAME = re.compile('Nome.*Text')
 RE_SHORT = re.compile('NomeDeputado')
@@ -97,24 +97,24 @@ def parse_legislature(s):
     return number, start, end
 
 
-def get_active_deps():
+def get_active_mps():
     # returns list of BIDs
     ids = []
     try:
         logger.info("Fetching active MP list...")
-        deps_activos_list = getpage(URL_DEPS_ACTIVOS)
+        deps_activos_list = getpage(ACTIVE_MP_URL)
         soup = BeautifulSoup(deps_activos_list, "lxml")
     except:  # há muitos erros http ou parse que podem ocorrer
         logger.warning('Active MP page could not be fetched.')
         raise
 
-    table_deps = soup.find('table', 'ARTabResultados')
-    deps = table_deps.findAll('tr', 'ARTabResultadosLinhaPar')
-    deps += table_deps.findAll('tr', 'ARTabResultadosLinhaImpar')
-    for dep in deps:
-        depurl = dep.td.a['href']
-        dep_bid = int(depurl[depurl.find('BID=') + 4:])
-        ids.append(dep_bid)
+    table_mps = soup.find('table', 'ARTabResultados')
+    mps = table_mps.findAll('tr', 'ARTabResultadosLinhaPar')
+    mps += table_mps.findAll('tr', 'ARTabResultadosLinhaImpar')
+    for mp in mps:
+        mpurl = mp.td.a['href']
+        mp_bid = int(mpurl[mpurl.find('BID=') + 4:])
+        ids.append(mp_bid)
 
     logger.info('Active MP list created.')
     return ids
@@ -128,15 +128,16 @@ def extract_multiline_details(block):
     return [item.strip(" ;,") for item in chain.from_iterable(tr.text.split('\n') for tr in block.find_all('tr')[1:]) if item]
 
 
-def process_old_deps():
-    data = load_csv('deputados-antigos.csv', keys=('leg', 'constituency_code', 'constituency', 'party', 'name', 'date_start', 'date_end'), header=True)
+def process_old_mps():
+    csvkeys = ('leg', 'constituency_code', 'constituency', 'party', 'name', 'date_start', 'date_end')
+    data = load_csv('deputados-antigos.csv', keys=csvkeys, header=True)
     return data
 
 
-def process_dep(i):
+def process_mp(i):
     logger.debug("Trying ID %d..." % i)
 
-    url = FORMATTER_URL_BIO_DEP % i
+    url = MP_BIO_URL_FORMATTER % i
     soup = BeautifulSoup(getpage(url), "lxml")
     name = soup.find('span', id=RE_NAME)
     if name:
@@ -152,9 +153,9 @@ def process_dep(i):
         mandates = soup.find('table', id=RE_MANDATES)
         image_src = soup.find('td', {'class': 'tdFotoBio'}).img['src']
 
-        deprow = {'id': i,
-                  'name': name.text,
-                  'url': url}
+        mprow = {'id': i,
+                 'name': name.text,
+                 'url': url}
 
         if short:
             # replace by canonical shortnames if appropriate
@@ -162,27 +163,27 @@ def process_dep(i):
                 t = SHORTNAME_REPLACES[short.text]
             else:
                 t = short.text
-            deprow['shortname'] = t
+            mprow['shortname'] = t
         if birthdate:
-            deprow['birthdate'] = birthdate.text
+            mprow['birthdate'] = birthdate.text
         if party:
-            deprow['party'] = party.text
+            mprow['party'] = party.text
         if education:
             # TODO: break educations string into multiple entries, ';' is the separator
-            deprow['education'] = extract_details(education)
+            mprow['education'] = extract_details(education)
         if occupation:
-            deprow['occupation'] = extract_details(occupation)
+            mprow['occupation'] = extract_details(occupation)
         if jobs:
-            deprow['jobs'] = extract_multiline_details(jobs)
+            mprow['jobs'] = extract_multiline_details(jobs)
         if current_jobs:
-            deprow['current_jobs'] = extract_multiline_details(current_jobs)
+            mprow['current_jobs'] = extract_multiline_details(current_jobs)
         if coms:
-            deprow['commissions'] = extract_details(coms)
+            mprow['commissions'] = extract_details(coms)
         if awards:
-            deprow['awards'] = extract_multiline_details(awards)
+            mprow['awards'] = extract_multiline_details(awards)
         if mandates:
             # TODO: this block may take advantage of the new functions
-            deprow['mandates'] = []
+            mprow['mandates'] = []
             for each in mandates.findAll('tr')[1:]:
                 leg = each.findAll('td')
                 l = leg[0].text
@@ -209,48 +210,48 @@ def process_dep(i):
                     if not url.startswith("http://"):
                         url = "http://www.parlamento.pt" + url
                     mandate['interest_url'] = url
-                deprow['mandates'].append(mandate)
+                mprow['mandates'].append(mandate)
         if image_src:
-            deprow['image_url'] = image_src
+            mprow['image_url'] = image_src
 
         logger.info("Scraped MP: %s" % short.text)
 
-        return deprow
+        return mprow
 
 
 def scrape(format, start=1, end=None, outfile='', indent=1, processes=2):
-    process_old_deps()
+    process_old_mps()
 
     pool = multiprocessing.Pool(processes=processes)
     max = end
-    deprows = {}
-    active_ids = get_active_deps()
+    mprows = {}
+    active_ids = get_active_mps()
 
     try:
-        processed_deps = (proced_dep for proced_dep in pool.map(process_dep, range(start, max), chunksize=4) if proced_dep)
+        processed_mps = (processed_mp for processed_mp in pool.map(process_mp, range(start, max), chunksize=4) if processed_mp)
     except KeyboardInterrupt:
         pool.terminate()
 
-    for processed_dep in processed_deps:
-        deprows[processed_dep['id']] = processed_dep
+    for processed_mp in processed_mps:
+        mprows[processed_mp['id']] = processed_mp
 
-    for k in deprows.keys():
-        if deprows[k]['id'] in active_ids:
-            deprows[k]['active'] = True
+    for k in mprows.keys():
+        if mprows[k]['id'] in active_ids:
+            mprows[k]['active'] = True
         else:
-            deprows[k]['active'] = False
+            mprows[k]['active'] = False
 
     logger.info("Saving to file %s..." % outfile)
     if format == "json":
         depsfp = io.open(outfile, 'w+')
-        depsfp.write(dumps(deprows, encoding='utf-8', ensure_ascii=False, indent=indent, sort_keys=True))
+        depsfp.write(dumps(mprows, encoding='utf-8', ensure_ascii=False, indent=indent, sort_keys=True))
         depsfp.close()
     elif format == "csv":
         depsfp = open(outfile, 'w+')
         writer = csv.DictWriter(depsfp, delimiter=",", quoting=csv.QUOTE_NONNUMERIC, quotechar='"', fieldnames=FIELDNAMES)
         writer.writeheader()
-        for rownumber in deprows:
-            row = deprows[rownumber]
+        for rownumber in mprows:
+            row = mprows[rownumber]
             row.pop("mandates")
             for key in row:
                 if type(row[key]) == list:
