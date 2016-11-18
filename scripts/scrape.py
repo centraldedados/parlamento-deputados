@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# built-in
 import shutil
 import re
 from itertools import chain
@@ -10,14 +9,9 @@ import io
 import csv
 import logging
 import multiprocessing
-
-# third parties
 import click
 from bs4 import BeautifulSoup
-
-# internal
-from replaces import SHORTNAME_REPLACES
-from utils import getpage, load_csv
+from name_replaces import SHORTNAME_REPLACES
 
 logger = logging.getLogger(__name__)
 
@@ -181,9 +175,11 @@ def process_mp(i):
 
 def scrape(format, start=1, end=None, outfile='', indent=1, processes=2):
     # Start with including the old MP list (those not on Parlamento.pt)
-    csvkeys = ('leg', 'constituency_code', 'constituency', 'party', 'name', 'date_start', 'date_end')
-    data = load_csv('deputados-antigos.csv', keys=csvkeys, header=True)
-    return data
+    # TODO
+    # from utils import getpage, load_csv
+    # csvkeys = ('leg', 'constituency_code', 'constituency', 'party', 'name', 'date_start', 'date_end')
+    # data = load_csv('deputados-antigos.csv', keys=csvkeys, header=True)
+    # return data
 
     pool = multiprocessing.Pool(processes=processes)
     max = end
