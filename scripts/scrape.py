@@ -12,6 +12,7 @@ import multiprocessing
 import click
 from bs4 import BeautifulSoup
 from name_replaces import SHORTNAME_REPLACES
+from utils import getpage
 
 logger = logging.getLogger(__name__)
 
