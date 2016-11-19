@@ -36,7 +36,8 @@
     "birthdate": "1957-10-01", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
-      "Comissão de Trabalho e Segurança Social"
+      "Comissão de Trabalho e Segurança Social", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco"
     ], 
     "current_jobs": [
       "Deputado na XI Legislatura", 
@@ -3440,20 +3441,52 @@
   }, 
   "64": {
     "active": false, 
+    "awards": [
+      "Crachá de Ouro da Liga dos Bombeiros Portugueses"
+    ], 
     "birthdate": "1958-07-11", 
-    "commissions": [], 
+    "commissions": [
+      "Comissão de Agricultura e Mar [Suplente]", 
+      "Comissão de Saúde"
+    ], 
+    "current_jobs": [
+      "Presidente da Assembleia Municipal de Soure", 
+      "", 
+      "Presidente da Assembleia Geral da Associação Humanitária dos Bombeiros Voluntários do Concelho de Soure", 
+      "Presidente da Assembleia Geral da APPACDM de Soure", 
+      "Presidente da Assembleia Geral da Santa Casa da Misericórdia de Soure", 
+      "Presidente da Assembleia Geral da Associação Pra´Floresta do Concelho de Soure", 
+      "Presidente da Assembleia Distrital de Coimbra", 
+      "Presidente do Conselho Fiscal da Associação de Futebol de Coimbra", 
+      "Membro da Assembleia Intermunicipal da CIM Região de Coimbra", 
+      "Membro do Conselho-Geral da ANMP - Associação Nacional de Municípios Portugueses", 
+      "Presidente da Comissão Política Concelhia do PS de Soure", 
+      "Membro da Comissão Nacional do Partido Socialista"
+    ], 
     "education": [
-      "Licenciatura em ECONOMIA, Faculdade de Economia da Universidade de Coimbra", 
+      "Licenciatura em ECONOMIA pela Faculdade de Economia da Universidade de Coimbra", 
       "Pós Graduação em Fiscalidade de Empresas, Faculdade de Economia da Universidade de Coimbra"
     ], 
     "id": 64, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=64&type=deputado", 
     "jobs": [
-      "MEMBRO", 
-      "DEPUTADO", 
-      "TECNICO", 
-      "TECNICO", 
-      "GESTOR"
+      "Presidente da Câmara Municipal de Soure entre 1994 e 2013 (5 mandatos consecutivos)", 
+      "Deputado da Assembleia da República na VI Legislatura (1991/1995)", 
+      "Deputado ao Parlamento Europeu (15/10/2003 a 19/09/2004)", 
+      "Vereador da Câmara Municipal de Soure entre 1989 e 1993", 
+      "Deputado da Assembleia Municipal de Soure entre 1979 e 1989 (3 mandatos consecutivos)", 
+      "Presidente da Direcção de Terras de Sicó - Associação de Desenvolvimento e do Órgão de gestão PRODER", 
+      "Membro da Assembleia Intermunicipal da Associação de Municípios do Baixo Mondego e Gândara", 
+      "Vice-Presidente do Conselho Fiscal da ANMP - Associação Nacional de Municípios Portugueses", 
+      "Membro do Conselho Diretivo do Centro Regional de Segurança Social de Coimbra", 
+      "Presidente da Assembleia-Geral da Banda de Soure", 
+      "Presidente da Assembleia-Geral do Grupo Desportivo Sourense", 
+      "Presidente do Conselho Fiscal da Associação Cultural e de Melhoramentos da Freguesia de Tapeus", 
+      "Presidente do Conselho Fiscal do Grupo de Pauliteiros de Vila Nova de Anços", 
+      "Presidente da Assembleia-Geral da Federação Portuguesa de Remo", 
+      "Técnico Superior do Crédito Agrícola Mútuo, com funções de Direção Executiva", 
+      "Professor do Ensino Secundário", 
+      "Consultoria em economia e gestão"
     ], 
     "mandates": [
       {
@@ -5871,7 +5904,7 @@
         "start_date": "1991-11-04"
       }
     ], 
-    "name": "Maria de Lurdes Borges Povoa Pombo Costa", 
+    "name": "Maria de Lourdes Borges Povoa Pombo Costa", 
     "occupation": [
       "APOSENTADA"
     ], 
@@ -8745,7 +8778,7 @@
     "birthdate": "1949-10-28", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
-      "Comissão de Assuntos Europeus", 
+      "Comissão de Assuntos Europeus [Suplente]", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Presidente]", 
       "Subcomissão para a Igualdade e Não Discriminação [Suplente]"
     ], 
@@ -9741,7 +9774,7 @@
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
       "Comissão de Assuntos Europeus [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF)"
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]"
     ], 
     "current_jobs": [
       "Deputado à XIII Legislatura, Vice-Presidente da Assembleia da Republica", 
@@ -11834,7 +11867,7 @@
     "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=208"
   }, 
   "209": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Comenda da Ordem do Mérito Civil do Reino de Espanha"
     ], 
@@ -11842,11 +11875,13 @@
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Coordenador GP]", 
       "Comissão de Defesa Nacional [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Presidente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
       "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
-      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2015", 
       "Grupo de Trabalho - Audição de Peticionantes", 
-      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)"
+      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Petição nº 103/XIII/1ª - Despenalização da morte assistida", 
+      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2016", 
+      "Grupo de Trabalho - Iniciativas legislativas sobre Direitos dos Animais"
     ], 
     "current_jobs": [
       "Professor na Universidade Europeia", 
@@ -14508,7 +14543,8 @@
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Vice-Presidente]", 
       "Comissão de Saúde [Suplente]", 
-      "Comissão de Trabalho e Segurança Social [Suplente]"
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas"
     ], 
     "current_jobs": [
       "Deputado da Assembleia da República", 
@@ -17664,9 +17700,9 @@
     "active": false, 
     "birthdate": "1950-12-22", 
     "commissions": [
-      "Comissão de Defesa Nacional", 
       "Comissão de Agricultura e Mar [Presidente]", 
-      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]"
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais [Coordenador ]"
     ], 
     "education": [
       "Licenciatura em ENGENHEIRO DE RECURSOS FLORESTAIS"
@@ -18532,8 +18568,9 @@
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas"
     ], 
     "current_jobs": [
-      "Deputado na XII Legislatura", 
-      "Presidente do Grupo Parlamentar do Partido Socialista (2013-....)"
+      "Deputado na XIII Legislatura", 
+      "Membro do Conselho Superior de Segurança Interna", 
+      "Membro da Comissão de Assuntos Jurídicos e dos Direitos do Homem (Assembleia Parlamentar do Conselho da Europa)"
     ], 
     "education": [
       "Licenciatura em Direito"
@@ -18541,9 +18578,10 @@
     "id": 462, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=462&type=deputado", 
     "jobs": [
-      "Deputado à Assembleia da República na V, VI, VII, VIII, IX, X, XI e XII Legislatura", 
+      "Deputado à Assembleia da República na V, VI, VII, VIII, IX, X, XI, XII e XIII Legislatura", 
       "Presidente da Comissão Parlamentar de Assuntos Constitucionais, Direitos, Liberdades e Garantias (1995-1999)", 
-      "Presidente da Delegação Portuguesa à Assembleia Parlamentar do Conselho da Europa e da UEO e Vice-Presidente das respectivas Assembleias Parlamentares (VIII Legislatura)", 
+      "Presidente da Comissão Parlamentar Eventual criada para Estudar as Matérias Relativas às Questões de Ética e da Transparência das Instituições e dos Titulares de Cargos Políticos (1995)", 
+      "Vice-Presidente da Assembleia Parlamentar do Conselho da Europa e Vice-Presidente da Assembleia Parlamentar da União da Europa Ocidental (UEO) - (1997-1999)", 
       "Ministro da Reforma do Estado e da Administração Pública (XIV Governo Constitucional)", 
       "Presidente do Grupo Parlamentar do Partido Socialista (2005-2009)", 
       "Ministro da Justiça (XVIII Governo Constitucional)", 
@@ -18655,8 +18693,7 @@
     "birthdate": "1944-07-09", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
-      "Comissão de Trabalho e Segurança Social [Vice-Presidente]", 
-      "Grupo de Trabalho - Reposição das 35 Horas de Trabalho Semanal na Administração Pública [Coordenador ]"
+      "Comissão de Trabalho e Segurança Social [Vice-Presidente]"
     ], 
     "education": [
       "Frequência  de Ensino Secundário"
@@ -18675,7 +18712,7 @@
     ], 
     "name": "Wanda Olavo Correa D'azevedo Guimarães", 
     "occupation": [
-      "BANCARIA"
+      "BANCARIA REFORMADA"
     ], 
     "party": "PS", 
     "shortname": "Wanda Guimarães", 
@@ -18724,7 +18761,8 @@
     "birthdate": "1961-10-29", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
-      "Comissão de Educação e Ciência [Coordenador GP]"
+      "Comissão de Educação e Ciência [Coordenador GP]", 
+      "Grupo de Trabalho - Número de Alunos por Turma [Coordenador ]"
     ], 
     "education": [
       "Doutoramento em EPISTEMOLOGIA E FILOSOFIA DAS CIÊNCIAS"
@@ -19387,7 +19425,8 @@
     "commissions": [
       "Comissão de Agricultura e Mar", 
       "Comissão de Saúde [Suplente]", 
-      "Comissão de Trabalho e Segurança Social [Suplente]"
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais"
     ], 
     "education": [
       "Licenciatura em Gestão e Desenvolvimento de Recursos Humanos", 
@@ -21090,8 +21129,7 @@
     "active": false, 
     "birthdate": "1967-05-18", 
     "commissions": [
-      "Comissão de Defesa Nacional [Presidente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Suplente]"
+      "Comissão de Defesa Nacional [Presidente]"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura"
@@ -21188,7 +21226,8 @@
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
       "Comissão de Defesa Nacional [Coordenador GP]", 
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
-      "Comissão de Agricultura e Mar [Suplente]"
+      "Comissão de Agricultura e Mar [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura"
@@ -21405,7 +21444,8 @@
     "commissions": [
       "Comissão de Educação e Ciência [Suplente]", 
       "Comissão de Trabalho e Segurança Social [Suplente]", 
-      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Vice-Presidente]"
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Vice-Presidente]", 
+      "Grupo de Trabalho - Reorganização Territorial de Freguesias"
     ], 
     "current_jobs": [
       "Deputada à Assembleia República na XIII Legislatura"
@@ -21823,9 +21863,12 @@
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
       "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
       "Grupo de Trabalho - Registo de Interesses", 
-      "Grupo de Trabalho da PMA (PJL`s 6/XIII - PS, 29/XIII - PAN, 36/XIII - BE e 51/XIII - PEV)", 
-      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2015", 
       "Grupo de Trabalho - Audição de Peticionantes", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais", 
+      "Grupo de Trabalho - Petição nº 103/XIII/1ª - Despenalização da morte assistida", 
+      "Grupo de Trabalho - PJL Lei-Quadro das Entidades Reguladoras", 
+      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2016", 
+      "Grupo de Trabalho - Iniciativas legislativas sobre Direitos dos Animais", 
       "Subcomissão de Ética", 
       "Subcomissão para a Igualdade e Não Discriminação"
     ], 
@@ -21899,7 +21942,9 @@
     "commissions": [
       "Comissão de Agricultura e Mar [Coordenador GP]", 
       "Comissão de Saúde [Suplente]", 
-      "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)"
+      "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)", 
+      "Grupo de Trabalho - Setor Leiteiro", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais"
     ], 
     "education": [
       "Frequência  de Licenciatura em Engenharia Electrotécnica", 
@@ -22095,10 +22140,12 @@
       "Comissão de Agricultura e Mar [Suplente]", 
       "Comissão de Saúde [Suplente]", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
-      "Grupo de Trabalho - Apreciação dos PJL 976/XII/4.ª e 65/XIII/1.ª - Abate de Animais em Canis Municipais", 
       "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)", 
       "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades", 
-      "Grupo de Trabalho - Concessão de Audiências"
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais", 
+      "Grupo de Trabalho - Concessão de Audiências", 
+      "Grupo de Trabalho - Reorganização Territorial de Freguesias", 
+      "Grupo de Trabalho PJL sobre publicidade de produtos alimentares"
     ], 
     "current_jobs": [
       "Deputada na XIII Legislatura"
@@ -22191,7 +22238,9 @@
     "birthdate": "1957-03-06", 
     "commissions": [
       "Comissão de Agricultura e Mar", 
-      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Presidente]"
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Presidente]", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais", 
+      "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades"
     ], 
     "education": [
       "Mestrado em Geografia e Planeamento Regional", 
@@ -22428,10 +22477,7 @@
       "Comenda de Mérito Civil, atribuída pelo rei de Espanha, 2008"
     ], 
     "birthdate": "1971-04-24", 
-    "commissions": [
-      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
-      "Comissão de Assuntos Europeus [Suplente]"
-    ], 
+    "commissions": [], 
     "current_jobs": [
       "Deputado na XIII Legislatura; 1º Vice-Presidente da CPN do PSD; Presidente da Assembleia de Freguesia de Belém; Membro do High Level Group on Research, Innovation and Science Policy Expert (RISE) da Comissão Europeia; Professor Catedrático Convidado do ISCSP, Universidade de Lisboa."
     ], 
@@ -22751,6 +22797,8 @@
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
       "Comissão de Educação e Ciência [Suplente]", 
       "Comissão de Trabalho e Segurança Social", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Vice-Presidente]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco", 
       "Grupo de Trabalho da Educação Especial [Suplente]"
     ], 
     "current_jobs": [
@@ -22867,7 +22915,8 @@
     "birthdate": "1951-12-04", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Presidente]", 
-      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2015 [Coordenador ]"
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
+      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2016 [Coordenador ]"
     ], 
     "education": [
       "Doutoramento em Direito"
@@ -23359,10 +23408,12 @@
     "active": false, 
     "birthdate": "1974-05-29", 
     "commissions": [
-      "Comissão de Assuntos Europeus", 
+      "Comissão de Assuntos Europeus [Coordenador GP]", 
       "Comissão de Economia, Inovação e Obras Públicas [Coordenador GP]", 
       "Comissão de Trabalho e Segurança Social [Suplente]", 
-      "Grupo de Trabalho - Indústria"
+      "Grupo de Trabalho - Indústria", 
+      "Grupo de Trabalho PJL sobre publicidade de produtos alimentares", 
+      "Grupo de Trabalho - PJL Lei-Quadro das Entidades Reguladoras"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura"
@@ -25112,8 +25163,7 @@
     "birthdate": "1973-01-14", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
-      "Comissão de Assuntos Europeus [Suplente]", 
-      "Comissão de Educação e Ciência [Suplente]"
+      "Comissão de Assuntos Europeus [Suplente]"
     ], 
     "current_jobs": [
       "Deputada na XIII Legislatura"
@@ -25465,7 +25515,7 @@
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Vice-Presidente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Coordenador GP]", 
       "Subcomissão de Ética [Presidente]"
     ], 
     "current_jobs": [
@@ -26696,12 +26746,16 @@
     "active": true, 
     "birthdate": "1961-04-16", 
     "commissions": [
+      "Comissão de Defesa Nacional [Suplente]", 
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
       "Comissão de Saúde [Suplente]", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Coordenador GP]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
       "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades", 
+      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)", 
       "Grupo de Trabalho - Concessão de Audiências", 
-      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)"
+      "Grupo de Trabalho - Regime de Classificação e Proteção de Lojas e Entidades com Interesses Histórico e Cultural (PJL n.º 155/XIII/1.ª - PS)", 
+      "Grupo de Trabalho - Reorganização Territorial de Freguesias"
     ], 
     "current_jobs": [
       "Presidente da Comissão Política Distrital do Porto do CDS/PP", 
@@ -28701,11 +28755,10 @@
       "Grupo de Trabalho - Concessão de Audiências"
     ], 
     "current_jobs": [
-      "Presidente da Federação Distrital do PS de Viana do Castelo", 
       "Deputado à Assembleia da República na XIII Legislatura"
     ], 
     "education": [
-      "Licenciatura em Engenharia Química Bac."
+      "Bac. Engenharia Química"
     ], 
     "id": 1432, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1432&type=deputado", 
@@ -28713,7 +28766,8 @@
       "Presidente da Câmara Municipal de Vila Nova de Cerveira (durante 24 anos)", 
       "Presidente da Fundação da Bienal de Arte de Cerveira", 
       "Administrador de Empreendimentos Eólicos Cerveirenses,SA", 
-      "Vogal do Executivo da Região de Turismo do Alto Minho"
+      "Vogal do Executivo da Região de Turismo do Alto Minho", 
+      "Presidente da Federação Distrital do PS de Viana do Castelo"
     ], 
     "mandates": [
       {
@@ -29102,7 +29156,6 @@
       "Comissão de Defesa Nacional [Suplente]", 
       "Comissão de Economia, Inovação e Obras Públicas [Presidente]", 
       "Comissão de Agricultura e Mar [Suplente]", 
-      "Grupo de Trabalho - PJL Transportes Urbanos de Lisboa e Porto", 
       "Grupo de Trabalho - Turismo"
     ], 
     "current_jobs": [
@@ -30816,7 +30869,7 @@
     "active": true, 
     "birthdate": "1953-10-27", 
     "commissions": [
-      "Comissão de Assuntos Europeus [Suplente]", 
+      "Comissão de Assuntos Europeus", 
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto", 
       "Grupo de Trabalho Desporto", 
@@ -30992,9 +31045,9 @@
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Coordenador GP]", 
       "Comissão de Defesa Nacional [Suplente]", 
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Vice-Presidente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
       "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
-      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2015"
+      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2016"
     ], 
     "current_jobs": [
       "Membro do Conselho de Acompanhamento dos Julgados de Paz (Declaração da Assembleia da República nº 3/2010 - DR, 1ª série, nº 27, de 09 de Fevereiro de 2010)", 
@@ -31854,7 +31907,8 @@
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
       "Comissão de Saúde [Vice-Presidente]", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
-      "Grupo de Trabalho da PMA (PJL`s 6/XIII - PS, 29/XIII - PAN, 36/XIII - BE e 51/XIII - PEV)"
+      "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes", 
+      "Grupo de Trabalho - Petição nº 103/XIII/1ª - Despenalização da morte assistida"
     ], 
     "current_jobs": [
       "Deputada na XIII Legislatura, eleita pelo Circulo Eleitoral de Guarda", 
@@ -31954,10 +32008,12 @@
     "active": false, 
     "birthdate": "1962-01-18", 
     "commissions": [
-      "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
+      "Comissão de Economia, Inovação e Obras Públicas", 
       "Comissão de Saúde", 
       "Comissão de Trabalho e Segurança Social [Suplente]", 
-      "Grupo de Trabalho da PMA (PJL`s 6/XIII - PS, 29/XIII - PAN, 36/XIII - BE e 51/XIII - PEV) [Coordenador ]"
+      "Grupo de Trabalho para o Acompanhamento das Doenças Oncológicas", 
+      "Grupo de Trabalho PJL sobre publicidade de produtos alimentares", 
+      "Grupo de Trabalho - PJL Lei-Quadro das Entidades Reguladoras"
     ], 
     "current_jobs": [
       "Coordenadora na Fundação ADFP"
@@ -31996,14 +32052,22 @@
   "1600": {
     "active": false, 
     "birthdate": "1975-07-17", 
-    "commissions": [], 
+    "commissions": [
+      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
+      "Comissão de Orçamento, Finanças e Modernização Administrativa", 
+      "Comissão de Agricultura e Mar [Suplente]", 
+      "Grupo de Trabalho - IVA nas terapeuticas não convencionais (PJL`s 289, 293 e 301/XIII/1.ª)"
+    ], 
+    "current_jobs": [
+      "Deputado XIII Legislatura"
+    ], 
     "education": [
       "1º Ciclo", 
       "2º Ciclo", 
       "3º Ciclo", 
       "Ensino Secundário", 
       "Licenciatura em Economia", 
-      "Frequência  de Mestrado em Corporate Finance"
+      "Frequência  de Mestrado em Finanças"
     ], 
     "id": 1600, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1600&type=deputado", 
@@ -32013,6 +32077,14 @@
       "Secretária Geral da JS entre 2000 e 2004"
     ], 
     "mandates": [
+      {
+        "constituency": "Faro", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=1600&lg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }, 
       {
         "constituency": "Faro", 
         "end_date": "2011-06-19", 
@@ -32290,7 +32362,9 @@
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
       "Comissão de Agricultura e Mar", 
-      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação"
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais"
     ], 
     "current_jobs": [
       "Presidente da Liga de Amigos do Hospital da Guarda"
@@ -32623,7 +32697,8 @@
     "birthdate": "1955-01-17", 
     "commissions": [
       "Comissão de Saúde", 
-      "Comissão de Trabalho e Segurança Social [Suplente]"
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites"
     ], 
     "education": [
       "Licenciatura em Medicina"
@@ -33346,8 +33421,9 @@
     "birthdate": "1963-05-08", 
     "commissions": [
       "Comissão de Defesa Nacional", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Presidente]", 
       "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS [Presidente]", 
-      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2015"
+      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2016"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura. Vice-Presidente da Assembleia da República. Advogado na CMS/RPA. Professor da Universidade Lusíada de Lisboa. Vice-Presidente da Comissão Política nacional do PSD."
@@ -33642,15 +33718,16 @@
       "Comissão de Assuntos Europeus [Suplente]"
     ], 
     "current_jobs": [
-      "Deputado na XII Legislatura", 
+      "Deputado na XIII Legislatura", 
       "Membro Efectivo do Conselho de Administração da Assembleia da República", 
-      "Vogal do Conselho Nacional do CDS-PP", 
       "Consultor da NOVABASE, SA", 
       "Presidente do Grupo Parlamentar de Amizade Portugal-Israel", 
       "Vice-Presidente do Grupo Parlamentar de Amizade Portugal-Brasil", 
       "Vice-Presidente da Direcção da Comissão Portuguesa do Atlântico", 
       "Membro da Delegação Portuguesa á Assembleia Parlamentar da NATO", 
-      "Membro da Direcção da Câmara de Comércio Portugal-Israel"
+      "Membro da Direcção da Câmara de Comércio Portugal-Israel", 
+      "vogal da Comissão Executiva do CDS-PP", 
+      "Membro do Grupo Parlamentar de Amizade Portugal-Guiné Bissau"
     ], 
     "education": [
       "1º Ciclo", 
@@ -33662,7 +33739,7 @@
     "id": 1654, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1654&type=deputado", 
     "jobs": [
-      "Deputado na X Legislatura;Deputado XI Legislatura", 
+      "Deputado na X Legislatura;Deputado XI Legislatura; Deputado XII Legislatura", 
       "Deputado na IX Legislatura", 
       "Deputado na VIII Legislatura", 
       "Membro do Conselho de Administração da AR", 
@@ -33745,8 +33822,8 @@
     "birthdate": "1960-02-04", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Coordenador GP;Vice-Presidente]", 
-      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
-      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2015"
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
+      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2016"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura", 
@@ -33848,20 +33925,21 @@
     "birthdate": "1968-05-31", 
     "commissions": [
       "Comissão de Defesa Nacional", 
+      "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
       "Comissão de Trabalho e Segurança Social", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
-      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Suplente]", 
-      "Grupo de Trabalho - Audiências", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Vice-Presidente]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]", 
       "Grupo de Trabalho - Registo de Interesses", 
       "Subcomissão de Ética"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura", 
-      "Secretário Geral do CDS-PP"
+      "Presidente do Conselho Nacional de Jurisdição do CDS-PP"
     ], 
     "education": [
-      "Licenciatura em Direito"
+      "Licenciatura em Direito", 
+      "Frequência  de Mestrado em Ciência Política"
     ], 
     "id": 1656, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1656&type=deputado", 
@@ -33869,10 +33947,11 @@
       "Deputado na X Legislatura", 
       "Vereador da Câmara Municipal de Lisboa", 
       "Presidente do Conselho de Administração da EMEL,EM", 
+      "Secretário-Geral do CDS-PP", 
       "Vogal da Comissão Executiva e da Comissão Política Nacional do CDS-PP", 
-      "Presidente do Conselho Nacional de Jurisdicção do CDS-PP", 
+      "Presidente do Conselho Nacional de Jurisdição do CDS-PP", 
       "Presidente da Comissão Política Distrital de Lisboa, Vogal, Vice-Presidente e Presidente da Comissão Política Concelhia de Lisboa do CDS-PP", 
-      "Docente da Universidade Moderna"
+      "Docente da Universidade Moderna."
     ], 
     "mandates": [
       {
@@ -33910,12 +33989,12 @@
       "Comissão de Assuntos Europeus [Suplente]", 
       "Comissão de Orçamento, Finanças e Modernização Administrativa", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Coordenador GP]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Coordenador GP]", 
       "Grupo de Trabalho Desporto", 
       "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)"
     ], 
     "current_jobs": [
-      "Vice-Presidente do CDS-PP", 
+      "Porta-Voz do CDS-PP", 
       "Vogal do Conselho Directivo do IDL - Instituto Amaro da Costa", 
       "Membro do Conselho Geral do Clube de Futebol \"os Belenenses\"."
     ], 
@@ -35958,8 +36037,9 @@
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas [Coordenador GP]", 
       "Comissão de Agricultura e Mar [Suplente]", 
-      "Grupo de Trabalho - PJL Transportes Urbanos de Lisboa e Porto", 
-      "Grupo de Trabalho - Indústria"
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]", 
+      "Grupo de Trabalho - Indústria", 
+      "Grupo de Trabalho - PJL Lei-Quadro das Entidades Reguladoras"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura", 
@@ -36362,8 +36442,9 @@
     "active": false, 
     "birthdate": "1970-04-16", 
     "commissions": [
-      "Comissão de Defesa Nacional [Suplente]", 
-      "Comissão de Agricultura e Mar"
+      "Comissão de Defesa Nacional", 
+      "Comissão de Agricultura e Mar", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais"
     ], 
     "current_jobs": [
       "Secretário-Geral Adjunto do PSD", 
@@ -36425,11 +36506,7 @@
   "1735": {
     "active": false, 
     "birthdate": "1974-08-18", 
-    "commissions": [
-      "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
-      "Comissão de Economia, Inovação e Obras Públicas", 
-      "Comissão de Agricultura e Mar [Suplente]"
-    ], 
+    "commissions": [], 
     "education": [
       "Licenciatura em GESTÃO"
     ], 
@@ -36507,7 +36584,8 @@
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
       "Comissão de Educação e Ciência", 
-      "Comissão de Trabalho e Segurança Social [Suplente]"
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Grupo de Trabalho - Número de Alunos por Turma"
     ], 
     "current_jobs": [
       "Membro da Assembleia Municipal de Viseu", 
@@ -36775,11 +36853,10 @@
     "birthdate": "1954-02-04", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
-      "Comissão de Agricultura e Mar [Vice-Presidente]"
+      "Comissão de Agricultura e Mar [Vice-Presidente]", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais"
     ], 
     "current_jobs": [
-      "Presidente da Comissão Política Distrital de Aveiro do PSD", 
-      "Presidente da Federação de Andebol de Portugal", 
       "Auditor Interno da IHF (International Handball Federation)"
     ], 
     "education": [
@@ -37076,7 +37153,9 @@
   "1814": {
     "active": false, 
     "birthdate": "1949-08-29", 
-    "commissions": [], 
+    "commissions": [
+      "Comissão de Defesa Nacional"
+    ], 
     "current_jobs": [
       "Deputado na XIII Legislatura", 
       "Presidente da Delegação da Assembleia da República à Assembleia Parlamentar da OSCE"
@@ -38606,8 +38685,9 @@
     "active": false, 
     "birthdate": "1959-07-21", 
     "commissions": [
-      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
-      "Comissão de Defesa Nacional"
+      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
+      "Comissão de Defesa Nacional [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]"
     ], 
     "current_jobs": [
       "Membro da Comissão Parlamentar de Defesa Nacional", 
@@ -38843,7 +38923,8 @@
     "birthdate": "1955-11-29", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
-      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]"
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Presidente]"
     ], 
     "current_jobs": [
       "Deputado na XII Legislatura"
@@ -39229,7 +39310,7 @@
     "commissions": [
       "Comissão de Saúde", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Coordenador GP]", 
-      "Grupo de Trabalho da PMA (PJL`s 6/XIII - PS, 29/XIII - PAN, 36/XIII - BE e 51/XIII - PEV)"
+      "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes"
     ], 
     "current_jobs": [
       "Deputada na XII Legislatura", 
@@ -39764,7 +39845,11 @@
       "Comissão de Educação e Ciência", 
       "Comissão de Saúde [Suplente]", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco", 
       "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação [Coordenador ]", 
+      "Grupo de Trabalho - Reorganização Territorial de Freguesias", 
+      "Subcomissão de Ética [Suplente]", 
       "Subcomissão para a Igualdade e Não Discriminação"
     ], 
     "current_jobs": [
@@ -40596,8 +40681,6 @@
       "Comissão de Assuntos Europeus [Suplente]", 
       "Comissão de Economia, Inovação e Obras Públicas", 
       "Comissão de Trabalho e Segurança Social", 
-      "Grupo de Trabalho - PJL Transportes Urbanos de Lisboa e Porto", 
-      "Grupo de Trabalho - Reposição das 35 Horas de Trabalho Semanal na Administração Pública", 
       "Grupo de Trabalho - Indústria"
     ], 
     "current_jobs": [
@@ -40610,10 +40693,11 @@
     "education": [
       "Licenciatura em Direito", 
       "Mestrado em Gestão", 
-      "Pós-Graduado em Estudos Europeus - Variante Jurídica.", 
+      "Curso de Pós-Graduação em Estudos Europeus - Variante Jurídica.", 
       "Curso de Mestrado em Ciência Política e Relações Internacionais - Variante de Políticas Públicas.", 
       "Curso de Especialização em Gestão Internacional.", 
-      "Curso de Auditor de Defesa Nacional."
+      "Curso de Auditor de Defesa Nacional.", 
+      "Curso de Pós-Graduação em Ciência da Legislação e Legística"
     ], 
     "id": 1974, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1974&type=deputado", 
@@ -41224,8 +41308,7 @@
     "birthdate": "1974-10-04", 
     "commissions": [
       "Comissão de Agricultura e Mar", 
-      "Comissão de Cultura, Comunicação, Juventude e Desporto [Vice-Presidente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF)"
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Vice-Presidente]"
     ], 
     "current_jobs": [
       "Deputado na XII Legislatura, Membro do Conselho Geral da Escola Secundária Manuel Fonseca de Santiago do Cacém", 
@@ -41279,7 +41362,8 @@
     "birthdate": "1961-11-26", 
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
-      "Comissão de Economia, Inovação e Obras Públicas"
+      "Comissão de Economia, Inovação e Obras Públicas", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]"
     ], 
     "current_jobs": [
       "- Deputado na XII Legislatura", 
@@ -41562,7 +41646,8 @@
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
       "Comissão de Defesa Nacional", 
-      "Comissão de Economia, Inovação e Obras Públicas [Suplente]"
+      "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
+      "Grupo de Trabalho - PJL Lei-Quadro das Entidades Reguladoras"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura", 
@@ -43094,7 +43179,9 @@
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
       "Comissão de Defesa Nacional [Coordenador GP]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Coordenador GP]", 
       "Grupo de Trabalho - Registo de Interesses", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais", 
       "Subcomissão de Ética"
     ], 
     "current_jobs": [
@@ -43159,8 +43246,7 @@
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
       "Comissão de Saúde", 
-      "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
-      "Grupo de Trabalho da PMA (PJL`s 6/XIII - PS, 29/XIII - PAN, 36/XIII - BE e 51/XIII - PEV)"
+      "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS"
     ], 
     "current_jobs": [
       "Vice-Presidente do Grupo Parlamentar do PSD"
@@ -43457,7 +43543,7 @@
     "birthdate": "1972-03-04", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
-      "Comissão de Assuntos Europeus [Coordenador GP]"
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Coordenador GP]"
     ], 
     "current_jobs": [
       "Deputado da Assembleia da República, na XI Legislatura, eleito pelo Círculo Eleitoral de Setúbal", 
@@ -43732,7 +43818,8 @@
     "birthdate": "1968-01-02", 
     "commissions": [
       "Comissão de Saúde [Coordenador GP]", 
-      "Comissão de Trabalho e Segurança Social [Suplente]"
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes"
     ], 
     "current_jobs": [
       "Advogada desde 1991 a 1999", 
@@ -43742,7 +43829,8 @@
       "Deputada na X legislatura", 
       "Presidente, fundadora e membro de várias Instituições Particulares de Solidariedade Social", 
       "Deputada na XI", 
-      "Deputada na XII legislatura"
+      "Deputada na XII legislatura", 
+      "Membro do Grupo Parlamentar sobre População e Desenvolvimento"
     ], 
     "education": [
       "Licenciatura em Direito", 
@@ -44081,8 +44169,7 @@
       "Comissão de Saúde [Suplente]"
     ], 
     "current_jobs": [
-      "Deputada na XIII Legislatura", 
-      "Advocacia"
+      "Deputada na XIII Legislatura"
     ], 
     "education": [
       "Licenciatura em Direito"
@@ -44090,28 +44177,28 @@
     "id": 2106, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2106&type=deputado", 
     "jobs": [
-      "2000/2004 - Membro da Comissão dos Direitos da Mulher e da Igualdade de Oportunidades", 
-      "2000/2004 - Membro da Delegação para as relações com a Bielorússia", 
-      "2004/2005 - Secretária de estado da Saúde - XVI Governo Constitucional", 
-      "1987/1989 - Vogal da Delegação da Ordem dos Advogados da Comarca de Estarreja", 
-      "1994 - Vice-Presidente da Comissão Instaladora da Liga dos Amigos do Hospital Visconde de Salreu, Estarreja", 
-      "1994/1996 - Vogal da Direcção da Associação para o Desenvolvimento Global e Integral de Estarreja (Adigesta)", 
-      "1997/1998 - Presidente da Mesa da Associação de Pais da Escola Padre Donaciano de Abreu Freire, Estarreja", 
-      "1996/2002 - Presidente do núcleo da Cruz Vermelha Portuguesa, Concelho de Estarreja (mandatos de 1996/1998, 1998/2000, 2000/2002)", 
-      "1989/1993 - Vogal da Assembleia Municipal de Estarreja", 
-      "1990/1992 - Vogal da Comissão Política Concelhia de Estarreja do Partido Social Democrata", 
-      "1992/1994 e 2002/2004 - Vogal do Conslho de Jurisdição Distrital de Aveiro do PSD", 
-      "1994/1996 - Presidente da comissão Política Concelhia de Estarreja pelo PSD", 
-      "1994/1997 - Vereadora da Câmara Municipal de Estarreja (suspensão de mandato entre Dezembro de 1994 e Novembro de 1995)", 
-      "1994/1995 - Adjunta do Governador Civil de Aveiro", 
-      "1996/1998 - Vogal da Comissão Política Distrital de Aveiro do PSD", 
-      "1997/2001 - Vogal da Assembleia Municipal de Estarreja", 
-      "1998/2000 - Vogal da Comissão Política Distrital de Aveiro do PSD", 
-      "2000/2004 - Deputada ao Parlamento Europeu", 
-      "2000/2004 - Membro do Grupo do Partido Popular Europeu (Democrata-Cristão) e Democratas Europeus", 
-      "2000/2004 - Membro da Comissão do Emprego e dos Assuntos Sociais", 
-      "2000/2004 - Membro Suplente da Comissão dos Assuntos Jurídicos e do Mercado Interno", 
-      "2000/2004 - Membro da Delegação às Comissões Parlamentares de Cooperação UE-Ucrânia e UE-Moldávia"
+      "Vogal da Assembleia Municipal de Estarreja (mandato 1989/1993)", 
+      "Vereadora da Câmara Municipal de Estarreja (mandato 1993/1997)", 
+      "Vogal da Assembleia Municipal de Estarreja (mandato 1997/2001)", 
+      "Deputada ao Parlamento Europeu – 5ª Legislatura (2000/2004)", 
+      "- Membro da Comissão do Emprego e dos Assuntos Sociais", 
+      "- Membro da Comissão dos Direitos da Mulher e da Igualdade de Oportunidades", 
+      "- Membro suplente da Comissão da Indústria, do Comércio Externo, da investigação e da Energia", 
+      "- Membro suplente da Comissão dos Assuntos Jurídicos e do Mercado Interno", 
+      "- Membro da Delegação às Comissões Parlamentares de Cooperação EU Ucrânia e EU Moldávia", 
+      "- Membro da Delegação para as relações com a Bielorússia.", 
+      "Secretária de Estado da Saúde – XVI Governo Constitucional", 
+      "Deputada à Assembleia da República – X Legislatura (2005/2009)", 
+      "- Membro da Comissão de Saúde (Vice- presidente)", 
+      "- Membro da Comissão de Assuntos Europeus.", 
+      "Presidente da Assembleia Municipal de Aveiro (mandato 2005/2009)", 
+      "Deputada ao Parlamento Europeu – 7ª Legislatura (2009/2014)", 
+      "- Membro da Comissão do Emprego e dos Assuntos Sociais", 
+      "- Membro da Comissão dos Direitos da Mulher e da Igualdade dos Géneros", 
+      "- Membro da Comissão Especial para a Crise Financeira, Económica e Social", 
+      "- Membro suplente da Comissão do Mercado Interno e da Proteção dos Consumidores", 
+      "- Membro da Delegação para as Relações com a Austrália e a Nova Zelândia", 
+      "- Membro suplente da Delegação para as Relações com a República Popular da China."
     ], 
     "mandates": [
       {
@@ -44367,6 +44454,7 @@
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco", 
       "Grupo de Trabalho - Indústria [Coordenador ]"
     ], 
     "current_jobs": [
@@ -44508,7 +44596,8 @@
       "Comissão de Agricultura e Mar [Suplente]", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
-      "Grupo de Trabalho Desporto"
+      "Grupo de Trabalho Desporto", 
+      "Grupo de Trabalho - Indústria"
     ], 
     "current_jobs": [
       "Deputado Assembleia Municipal de Barcelos XIII", 
@@ -44697,9 +44786,10 @@
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Coordenador GP]", 
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Coordenador GP]", 
       "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
-      "Grupo de Trabalho - PJL Transportes Urbanos de Lisboa e Porto", 
-      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)"
+      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Combate à criminalidade económica, financeira e fiscal [Coordenador ]"
     ], 
     "education": [
       "Licenciatura em Organização e Gestão de Empresas"
@@ -44769,7 +44859,8 @@
     "commissions": [
       "Comissão de Defesa Nacional", 
       "Comissão de Saúde [Suplente]", 
-      "Comissão de Trabalho e Segurança Social [Suplente]"
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]"
     ], 
     "current_jobs": [
       "Membro da Comissão Nacional do PS", 
@@ -45658,17 +45749,9 @@
     "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2166"
   }, 
   "2167": {
-    "active": true, 
+    "active": false, 
     "birthdate": "1963-10-13", 
-    "commissions": [
-      "Comissão de Defesa Nacional [Suplente]", 
-      "Comissão de Agricultura e Mar [Coordenador GP]", 
-      "Comissão de Educação e Ciência [Vice-Presidente]", 
-      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
-      "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
-      "Grupo de Trabalho - Apreciação dos PJL 976/XII/4.ª e 65/XIII/1.ª - Abate de Animais em Canis Municipais", 
-      "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação"
-    ], 
+    "commissions": [], 
     "current_jobs": [
       "Deputado na XIII Legislatura", 
       "Vereador da Câmara Municipal de Monção"
@@ -46098,12 +46181,12 @@
     "active": false, 
     "birthdate": "1979-08-27", 
     "commissions": [
+      "Comissão de Assuntos Europeus [Suplente]", 
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
-      "Comissão de Educação e Ciência [Coordenador GP]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Coordenador GP]", 
-      "Grupo de Trabalho Parlamento dos Jovens", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Coordenador GP;Vice-Presidente]", 
       "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)", 
-      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)"
+      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Combate à criminalidade económica, financeira e fiscal"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura", 
@@ -46966,7 +47049,7 @@
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa", 
       "Comissão de Economia, Inovação e Obras Públicas [Vice-Presidente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF)", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
       "Grupo de Trabalho - Turismo [Coordenador ]"
     ], 
     "current_jobs": [
@@ -47874,7 +47957,8 @@
     "birthdate": "1958-01-03", 
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
-      "Comissão de Educação e Ciência"
+      "Comissão de Educação e Ciência", 
+      "Grupo de Trabalho - Número de Alunos por Turma"
     ], 
     "current_jobs": [
       "Deputada na XII Legislatura", 
@@ -48574,7 +48658,7 @@
     "current_jobs": [
       "Conselheiro Nacional do PSD", 
       "Presidente da Secção de Faro do PSD", 
-      "Membro da Comissão Política Distrital do PSD/Algarve", 
+      "Vice-Presidente da Comissão Política Distrital do PSD/Algarve", 
       "Vice-Presidente da Mesa da Assembleia Geral da Associação de Ténis do algarve", 
       "Presidente do Conselho de disciplina da Associação de Ciclismo do algarve"
     ], 
@@ -48624,6 +48708,54 @@
     "party": "PSD", 
     "shortname": "Cristóvão Norte", 
     "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2297"
+  }, 
+  "2300": {
+    "active": false, 
+    "birthdate": "1957-03-02", 
+    "commissions": [
+      "Comissão de Agricultura e Mar", 
+      "Comissão de Educação e Ciência", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Grupo de Trabalho - Setor Leiteiro", 
+      "Grupo de Trabalho Parlamento dos Jovens", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais", 
+      "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação"
+    ], 
+    "current_jobs": [
+      "Presidente da Comissão Política Concelhia do CDS-PP de Viana do Castelo"
+    ], 
+    "education": [
+      "Licenciatura em Licenciatura em Filologia Germânica pela Faculdade de Letras da Universidade do Porto"
+    ], 
+    "id": 2300, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2300&type=deputado", 
+    "jobs": [
+      "Membro do Cons. Geral do Agrup. de Esc de Monserrate", 
+      "Membro do Cons. Geral da Esc Sec Monserrate", 
+      "Coordenadora Educativa da Área de Intervenção de V. Castelo", 
+      "Representante do ME  nos Conselhos Municipais de Educação de Valença, Monção, Arcos de Valdevez,  P. Coura, Caminha e V.N.de Cerveira", 
+      "Coordenadora do Centro de Área Educativa de V. Castelo", 
+      "Vereadora do CDS-PP na Câmara Municipal de V. Castelo", 
+      "Secretaria do C. Directivo Esc. Sec. Canidelo", 
+      "Presidente C. Directivo da Esc. Prep. Cerva"
+    ], 
+    "mandates": [
+      {
+        "constituency": "Viana do Castelo", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=2300&lg=XIII", 
+        "legislature": 13, 
+        "party": "CDS-PP", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Ilda Maria Menezes de Araújo Novo", 
+    "occupation": [
+      "Professora do Ensino Secundário"
+    ], 
+    "party": "CDS-PP", 
+    "shortname": "Ilda Araújo Novo", 
+    "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2300"
   }, 
   "2304": {
     "active": false, 
@@ -48828,10 +48960,11 @@
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Coordenador GP;Vice-Presidente]", 
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Suplente]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]", 
       "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)", 
       "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)", 
-      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)"
+      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Combate à criminalidade económica, financeira e fiscal"
     ], 
     "current_jobs": [
       "Membro da Comissão Executiva do CDS-PP", 
@@ -48953,11 +49086,12 @@
     "commissions": [
       "Comissão de Assuntos Europeus [Suplente]", 
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
-      "Comissão de Trabalho e Segurança Social [Coordenador GP]"
+      "Comissão de Trabalho e Segurança Social [Coordenador GP]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]"
     ], 
     "current_jobs": [
       "Presidente da Concelhia do PS Porto", 
-      "Membro da Comissão Nacional do Partido Socialista"
+      "Membro da Comissão Nacional do PS"
     ], 
     "education": [
       "Licenciatura em Sociologia com especialização em Trabalho e Organizações (Universidade do Porto)", 
@@ -48966,7 +49100,7 @@
     "id": 2445, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=2445&type=deputado", 
     "jobs": [
-      "Co-fundador de Startups (2014-2015)", 
+      "Co-fundador de startup (2014-2015)", 
       "Quadro superior de uma empresa industrial nos sectores da electricidade e electromecânica (desde 2007)", 
       "Membro e líder da bancada do PS da Assembleia Municipal do Porto (2009-2013)", 
       "Membro da Assembleia de Freguesia do Bonfim (2009-2013)", 
@@ -49240,7 +49374,8 @@
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
       "Comissão de Agricultura e Mar [Suplente]", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Coordenador GP]", 
-      "Grupo de Trabalho - Concessão de Audiências"
+      "Grupo de Trabalho - Concessão de Audiências", 
+      "Grupo de Trabalho - Reorganização Territorial de Freguesias [Coordenador ]"
     ], 
     "current_jobs": [
       "Deputado à Assembleia da República (XIII Legislatura)", 
@@ -49590,8 +49725,7 @@
     "birthdate": "1963-11-18", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
-      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
-      "Grupo de Trabalho - Apreciação dos PJL 976/XII/4.ª e 65/XIII/1.ª - Abate de Animais em Canis Municipais"
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]"
     ], 
     "current_jobs": [
       "Deputada na X Legislatura", 
@@ -49705,7 +49839,7 @@
       "aposentado"
     ], 
     "party": "PS", 
-    "shortname": "Carlos Cesar", 
+    "shortname": "Carlos César", 
     "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2952"
   }, 
   "3236": {
@@ -49812,7 +49946,11 @@
     "active": false, 
     "birthdate": "1947-12-06", 
     "commissions": [
-      "Comissão de Cultura, Comunicação, Juventude e Desporto [Coordenador GP;Vice-Presidente]"
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Coordenador GP;Vice-Presidente]", 
+      "Grupo de Trabalho - Mercado Único Digital", 
+      "Grupo de Trabalho - Apreciação dos Projetos de Lei 124/XIII/1.ª - PCP e 151/XIII/1.ª - BE", 
+      "Grupo de Trabalho - Regime de Classificação e Proteção de Lojas e Entidades com Interesses Histórico e Cultural (PJL n.º 155/XIII/1.ª - PS)", 
+      "Grupo de Trabalho PJL sobre publicidade de produtos alimentares"
     ], 
     "education": [
       "Doutoramento em Ciências da Comunicação"
@@ -50113,7 +50251,8 @@
     "birthdate": "1979-02-15", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Coordenador GP;Vice-Presidente]", 
-      "Comissão de Defesa Nacional"
+      "Comissão de Defesa Nacional", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Coordenador GP]"
     ], 
     "current_jobs": [
       "Presidente do Grupo Parlamentar do Bloco de Esquerda", 
@@ -50252,7 +50391,11 @@
       "Comissão de Agricultura e Mar [Coordenador GP;Vice-Presidente]", 
       "Comissão de Saúde [Suplente]", 
       "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)", 
-      "Grupo de Trabalho - Turismo"
+      "Grupo de Trabalho - Setor Leiteiro", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais", 
+      "Grupo de Trabalho - Turismo", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes", 
+      "Grupo de Trabalho PJL sobre publicidade de produtos alimentares"
     ], 
     "current_jobs": [
       "Presidente da Assembleia-Geral do Teatro Fórum de Moura", 
@@ -50689,7 +50832,8 @@
     "birthdate": "1954-06-16", 
     "commissions": [
       "Comissão de Defesa Nacional", 
-      "Comissão de Assuntos Europeus"
+      "Comissão de Assuntos Europeus", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco"
     ], 
     "current_jobs": [
       "Deputado à Assembleia da Republica na XIII Legislatura"
@@ -50704,16 +50848,17 @@
     "id": 3963, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=3963&type=deputado", 
     "jobs": [
-      "Ministro da Agricultura, Pescas e Florestas - 2004/2005", 
-      "Secretário de Estado dos Assuntos Europeus - 2002/2004", 
-      "Deputado ao Parlamento Europeu - 1994/2002", 
-      "Presidente do Conselho de Administração da SATA Air Açores - 1992/1994", 
-      "Secretário Regional da Administração Interna do Governo Regional Açores - 1992/1994", 
-      "Secretário Regional dos Assuntos Sociais do Governo Regional Açores-1981/1988", 
-      "Deputado Assembleia Legislativa dos Açores - 1980/1988", 
-      "Director Regional da Segurança Social - 1977/1981", 
-      "Deputado à Assembleia da Republica na XI Legislatura", 
-      "Deputado à Assembleia da Republica na XII Legislatura"
+      "Ministro Assuntos Parlamentares 2015", 
+      "Ministro  Agricultura, Pescas, Florestas 2004/05", 
+      "Secretário Estado Assuntos Europeus 2002/04", 
+      "Deputado Parlamento Europeu 1994/2002", 
+      "Presidente Conselho Administração SATA Air Açores 1992/94", 
+      "Secretário Regional Administração Interna-Governo Regional Açores 1988/92", 
+      "Secretário Regional Assuntos Sociais-Governo Regional Açores 1981/88", 
+      "Deputado-Assembleia Legislativa Açores 1980/88", 
+      "Director Regional Segurança Social 1977/1981", 
+      "Deputado à Assembleia da Republica na XII Legislatura", 
+      "Deputado à Assembleia da Republica na XI Legislatura"
     ], 
     "mandates": [
       {
@@ -50790,11 +50935,10 @@
     "commissions": [
       "Comissão de Agricultura e Mar", 
       "Comissão de Educação e Ciência [Suplente]", 
-      "Comissão de Trabalho e Segurança Social [Suplente]", 
-      "Grupo de Trabalho - Reposição das 35 Horas de Trabalho Semanal na Administração Pública"
+      "Comissão de Trabalho e Segurança Social [Suplente]"
     ], 
     "current_jobs": [
-      "Vogal da Secção Profissional do Conselho de Disciplina da Federação Portuguesa de Futebol", 
+      "Vice-Presidente da Secção Não Profissional do Conselho de Disciplina da Federação Portuguesa de Futebol", 
       "Advogado - sócio gerente de Álvaro Batista & Associados, Sociedade de Advogados, R.L., com sede em Castelo Branco", 
       "Membro da Assembleia Municipal de Castelo Branco", 
       "Membro da Assembleia da Comunidade Intermunicipal da Beira Baixa", 
@@ -50816,15 +50960,16 @@
       "Coordenador da equipe de modernização administrativa da Direção Regional de Agricultura da Beira Interior", 
       "Presidente da Comissão de Segurança, Higiene e Saúde no Trabalho da Direção Regional de Agricultura da Beira Interior", 
       "Secretário do Conselho Regional Agrário da Direção Regional de Agricultura da Beira Interior", 
-      "Presidente do Júri Avindor da Associação de Regantes e Beneficiários da Cova da Beira", 
       "Presidente do Júri Avindor da Associação de Regantes e Beneficiários de Idanha-a-Nova", 
       "Representante da administração na Comissão Paritária da Direção Regional de Agricultura e Pescas do Centro (SIADAP III)", 
       "Vogal do Conselho de Justiça da Federação Portuguesa de Futebol", 
+      "Vogal da Secção Profissional do Conselho de Disciplina da Federação Portuguesa de Futebol", 
       "Secretário do Conselho Jurisdicional da Associação de Futebol de Castelo Branco", 
       "Membro da Comissão Local de Acompanhamento do Programa Pólis Castelo Branco", 
       "Bombeiro voluntário - Adjunto de Comando (jurista) - Quadro de especialistas do Corpo de Bombeiros Voluntários de Castelo Branco", 
       "Presidente da Mesa da Assembleia-geral da empresa Cutplant Solutions, S.A. com sede em Castelo Branco", 
       "Presidente da Mesa da Assembleia-geral da Casa do Pessoal da Direção Regional de Agricultura e Pescas do Centro", 
+      "Presidente da Direção do Lions Clube de Castelo Branco Centro", 
       "Membro eleito do Conselho Nacional do PSD", 
       "Presidente da Comissão Política de Secção de Castelo Branco do PSD"
     ], 
@@ -51074,7 +51219,10 @@
     "birthdate": "1958-12-18", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Coordenador GP]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
       "Grupo de Trabalho - Registo de Interesses", 
+      "Grupo de Trabalho - Petição nº 103/XIII/1ª - Despenalização da morte assistida [Coordenador ]", 
+      "Grupo de Trabalho - Iniciativas legislativas sobre Direitos dos Animais", 
       "Subcomissão de Ética", 
       "Subcomissão para a Igualdade e Não Discriminação [Suplente]"
     ], 
@@ -51180,7 +51328,8 @@
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
       "Comissão de Orçamento, Finanças e Modernização Administrativa", 
-      "Subcomissão de Ética [Suplente]"
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
+      "Subcomissão de Ética"
     ], 
     "current_jobs": [
       "Deputado à Assembleia da Republica na XIII Legislatura", 
@@ -51335,7 +51484,8 @@
     "commissions": [
       "Comissão de Defesa Nacional [Coordenador GP;Vice-Presidente]", 
       "Comissão de Educação e Ciência [Suplente]", 
-      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]"
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Grupo de Trabalho - Reorganização Territorial de Freguesias"
     ], 
     "current_jobs": [
       "Vereador do executivo Não Permanente na Câmara Municipal de Portimão auferindo senhas de presença."
@@ -51396,7 +51546,8 @@
     "birthdate": "1968-02-13", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Coordenador GP]", 
-      "Comissão de Agricultura e Mar [Suplente]"
+      "Comissão de Agricultura e Mar [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura"
@@ -51451,7 +51602,7 @@
       "Comissão de Saúde [Coordenador GP]", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
       "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
-      "Grupo de Trabalho da PMA (PJL`s 6/XIII - PS, 29/XIII - PAN, 36/XIII - BE e 51/XIII - PEV)", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes", 
       "Subcomissão para a Igualdade e Não Discriminação"
     ], 
     "current_jobs": [
@@ -51616,9 +51767,10 @@
     "active": false, 
     "birthdate": "1980-07-21", 
     "commissions": [
-      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
+      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
       "Comissão de Educação e Ciência", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Coordenador GP]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
       "Grupo de Trabalho Parlamento dos Jovens [Coordenador ]", 
       "Grupo de Trabalho Desporto [Coordenador ]", 
       "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação [Suplente]", 
@@ -51696,11 +51848,12 @@
     "active": false, 
     "birthdate": "1974-09-28", 
     "commissions": [
-      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Coordenador GP]", 
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
       "Comissão de Agricultura e Mar [Suplente]"
     ], 
     "current_jobs": [
-      "Vice Presidente do CDS-PP"
+      "Vice Presidente do CDS-PP", 
+      "Presidente do CDS-PP"
     ], 
     "education": [
       "Doutoramento em Direito Privado"
@@ -51750,8 +51903,8 @@
     "birthdate": "1953-04-05", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas [Coordenador GP]", 
-      "Grupo de Trabalho - PJL Transportes Urbanos de Lisboa e Porto", 
-      "Grupo de Trabalho - Indústria"
+      "Grupo de Trabalho - Indústria", 
+      "Grupo de Trabalho - PJL Lei-Quadro das Entidades Reguladoras"
     ], 
     "current_jobs": [
       "Deputado à Assembleia Municipal de Leiria"
@@ -52105,7 +52258,7 @@
       "Comissão de Assuntos Europeus [Suplente]", 
       "Comissão de Orçamento, Finanças e Modernização Administrativa", 
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Suplente]"
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]"
     ], 
     "current_jobs": [
       "Deputado na XIII Legislatura", 
@@ -52258,8 +52411,8 @@
       "Membro do Conselho Nacional do PSD"
     ], 
     "education": [
-      "Licenciatura em Ciências da Comunicação", 
-      "Frequência de Licenciatura em Direito"
+      "Licenciatura em Direito", 
+      "Frequência  de Doutoramento em Direito e Segurança, Faculdade Direito - Universidade Nova de Lisboa"
     ], 
     "id": 4095, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4095&type=deputado", 
@@ -52291,7 +52444,7 @@
     ], 
     "name": "Sérgio Sousa Lopes Freire de Azevedo", 
     "occupation": [
-      "Técnico Superior"
+      "Técnico Superior/Jurista"
     ], 
     "party": "PSD", 
     "shortname": "Sérgio Azevedo", 
@@ -52305,7 +52458,10 @@
     "birthdate": "1961-07-10", 
     "commissions": [
       "Comissão de Educação e Ciência [Suplente]", 
-      "Comissão de Saúde [Coordenador GP]"
+      "Comissão de Saúde [Coordenador GP]", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites", 
+      "Grupo de Trabalho para o Acompanhamento das Doenças Oncológicas [Coordenador ]", 
+      "Grupo de Trabalho - Petição nº 103/XIII/1ª - Despenalização da morte assistida"
     ], 
     "current_jobs": [
       "Directora da Unidade de Cuidados Paliativos e Continuados do Hospital da Luz", 
@@ -52395,7 +52551,6 @@
     "commissions": [
       "Comissão de Trabalho e Segurança Social [Coordenador GP;Vice-Presidente]", 
       "Grupo de Trabalho - Audiências", 
-      "Grupo de Trabalho - Reposição das 35 Horas de Trabalho Semanal na Administração Pública", 
       "Subcomissão para a Igualdade e Não Discriminação"
     ], 
     "education": [
@@ -52441,7 +52596,9 @@
       "Comissão de Defesa Nacional [Suplente]", 
       "Comissão de Assuntos Europeus [Suplente]", 
       "Comissão de Economia, Inovação e Obras Públicas [Coordenador GP]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Suplente]"
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]", 
+      "Grupo de Trabalho - PJL Lei-Quadro das Entidades Reguladoras [Coordenador ]"
     ], 
     "current_jobs": [
       "Presidente da Federação Distrital de Portalegre do Partido Socialista", 
@@ -52482,7 +52639,8 @@
       "Comissão de Orçamento, Finanças e Modernização Administrativa", 
       "Comissão de Agricultura e Mar [Suplente]", 
       "Comissão de Educação e Ciência [Suplente]", 
-      "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP) [Coordenador ]"
+      "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP) [Coordenador ]", 
+      "Grupo de Trabalho - IVA nas terapeuticas não convencionais (PJL`s 289, 293 e 301/XIII/1.ª) [Coordenador ]"
     ], 
     "education": [
       "Licenciatura em Economia/Gestão"
@@ -52825,7 +52983,7 @@
       "Comissão de Agricultura e Mar [Suplente]", 
       "Comissão de Trabalho e Segurança Social", 
       "Grupo de Trabalho - Audiências", 
-      "Grupo de Trabalho - Reposição das 35 Horas de Trabalho Semanal na Administração Pública", 
+      "Grupo de Trabalho - Setor Leiteiro", 
       "Grupo de Trabalho - Indústria"
     ], 
     "current_jobs": [
@@ -52875,7 +53033,9 @@
     "birthdate": "1979-08-23", 
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
-      "Comissão de Saúde"
+      "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
+      "Comissão de Saúde", 
+      "Grupo de Trabalho para o Acompanhamento das Doenças Oncológicas"
     ], 
     "current_jobs": [
       "Deputado à Assembleia da República"
@@ -53059,7 +53219,9 @@
     "commissions": [
       "Comissão de Assuntos Europeus", 
       "Comissão de Saúde [Vice-Presidente]", 
-      "Grupo de Trabalho da PMA (PJL`s 6/XIII - PS, 29/XIII - PAN, 36/XIII - BE e 51/XIII - PEV)"
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Coordenador GP]", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes [Coordenador ]"
     ], 
     "current_jobs": [
       "Deputado Municipal em Santa Maria da Feira", 
@@ -53096,7 +53258,7 @@
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa", 
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Coordenador GP]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco", 
       "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP) [Coordenador ]"
     ], 
     "education": [
@@ -53231,7 +53393,10 @@
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
       "Comissão de Assuntos Europeus [Coordenador GP]", 
-      "Comissão de Educação e Ciência [Suplente]"
+      "Comissão de Educação e Ciência [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]", 
+      "Grupo de Trabalho - Escrutínio de Iniciativas Europeias"
     ], 
     "current_jobs": [
       "HELPO - Organização Não Governamental para o Desenvolvimento", 
@@ -53280,9 +53445,7 @@
     "birthdate": "1975-01-18", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
-      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
-      "Comissão de Trabalho e Segurança Social [Coordenador GP]", 
-      "Grupo de Trabalho - Reposição das 35 Horas de Trabalho Semanal na Administração Pública"
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas"
     ], 
     "education": [
       "Licenciatura em Direito"
@@ -53399,7 +53562,6 @@
     "commissions": [
       "Comissão de Saúde", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Suplente]", 
       "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades"
     ], 
     "current_jobs": [
@@ -53666,9 +53828,7 @@
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Suplente]", 
       "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
-      "Grupo de Trabalho - Apreciação dos PJL 976/XII/4.ª e 65/XIII/1.ª - Abate de Animais em Canis Municipais", 
       "Grupo de Trabalho - Concessão de Audiências"
     ], 
     "current_jobs": [
@@ -53714,8 +53874,9 @@
     "birthdate": "1972-10-21", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
-      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2015", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
       "Grupo de Trabalho - Audição de Peticionantes", 
+      "Grupo de Trabalho - Júri Prémio Direitos Humanos 2016", 
       "Subcomissão de Ética [Suplente]", 
       "Subcomissão para a Igualdade e Não Discriminação"
     ], 
@@ -53753,9 +53914,10 @@
     "commissions": [
       "Comissão de Assuntos Europeus [Coordenador GP;Vice-Presidente]", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
-      "Grupo de Trabalho da PMA (PJL`s 6/XIII - PS, 29/XIII - PAN, 36/XIII - BE e 51/XIII - PEV)", 
+      "Grupo de Trabalho - Escrutínio de Iniciativas Europeias", 
       "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades", 
-      "Grupo de Trabalho - Concessão de Audiências"
+      "Grupo de Trabalho - Concessão de Audiências", 
+      "Grupo de Trabalho - Reorganização Territorial de Freguesias"
     ], 
     "education": [
       "Licenciatura em Química Tecnológica"
@@ -54010,7 +54172,7 @@
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
       "Comissão de Educação e Ciência [Suplente]", 
       "Comissão de Saúde [Suplente]", 
-      "Grupo de Trabalho da PMA (PJL`s 6/XIII - PS, 29/XIII - PAN, 36/XIII - BE e 51/XIII - PEV)", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites", 
       "Subcomissão para a Igualdade e Não Discriminação [Presidente]"
     ], 
     "current_jobs": [
@@ -54070,12 +54232,12 @@
   "4210": {
     "active": false, 
     "birthdate": "1966-11-14", 
-    "commissions": [], 
+    "commissions": [
+      "Comissão de Economia, Inovação e Obras Públicas", 
+      "Comissão de Trabalho e Segurança Social"
+    ], 
     "current_jobs": [
-      "Vice-presidente do Centro Social e Paroquial de S. Joaninho.", 
-      "Presidente da Assembleia Geral do Clube Recreativo de S.Joaninho.", 
-      "Presidente da Assembleia Geral da Casa do Sporting de Santa Comba Dão.", 
-      "Membro do Conselho Geral do Instituto Politécnico de Viseu"
+      "Presidente da Assembleia Geral do Clube Recreativo de S.Joaninho."
     ], 
     "education": [
       "Licenciatura em Enfermagem"
@@ -54085,9 +54247,18 @@
     "jobs": [
       "Delegado Regional do IPJ/ Viseu(Agosto de 2005 a Agosto de 2007)", 
       "Subdirector Regional do Centro do IPJ. IP (Agosto 2007 a 14 de Outubro 2009)", 
-      "Vice-presidente do Centro Social e Paroquial de S. Joaninho."
+      "Vice-presidente do Centro Social e Paroquial de S. Joaninho.", 
+      "Membro do Conselho Geral do IPV."
     ], 
     "mandates": [
+      {
+        "constituency": "Viseu", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=4210&lg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }, 
       {
         "constituency": "Viseu", 
         "end_date": "2011-06-19", 
@@ -54099,7 +54270,7 @@
     ], 
     "name": "José Rui Alves Duarte Cruz", 
     "occupation": [
-      "Enfermeiro"
+      "EMPRESARIO"
     ], 
     "party": "PS", 
     "shortname": "José Rui Cruz", 
@@ -54468,6 +54639,45 @@
     "shortname": "Helena André", 
     "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4290"
   }, 
+  "4291": {
+    "active": false, 
+    "birthdate": "1986-09-29", 
+    "commissions": [
+      "Comissão de Educação e Ciência [Suplente]", 
+      "Comissão de Trabalho e Segurança Social"
+    ], 
+    "current_jobs": [
+      "Membro da Comissão Política do Partido Socialista de Oliveira de Azeméis"
+    ], 
+    "education": [
+      "Licenciatura em Bioquímica", 
+      "Doutoramento em Química"
+    ], 
+    "id": 4291, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4291&type=deputado", 
+    "jobs": [
+      "Bolseira de Doutoramento (Ref.: SFRH/BD/63916/2009)", 
+      "Bolseira de Investigação Científica (projeto FCT/PTDC/SAU-BEB-66896/2006)", 
+      "Professora de Tecnologias de Informação"
+    ], 
+    "mandates": [
+      {
+        "constituency": "Aveiro", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=4291&lg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Inês Dias Lamego", 
+    "occupation": [
+      "Investigadora"
+    ], 
+    "party": "PS", 
+    "shortname": "Inês Lamego", 
+    "url": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4291"
+  }, 
   "4293": {
     "active": false, 
     "birthdate": "1970-08-10", 
@@ -54594,7 +54804,10 @@
     "birthdate": "1971-11-06", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
-      "Comissão de Saúde [Coordenador GP]"
+      "Comissão de Saúde [Coordenador GP]", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites", 
+      "Grupo de Trabalho para o Acompanhamento das Doenças Oncológicas", 
+      "Grupo de Trabalho - IVA nas terapeuticas não convencionais (PJL`s 289, 293 e 301/XIII/1.ª)"
     ], 
     "education": [
       "Licenciatura em Psicologia"
@@ -54637,6 +54850,7 @@
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
       "Comissão de Defesa Nacional", 
       "Comissão de Trabalho e Segurança Social", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
       "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
       "Grupo de Trabalho - Audição de Peticionantes [Coordenador ]"
     ], 
@@ -54678,8 +54892,10 @@
     "active": false, 
     "birthdate": "1983-03-02", 
     "commissions": [
-      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
+      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
       "Comissão de Defesa Nacional [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Coordenador GP]", 
       "Subcomissão de Ética [Suplente]"
     ], 
     "education": [
@@ -54720,6 +54936,7 @@
     "birthdate": "1981-04-21", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
+      "Comissão de Saúde [Suplente]", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação"
     ], 
     "current_jobs": [
@@ -55175,8 +55392,10 @@
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
       "Comissão de Educação e Ciência [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Coordenador GP]", 
-      "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS"
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
+      "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
+      "Grupo de Trabalho - Petição nº 103/XIII/1ª - Despenalização da morte assistida", 
+      "Grupo de Trabalho - Iniciativas legislativas sobre Direitos dos Animais [Coordenador ]"
     ], 
     "education": [
       "Licenciatura em Direito", 
@@ -55218,7 +55437,7 @@
     "commissions": [
       "Comissão de Agricultura e Mar [Coordenador GP]", 
       "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
-      "Grupo de Trabalho - Apreciação dos PJL 976/XII/4.ª e 65/XIII/1.ª - Abate de Animais em Canis Municipais [Coordenador ]"
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais"
     ], 
     "current_jobs": [
       "Vogal de Conselho de Administração", 
@@ -56277,8 +56496,8 @@
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
       "Comissão de Economia, Inovação e Obras Públicas", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
       "Grupo de Trabalho - Registo de Interesses [Coordenador ]", 
-      "Grupo de Trabalho - PJL Transportes Urbanos de Lisboa e Porto [Coordenador ]", 
       "Grupo de Trabalho - Indústria", 
       "Subcomissão de Ética"
     ], 
@@ -56323,7 +56542,9 @@
     "commissions": [
       "Comissão de Educação e Ciência [Suplente]", 
       "Comissão de Saúde", 
-      "Comissão de Cultura, Comunicação, Juventude e Desporto"
+      "Comissão de Cultura, Comunicação, Juventude e Desporto", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites"
     ], 
     "current_jobs": [
       "Deputado  a Assembleia da Republica na XIII Legislatura"
@@ -56623,7 +56844,11 @@
       "Comissão de Educação e Ciência [Suplente]", 
       "Comissão de Trabalho e Segurança Social [Suplente]", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
-      "Grupo de Trabalho - Audição de Peticionantes"
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Coordenador GP]", 
+      "Grupo de Trabalho - Mercado Único Digital", 
+      "Grupo de Trabalho - Audição de Peticionantes", 
+      "Grupo de Trabalho - Apreciação dos Projetos de Lei 124/XIII/1.ª - PCP e 151/XIII/1.ª - BE", 
+      "Grupo de Trabalho - Iniciativas legislativas sobre Direitos dos Animais"
     ], 
     "education": [
       "Licenciatura em DIREITO", 
@@ -56682,7 +56907,9 @@
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
       "Comissão de Educação e Ciência", 
-      "Comissão de Cultura, Comunicação, Juventude e Desporto [Coordenador GP]"
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Coordenador GP]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
+      "Grupo de Trabalho PJL sobre publicidade de produtos alimentares"
     ], 
     "education": [
       "Mestrado em Engenharia Civil"
@@ -56947,7 +57174,8 @@
     "commissions": [
       "Comissão de Educação e Ciência [Suplente]", 
       "Comissão de Trabalho e Segurança Social", 
-      "Comissão de Cultura, Comunicação, Juventude e Desporto"
+      "Comissão de Cultura, Comunicação, Juventude e Desporto", 
+      "Grupo de Trabalho - Regime de Classificação e Proteção de Lojas e Entidades com Interesses Histórico e Cultural (PJL n.º 155/XIII/1.ª - PS)"
     ], 
     "education": [
       "Frequência  de Licenciatura em Direito"
@@ -56990,9 +57218,11 @@
       "Comissão de Orçamento, Finanças e Modernização Administrativa", 
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Suplente]", 
       "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP) [Coordenador ]", 
-      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)"
+      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Combate à criminalidade económica, financeira e fiscal", 
+      "Grupo de Trabalho PJL sobre publicidade de produtos alimentares [Coordenador ]", 
+      "Grupo de Trabalho - PJL Lei-Quadro das Entidades Reguladoras"
     ], 
     "current_jobs": [
       "Não aplicável"
@@ -57143,17 +57373,27 @@
   "4441": {
     "active": false, 
     "birthdate": "1980-05-31", 
-    "commissions": [], 
+    "commissions": [
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
+      "Comissão de Saúde"
+    ], 
     "current_jobs": [
-      "Coordenador Científico de Saúde Pública (Centro de Investigação) no Instituto de Ciências da Saúde da Universidade Católica Portuguesa"
+      "Coordenador Científico de Saúde Pública (Centro de Investigação), Instituto de Ciências da Saúde, Universidade Católica Portuguesa", 
+      "Vereador na Câmara Municipal de Cascais (sem tempos)", 
+      "Membro do Conselho de Fiscalização da Base de Dados de Perfis de ADN (eleito pela Assembleia da República)"
     ], 
     "education": [
       "Licenciatura em Medicina", 
-      "Frequência  de Doutoramento em Saúde Pública/Gestão de Saúde", 
+      "Frequência  de Doutoramento em Saúde Pública e Gestão de Saúde", 
       "Formação pós-graduada realizada nas seguintes instituições: Johns Hopkins University (MD, EUA), Harvard Medical School (MA, EUA), IESE Business School (Madrid, Espanha)/Harvard Kennedy School of Govenment (MA, EUA), Albert Einstein College of Medicine (NY,EUA), AESE Business School (Lisboa, Portugal), European Society of Infectious Diseases and Clinical Microbiology, Universitat Autonoma de Barcelona (Barcelona, Espanha), Universidade Nova de Lisboa e Univerdade de Lisboa"
     ], 
     "id": 4441, 
     "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=4441&type=deputado", 
+    "jobs": [
+      "Membro da Assembleia de Freguesia de São Domingos de Rana", 
+      "Membro da Assembleia Municipal de Cascais", 
+      "Membro da Assembleia Metropolitana de Lisboa"
+    ], 
     "mandates": [
       {
         "constituency": "Lisboa", 
@@ -57352,7 +57592,8 @@
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
       "Comissão de Saúde [Suplente]", 
-      "Grupo de Trabalho da PMA (PJL`s 6/XIII - PS, 29/XIII - PAN, 36/XIII - BE e 51/XIII - PEV)", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites", 
+      "Grupo de Trabalho - Petição nº 103/XIII/1ª - Despenalização da morte assistida", 
       "Subcomissão para a Igualdade e Não Discriminação"
     ], 
     "current_jobs": [
@@ -57400,23 +57641,26 @@
     "birthdate": "1980-12-12", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
-      "Comissão de Educação e Ciência", 
+      "Comissão de Educação e Ciência [Suplente]", 
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Coordenador GP]", 
       "COMISSÃO EVENTUAL DE VERIFICAÇÃO DE PODERES DOS DEPUTADOS ELEITOS", 
-      "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)", 
       "Grupo de Trabalho - Registo de Interesses", 
+      "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)", 
+      "Grupo de Trabalho PJL sobre publicidade de produtos alimentares", 
+      "Grupo de Trabalho - Iniciativas legislativas sobre Direitos dos Animais", 
       "Subcomissão de Ética"
     ], 
     "current_jobs": [
       "Presidente da Junta de Freguesia do Lumiar (e membro por inerência da Assembleia Municipal de Lisboa)", 
       "Membro da Comissão de Acesso aos Documentos Administrativos", 
-      "Membro do Conselho Geral e do Conselho Pedagógico do Centro de Estudos Judiciário", 
       "Presidente da Mesa da Assembleia-Geral da Legística - Associação para a Qualidade da Legislação", 
-      "Membro da direção da English Speaking Union - Portugal", 
-      "Membro da Comissão Nacional do Partido Socialista", 
+      "Membro da Direção da English Speaking Union - Portugal", 
       "Membro da Comissão Política da Federação da Área Urbana de Lisboa do PS", 
       "Membro do Secretariado da Concelhia do PS de Lisboa", 
-      "Diretor da revista \"Portugal Socialista\""
+      "Diretor da revista \"Portugal Socialista\"", 
+      "Membro do Conselho Geral do SPGL (Sindicato dos Professores da Grande Lisboa)", 
+      "Membro do Conselho de Representantes da Escola Superior de Tecnologia da Saúde de Lisboa (Instituto Politécnico de Lisboa)"
     ], 
     "education": [
       "Licenciatura em Direito", 
@@ -57434,7 +57678,8 @@
       "Membro do Bureau da ECOSY - Young European Socialists (2006-2009)", 
       "Vice-Presidente da ECOSY - Young European Socialists (2009-2011)", 
       "Membro do Secretariado Nacional da Juventude Socialista (2006-2010)", 
-      "Membro do Conselho Pedagógico, Conselho Directivo e Assembleia de Representantes da Faculdade de Direito da Universidade de Lisboa, entre 1999 e 2003 e membro da Assembleia da Universidade de Lisboa (1999-2001)"
+      "Membro do Conselho Pedagógico, Conselho Directivo e Assembleia de Representantes da Faculdade de Direito da Universidade de Lisboa, entre 1999 e 2003 e membro da Assembleia da Universidade de Lisboa (1999-2001)", 
+      "Membro do Conselho Geral e do Conselho Pedagógico do Centro de Estudos Judiciário (2012-2016)"
     ], 
     "mandates": [
       {
@@ -57468,9 +57713,11 @@
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Coordenador GP]", 
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Suplente]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]", 
       "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)", 
-      "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)"
+      "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Combate à criminalidade económica, financeira e fiscal", 
+      "Grupo de Trabalho - IVA nas terapeuticas não convencionais (PJL`s 289, 293 e 301/XIII/1.ª)"
     ], 
     "current_jobs": [
       "Membro da Assembleia Municipal de Faro."
@@ -57645,7 +57892,9 @@
     "birthdate": "1971-11-23", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
-      "Comissão de Agricultura e Mar"
+      "Comissão de Agricultura e Mar [Coordenador GP]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais"
     ], 
     "current_jobs": [
       "Membro Colaborador do Centro de Ciência Animal e Veterinária (CECAV) -Universidade de Trás-os-Montes e Alto Douro"
@@ -57767,9 +58016,10 @@
     "active": false, 
     "birthdate": "1986-06-24", 
     "commissions": [
-      "Comissão de Orçamento, Finanças e Modernização Administrativa", 
-      "Comissão Parlamentar de Inquérito ao processo que conduziu à venda e resolução do Banco Internacional do Funchal (BANIF) [Coordenador GP]", 
-      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)"
+      "Comissão de Orçamento, Finanças e Modernização Administrativa [Coordenador GP]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]", 
+      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Combate à criminalidade económica, financeira e fiscal"
     ], 
     "education": [
       "1º Ciclo", 
