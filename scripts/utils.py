@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from hashlib import sha1
 import os
 import urllib
@@ -55,3 +58,26 @@ def load_csv(filename, keys=[], delimiter=",", quotechar='"', header=False):
         else:
             data.append(row)
     return data
+
+
+def replace_letters(s, letters, l):
+    '''Replace all specified characters with a substring.'''
+    for letter in letters:
+        s = s.replace(letter, l)
+    return s
+
+
+def slugify(s):
+    '''Creates accent-aware slugs based on human formatted strings.'''
+    s = s.strip()
+    s = s.lower()
+    s = s.replace("-", "")
+    s = s.replace(" ", "-")
+    s = s.replace("'", "-")
+    s = replace_letters(s, u"áàâã", u"a")
+    s = replace_letters(s, u"éèê", u"e")
+    s = replace_letters(s, u"íì", u"i")
+    s = replace_letters(s, u"óòôõ", u"o")
+    s = replace_letters(s, u"úù", u"u")
+    s = replace_letters(s, u"ç", u"c")
+    return s

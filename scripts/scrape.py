@@ -12,12 +12,12 @@ import multiprocessing
 import click
 from bs4 import BeautifulSoup
 from name_replaces import SHORTNAME_REPLACES
-from utils import getpage
+from utils import getpage, slugify
 
 logger = logging.getLogger(__name__)
 
 FIELDNAMES = ['id', 'shortname', 'name', 'party', 'active', 'education', 'birthdate', 'occupation', 'current_jobs',
-              'jobs', 'commissions', 'mandates', 'awards', 'url', 'image_url']
+              'jobs', 'commissions', 'mandates', 'awards', 'url_democratica', 'url_parlamento', 'image_url']
 
 DEFAULT_MAX = 5700
 
@@ -110,7 +110,7 @@ def process_mp(i):
 
         mprow = {'id': i,
                  'name': name.text,
-                 'url': url}
+                 'url_parlamento': url}
 
         if short:
             # replace by canonical shortnames if appropriate
@@ -119,6 +119,7 @@ def process_mp(i):
             else:
                 t = short.text
             mprow['shortname'] = t
+            mprow['url_democratica'] = 'http://demo.cratica.org/deputados/%s/' % slugify(t)
         if birthdate:
             mprow['birthdate'] = birthdate.text
         if party:
