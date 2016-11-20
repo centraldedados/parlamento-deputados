@@ -154,15 +154,15 @@ def process_mp(i):
                     'party': leg[5].text
                 }
 
-                if leg[1].find("a"):
+                if leg[2].find("a"):
                     # atividade parlamentar
-                    url = leg[1].find("a")['href']
+                    url = leg[2].find("a")['href']
                     if not url.startswith("http://"):
                         url = "http://www.parlamento.pt" + url
                     mandate['activity_url'] = url
-                if leg[2].find("a"):
+                if leg[3].find("a"):
                     # registo de interesses
-                    url = leg[2].find("a")['href']
+                    url = leg[3].find("a")['href']
                     if not url.startswith("http://"):
                         url = "http://www.parlamento.pt" + url
                     mandate['interest_url'] = url
@@ -175,7 +175,7 @@ def process_mp(i):
         return mprow
 
 
-def scrape(format, start=1, end=None, outfile='', indent=1, processes=2):
+def scrape(format, start=1, end=5000, outfile='', indent=1, processes=2):
     # Start with including the old MP list (those not on Parlamento.pt)
     # TODO
     # from utils import getpage, load_csv
