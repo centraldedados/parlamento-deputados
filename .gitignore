@@ -1,4 +1,6 @@
-cache/
+scripts/cache/
+scripts/_cache/
+scripts/.env/
 *.swp
 *.pyc
 
@@ -6,4 +8,3 @@ cache/
 data.sqlite
 deputados.csv
 deputados.json
-_cache

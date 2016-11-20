@@ -3,3 +3,4 @@ click==3.3
 lxml==3.4.1
 unicodecsv==0.9.4
 zenlog==0.1
+csvkit==0.9.1

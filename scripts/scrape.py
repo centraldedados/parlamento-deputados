@@ -16,7 +16,7 @@ from utils import getpage, slugify
 
 logger = logging.getLogger(__name__)
 
-FIELDNAMES = ['id', 'shortname', 'name', 'party', 'active', 'education', 'birthdate', 'occupation', 'current_jobs',
+FIELDNAMES = ['id', 'shortname', 'slug', 'name', 'party', 'active', 'education', 'birthdate', 'occupation', 'current_jobs',
               'jobs', 'commissions', 'mandates', 'awards', 'url_democratica', 'url_parlamento', 'image_url']
 
 DEFAULT_MAX = 5700
@@ -119,6 +119,7 @@ def process_mp(i):
             else:
                 t = short.text
             mprow['shortname'] = t
+            mprow['slug'] = slugify(t)
             mprow['url_democratica'] = 'http://demo.cratica.org/deputados/%s/' % slugify(t)
         if birthdate:
             mprow['birthdate'] = birthdate.text
