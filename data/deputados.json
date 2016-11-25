@@ -2320,7 +2320,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=41"
   }, 
   "42": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1965-11-25", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Coordenador GP]", 
@@ -3571,7 +3571,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=63"
   }, 
   "64": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Crachá de Ouro da Liga dos Bombeiros Portugueses"
     ], 
@@ -4240,7 +4240,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=76"
   }, 
   "77": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Grã-Cruz da Ordem do Cruzeiro do Sul da República Federativa do Brasil", 
       "Oficial da Ordem do Mérito do Grão Ducado do Luxemburgo"
@@ -6975,7 +6975,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=128"
   }, 
   "129": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1964-07-24", 
     "commissions": [], 
     "education": [
@@ -9111,7 +9111,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=161"
   }, 
   "162": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "DO CONGRESSO BRASILEIRO E DA RAINHA DA HOLANDA"
     ], 
@@ -9206,7 +9206,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=162"
   }, 
   "163": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Bolivar - Venezuela"
     ], 
@@ -10143,7 +10143,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=178"
   }, 
   "179": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Comendador da República Italiana"
     ], 
@@ -11154,7 +11154,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=192"
   }, 
   "193": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Grã Cruz da Ordem do Mérito", 
       "Grande Oficial da Ordem do Infante", 
@@ -11832,7 +11832,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=203"
   }, 
   "204": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Ordem das Três Estrelas Ouro - Letónia", 
       "Cavaleira das Três Estrelas Ouro - Letónia", 
@@ -12443,7 +12443,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=209"
   }, 
   "210": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1947-04-13", 
     "commissions": [], 
     "current_jobs": [
@@ -15083,7 +15083,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=270"
   }, 
   "271": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Comendador da Ordem de Mérito - Presidência da República"
     ], 
@@ -18266,7 +18266,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=413"
   }, 
   "416": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1971-04-30", 
     "commissions": [
       "Comissão de Agricultura e Mar", 
@@ -18383,7 +18383,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=417"
   }, 
   "419": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1950-12-22", 
     "commissions": [
       "Comissão de Agricultura e Mar [Presidente]", 
@@ -19422,7 +19422,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=463"
   }, 
   "466": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1944-07-09", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
@@ -19495,7 +19495,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=467"
   }, 
   "469": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1961-10-29", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
@@ -19771,7 +19771,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=484"
   }, 
   "487": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1950-06-04", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
@@ -20190,7 +20190,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=522"
   }, 
   "523": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1967-01-30", 
     "commissions": [
       "Comissão de Agricultura e Mar", 
@@ -21841,7 +21841,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=628"
   }, 
   "629": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1956-10-24", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
@@ -21985,7 +21985,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=645"
   }, 
   "646": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1967-05-18", 
     "commissions": [
       "Comissão de Defesa Nacional [Presidente]"
@@ -22081,7 +22081,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=677"
   }, 
   "682": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Medalha de Mérito Municipal, Grau Ouro, atribuida pela Câmara Municipal de Ansião em Maio de 2009"
     ], 
@@ -22313,7 +22313,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=691"
   }, 
   "695": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1948-05-13", 
     "commissions": [
       "Comissão de Educação e Ciência [Suplente]", 
@@ -22746,7 +22746,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=774"
   }, 
   "780": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1962-08-27", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Coordenador GP]", 
@@ -22835,7 +22835,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=780"
   }, 
   "792": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1951-09-06", 
     "commissions": [
       "Comissão de Agricultura e Mar [Coordenador GP]", 
@@ -23045,7 +23045,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=833"
   }, 
   "834": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1969-06-26", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -23152,7 +23152,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=834"
   }, 
   "839": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1957-03-06", 
     "commissions": [
       "Comissão de Agricultura e Mar", 
@@ -23746,7 +23746,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1027"
   }, 
   "1028": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1973-01-12", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
@@ -23873,7 +23873,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1029"
   }, 
   "1030": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1951-12-04", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Presidente]", 
@@ -24398,7 +24398,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1087"
   }, 
   "1102": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1974-05-29", 
     "commissions": [
       "Comissão de Assuntos Europeus [Coordenador GP]", 
@@ -24861,7 +24861,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1153"
   }, 
   "1154": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Ordem da Liberdade (2005)", 
       "Medalha de mérito do Conselho da Europa (1982)"
@@ -25269,7 +25269,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1162"
   }, 
   "1163": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1954-01-01", 
     "commissions": [
       "Comissão de Trabalho e Segurança Social", 
@@ -25322,7 +25322,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1163"
   }, 
   "1164": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1952-07-04", 
     "commissions": [
       "Comissão de Defesa Nacional", 
@@ -26624,7 +26624,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1238"
   }, 
   "1239": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1957-08-25", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -27234,7 +27234,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1263"
   }, 
   "1264": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1972-07-29", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Presidente]"
@@ -30048,7 +30048,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1431"
   }, 
   "1432": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1959-04-06", 
     "commissions": [
       "Comissão de Agricultura e Mar [Suplente]", 
@@ -30126,7 +30126,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1433"
   }, 
   "1434": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "comendador de mérito", 
       "ordem do rio branco da republica federativa do brasil"
@@ -30474,7 +30474,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1447"
   }, 
   "1450": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1967-06-08", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
@@ -30564,7 +30564,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1450"
   }, 
   "1458": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "\"Chevalier de la Légion d'Honneur\" - França", 
       "Grã-cruz da Ordem de Mérito do Grão Ducado do Luxemburgo"
@@ -32477,7 +32477,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1553"
   }, 
   "1554": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1968-09-09", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Coordenador GP]", 
@@ -32631,7 +32631,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1559"
   }, 
   "1561": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1973-02-16", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -33385,7 +33385,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1593"
   }, 
   "1594": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Louvor da Presidência da República (1996).", 
       "Comenda da Ordem de Mérito (1996)"
@@ -33500,7 +33500,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1596"
   }, 
   "1597": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1962-01-18", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas", 
@@ -33548,7 +33548,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1597"
   }, 
   "1600": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1975-07-17", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -33872,7 +33872,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1610"
   }, 
   "1611": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Medalha de Honra do Concelho de Gouveia"
     ], 
@@ -34114,7 +34114,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1617"
   }, 
   "1619": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Distinguido para o prémio Revelação Política Nacional em 1997, pela Revista Valor", 
       "Militante Honorário da JSD", 
@@ -34225,7 +34225,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1619"
   }, 
   "1620": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1955-01-17", 
     "commissions": [
       "Comissão de Saúde", 
@@ -34986,7 +34986,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1641"
   }, 
   "1643": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1963-05-08", 
     "commissions": [
       "Comissão de Defesa Nacional", 
@@ -35291,7 +35291,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1653"
   }, 
   "1654": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Cruz de S. Jorge (1.ª Classe)", 
       "Sócio de Mérito da Sociedade Protectora dos Animais", 
@@ -35408,7 +35408,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1654"
   }, 
   "1655": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1960-02-04", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Coordenador GP;Vice-Presidente]", 
@@ -35578,7 +35578,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1656"
   }, 
   "1657": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Presidente Honorário da Juventude Popular"
     ], 
@@ -36326,7 +36326,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1678"
   }, 
   "1679": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1952-05-03", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
@@ -37131,7 +37131,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1699"
   }, 
   "1700": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Condecorações do Brasil e da Argentina"
     ], 
@@ -37659,7 +37659,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1712"
   }, 
   "1713": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1971-05-15", 
     "commissions": [
       "Comissão de Defesa Nacional", 
@@ -37734,7 +37734,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1713"
   }, 
   "1715": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1976-10-19", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas [Coordenador GP]", 
@@ -38166,7 +38166,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1732"
   }, 
   "1733": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1970-04-16", 
     "commissions": [
       "Comissão de Defesa Nacional", 
@@ -38318,7 +38318,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1737"
   }, 
   "1738": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1972-12-30", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
@@ -38503,7 +38503,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1740"
   }, 
   "1741": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1961-08-22", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Coordenador GP]", 
@@ -38604,7 +38604,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1742"
   }, 
   "1743": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1954-02-04", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
@@ -38927,7 +38927,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1801"
   }, 
   "1814": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1949-08-29", 
     "commissions": [
       "Comissão de Defesa Nacional"
@@ -39538,7 +39538,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1848"
   }, 
   "1851": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1961-03-29", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
@@ -40463,7 +40463,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1892"
   }, 
   "1893": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1973-04-01", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas", 
@@ -40547,7 +40547,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1896"
   }, 
   "1897": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1959-07-21", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -40795,7 +40795,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1904"
   }, 
   "1905": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Cruz do Mérito Policial com Distintivo Vermelho de Espanha - concedido pelo Governo do Reino de Espanha (D.R. N.º 65. II Série de 11-03-2000)"
     ], 
@@ -41208,7 +41208,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1922"
   }, 
   "1923": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1969-02-14", 
     "commissions": [
       "Comissão de Saúde", 
@@ -41777,7 +41777,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1943"
   }, 
   "1944": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1967-04-25", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -41936,7 +41936,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1949"
   }, 
   "1951": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1959-09-04", 
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
@@ -42661,7 +42661,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1973"
   }, 
   "1974": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Medalha de Mérito da Federação Portuguesa de Judo"
     ], 
@@ -42775,7 +42775,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1975"
   }, 
   "1977": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1970-08-14", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -43255,7 +43255,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1991"
   }, 
   "1992": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1963-01-10", 
     "commissions": [
       "Comissão de Defesa Nacional [Coordenador GP]", 
@@ -43329,7 +43329,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1992"
   }, 
   "1993": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1974-10-04", 
     "commissions": [
       "Comissão de Agricultura e Mar", 
@@ -43387,7 +43387,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1993"
   }, 
   "1998": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1961-11-26", 
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
@@ -43690,7 +43690,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2008"
   }, 
   "2010": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1963-05-03", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
@@ -44976,7 +44976,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2060"
   }, 
   "2061": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1957-07-18", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]"
@@ -45315,7 +45315,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2067"
   }, 
   "2069": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1976-05-20", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -45387,7 +45387,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2069"
   }, 
   "2071": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1971-03-24", 
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
@@ -45548,7 +45548,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2074"
   }, 
   "2077": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1955-08-29", 
     "commissions": [], 
     "current_jobs": [
@@ -45704,7 +45704,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2079"
   }, 
   "2084": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1972-03-04", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -45990,7 +45990,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2090"
   }, 
   "2092": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1968-01-02", 
     "commissions": [
       "Comissão de Saúde [Coordenador GP]", 
@@ -46166,7 +46166,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2098"
   }, 
   "2103": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1968-02-12", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
@@ -46231,7 +46231,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2103"
   }, 
   "2104": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1952-02-09", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas"
@@ -46358,7 +46358,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2105"
   }, 
   "2106": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1960-11-04", 
     "commissions": [
       "Comissão de Assuntos Europeus [Presidente]", 
@@ -46661,7 +46661,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2113"
   }, 
   "2114": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1965-05-23", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas", 
@@ -46810,7 +46810,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2116"
   }, 
   "2117": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1975-06-16", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas", 
@@ -47010,7 +47010,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2128"
   }, 
   "2129": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1976-09-28", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Coordenador GP]", 
@@ -47087,7 +47087,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2130"
   }, 
   "2132": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Grã-Cruz da Ordem Internacional do Mérito do Descobridor do Brasil Pedro Álvares Cabral, atribuída em 05 de Junho de 2007."
     ], 
@@ -48485,7 +48485,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2183"
   }, 
   "2184": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1979-08-27", 
     "commissions": [
       "Comissão de Assuntos Europeus [Suplente]", 
@@ -49405,7 +49405,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2224"
   }, 
   "2225": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1966-09-21", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa", 
@@ -49743,7 +49743,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2230"
   }, 
   "2234": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1979-07-09", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Coordenador GP]"
@@ -50363,7 +50363,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2259"
   }, 
   "2260": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1958-01-03", 
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
@@ -51092,7 +51092,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2287"
   }, 
   "2297": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1976-08-06", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
@@ -51158,7 +51158,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2297"
   }, 
   "2300": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1957-03-02", 
     "commissions": [
       "Comissão de Agricultura e Mar", 
@@ -51420,7 +51420,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2368"
   }, 
   "2419": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1977-05-29", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Coordenador GP;Vice-Presidente]", 
@@ -51487,7 +51487,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2419"
   }, 
   "2433": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1984-08-11", 
     "commissions": [
       "Comissão de Trabalho e Segurança Social [Coordenador GP]"
@@ -51555,7 +51555,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2433"
   }, 
   "2445": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1983-09-19", 
     "commissions": [
       "Comissão de Assuntos Europeus [Suplente]", 
@@ -51861,7 +51861,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2641"
   }, 
   "2665": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1965-12-28", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
@@ -52238,7 +52238,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2867"
   }, 
   "2885": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1963-11-18", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
@@ -52331,7 +52331,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=2886"
   }, 
   "2952": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1956-10-30", 
     "commissions": [], 
     "education": [
@@ -52474,7 +52474,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=3339"
   }, 
   "3387": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1947-12-06", 
     "commissions": [
       "Comissão de Cultura, Comunicação, Juventude e Desporto [Coordenador GP;Vice-Presidente]", 
@@ -52803,7 +52803,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=3920"
   }, 
   "3926": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1979-02-15", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Coordenador GP;Vice-Presidente]", 
@@ -52952,7 +52952,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=3931"
   }, 
   "3934": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1972-10-13", 
     "commissions": [
       "Comissão de Agricultura e Mar [Coordenador GP;Vice-Presidente]", 
@@ -53017,7 +53017,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=3934"
   }, 
   "3935": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1979-04-21", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
@@ -53058,7 +53058,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=3935"
   }, 
   "3936": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1961-11-24", 
     "commissions": [
       "Comissão de Agricultura e Mar", 
@@ -53431,7 +53431,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=3957"
   }, 
   "3963": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1954-06-16", 
     "commissions": [
       "Comissão de Defesa Nacional", 
@@ -53848,7 +53848,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=3995"
   }, 
   "3998": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1958-12-18", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Coordenador GP]", 
@@ -53961,7 +53961,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4011"
   }, 
   "4012": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1957-01-26", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -54130,7 +54130,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4018"
   }, 
   "4022": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1956-03-08", 
     "commissions": [
       "Comissão de Defesa Nacional [Coordenador GP;Vice-Presidente]", 
@@ -54198,7 +54198,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4026"
   }, 
   "4030": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1968-02-13", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Coordenador GP]", 
@@ -54438,7 +54438,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4051"
   }, 
   "4052": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1980-07-21", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -54522,7 +54522,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4052"
   }, 
   "4057": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1974-09-28", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
@@ -54580,7 +54580,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4057"
   }, 
   "4059": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1953-04-05", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas [Coordenador GP]", 
@@ -54964,7 +54964,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4085"
   }, 
   "4086": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1980-04-02", 
     "commissions": [
       "Comissão de Assuntos Europeus [Suplente]", 
@@ -55122,7 +55122,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4092"
   }, 
   "4095": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1981-10-30", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
@@ -55179,7 +55179,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4095"
   }, 
   "4096": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Comendadora da Ordem do Mérito"
     ], 
@@ -55282,7 +55282,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4097"
   }, 
   "4104": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1983-01-05", 
     "commissions": [
       "Comissão de Trabalho e Segurança Social [Coordenador GP;Vice-Presidente]", 
@@ -55331,7 +55331,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4104"
   }, 
   "4126": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1978-01-20", 
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
@@ -55377,7 +55377,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4126"
   }, 
   "4129": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1958-09-01", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa", 
@@ -55752,7 +55752,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4146"
   }, 
   "4147": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1980-02-08", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
@@ -55809,7 +55809,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4147"
   }, 
   "4148": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1979-08-23", 
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
@@ -55869,7 +55869,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4148"
   }, 
   "4152": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1965-12-28", 
     "commissions": [
       "Comissão de Assuntos Europeus [Suplente]", 
@@ -55959,7 +55959,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4157"
   }, 
   "4161": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1973-09-07", 
     "commissions": [], 
     "current_jobs": [
@@ -56012,7 +56012,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4161"
   }, 
   "4162": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1985-12-25", 
     "commissions": [
       "Comissão de Assuntos Europeus", 
@@ -56053,7 +56053,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4162"
   }, 
   "4166": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1976-08-04", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa", 
@@ -56200,7 +56200,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4169"
   }, 
   "4170": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1981-05-09", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
@@ -56256,7 +56256,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4170"
   }, 
   "4172": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1975-01-18", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -56377,7 +56377,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4174"
   }, 
   "4186": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Público Louvor, por serviços prestados na Câmara Municipal de Setúbal - 10 de Setembro de 1996", 
       "Louvor, por serviços prestados no Governo Civil do Distrito de Setúbal - 8 de Julho de 1985 (DR - 2ª Série - nº 154 - 8 de Julho de 1985)", 
@@ -56581,7 +56581,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4189"
   }, 
   "4193": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Medalha de Mérito da Cooperação do Instituto Luso-Árabe para a Cooperação.", 
       "Medalha de Ouro da Liga de Bombeiros Portugueses."
@@ -56665,7 +56665,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4193"
   }, 
   "4194": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1975-10-19", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
@@ -56717,7 +56717,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4194"
   }, 
   "4196": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1972-10-21", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -56758,7 +56758,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4196"
   }, 
   "4197": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1980-09-29", 
     "commissions": [
       "Comissão de Assuntos Europeus [Coordenador GP;Vice-Presidente]", 
@@ -57033,7 +57033,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4208"
   }, 
   "4209": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1958-11-22", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -57100,7 +57100,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4209"
   }, 
   "4210": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1966-11-14", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas", 
@@ -57720,7 +57720,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4296"
   }, 
   "4297": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1971-11-06", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
@@ -57768,7 +57768,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4297"
   }, 
   "4299": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1970-04-30", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -57817,7 +57817,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4299"
   }, 
   "4300": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1983-03-02", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -57863,7 +57863,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4300"
   }, 
   "4304": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1981-04-21", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
@@ -58088,7 +58088,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4317"
   }, 
   "4318": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1973-07-28", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
@@ -58297,7 +58297,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4325"
   }, 
   "4326": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1976-11-21", 
     "commissions": [
       "Comissão de Educação e Ciência [Coordenador GP]", 
@@ -58355,7 +58355,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4326"
   }, 
   "4327": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1963-10-01", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -58403,7 +58403,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4327"
   }, 
   "4328": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1958-12-28", 
     "commissions": [
       "Comissão de Agricultura e Mar [Coordenador GP]", 
@@ -58608,7 +58608,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4336"
   }, 
   "4338": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1978-03-31", 
     "commissions": [
       "Comissão de Educação e Ciência", 
@@ -58888,7 +58888,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4363"
   }, 
   "4364": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1961-10-29", 
     "commissions": [
       "Comissão de Defesa Nacional [Suplente]", 
@@ -58945,7 +58945,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4364"
   }, 
   "4365": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Prémio Fundação Engenheiro António de Almeida, por ter obtido a melhor classificação de licenciatura em Línguas e Literaturas Modernas", 
       "Medalha de Mérito, Grau Prata, da Câmara Municipal de Chaves pelo contributo no campo cultural", 
@@ -59279,7 +59279,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4378"
   }, 
   "4380": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1967-09-16", 
     "commissions": [
       "Comissão de Assuntos Europeus"
@@ -59422,7 +59422,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4382"
   }, 
   "4389": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1961-03-29", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -59545,7 +59545,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4391"
   }, 
   "4392": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1965-02-19", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -59596,7 +59596,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4392"
   }, 
   "4393": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1986-05-13", 
     "commissions": [
       "Comissão de Educação e Ciência [Suplente]", 
@@ -59644,7 +59644,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4393"
   }, 
   "4394": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1972-05-16", 
     "commissions": [
       "Comissão de Educação e Ciência", 
@@ -59922,7 +59922,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4401"
   }, 
   "4402": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1977-07-12", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -59993,7 +59993,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4403"
   }, 
   "4405": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1986-04-24", 
     "commissions": [
       "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
@@ -60196,7 +60196,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4433"
   }, 
   "4434": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1960-06-01", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
@@ -60282,7 +60282,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4435"
   }, 
   "4436": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1985-03-16", 
     "commissions": [
       "Comissão de Educação e Ciência [Suplente]", 
@@ -60326,7 +60326,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4436"
   }, 
   "4437": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Não aplicável"
     ], 
@@ -60501,7 +60501,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4440"
   }, 
   "4441": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1980-05-31", 
     "commissions": [
       "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
@@ -60736,7 +60736,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4451"
   }, 
   "4452": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1976-04-02", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -60789,7 +60789,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4452"
   }, 
   "4453": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1980-12-12", 
     "commissions": [
       "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
@@ -60864,7 +60864,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4453"
   }, 
   "4471": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1965-07-12", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Coordenador GP]", 
@@ -61057,7 +61057,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4488"
   }, 
   "4551": {
-    "active": false, 
+    "active": true, 
     "awards": [
       "Louvor da Região de Turismo do Nordeste Transmontano - Secretaria de Estado do Turismo"
     ], 
@@ -61194,7 +61194,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4555"
   }, 
   "4557": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1986-06-24", 
     "commissions": [
       "Comissão de Orçamento, Finanças e Modernização Administrativa [Coordenador GP]", 
@@ -61279,7 +61279,7 @@
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4562"
   }, 
   "4623": {
-    "active": false, 
+    "active": true, 
     "birthdate": "1981-03-17", 
     "commissions": [
       "Comissão de Trabalho e Segurança Social [Suplente]", 

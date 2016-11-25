@@ -27,7 +27,7 @@ ROMAN_NUMERALS = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5,
                   'XVI': 16, 'XVII': 17, 'XVIII': 18, 'XIX': 19, 'XX': 20,
                   'XXI': 21, 'XXII': 22, 'XXIII': 23, 'XXIV': 24, 'XXV': 25}
 
-ACTIVE_MP_URL = 'http://www.parlamento.pt/DeputadoGP/Paginas/Deputados.aspx'
+ACTIVE_MP_URL = 'http://www.parlamento.pt/DeputadoGP/Paginas/Deputadoslista.aspx'
 MP_BIO_URL_FORMATTER = 'http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=%d'
 
 RE_NAME = re.compile('Nome.*Text')
