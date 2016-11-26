@@ -43,19 +43,24 @@ Depois, para instalar o virtualenv, já no diretório base do repositório:
 ## Como usar
 
 Para atualizar os datasets no diretório `data/`:
+
     make scrape
 
 ### Correr o script diretamente
 
 Gravar o resultado num ficheiro JSON:
+
     python scrape.py -o deputados.json
 
 Gravar o resultado num ficheiro JSON com uma indentação de 4 espaços:
+
     python scrape.py -o deputados.json -i 4
 
 Gravar o resultado num ficheiro CSV:
+
     python scrape.py -f csv -o deputados.csv
 
 Para ver todas as opções possíveis:
+
     python scrape.py --help
 
