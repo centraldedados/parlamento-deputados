@@ -125,6 +125,11 @@ def process_mp(i):
             mprow['birthdate'] = birthdate.text
         if party:
             mprow['party'] = party.text
+
+        # individual cases
+        if mprow['shortname'] == "Jorge Costa" and mprow['party'] == 'BE':
+            mprow['shortname'] = "Jorge Duarte Costa"
+
         if education:
             # TODO: break educations string into multiple entries, ';' is the separator
             mprow['education'] = extract_details(education)
