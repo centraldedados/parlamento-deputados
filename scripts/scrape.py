@@ -181,7 +181,7 @@ def process_mp(i):
         return mprow
 
 
-def scrape(format, start=1, end=5000, outfile='', indent=1, processes=2):
+def scrape(format, start=1, end=7000, outfile='', indent=1, processes=2):
     # Start with including the old MP list (those not on Parlamento.pt)
     # TODO
     # from utils import getpage, load_csv
@@ -232,7 +232,7 @@ def scrape(format, start=1, end=5000, outfile='', indent=1, processes=2):
 @click.command()
 @click.option("-f", "--format", help="Output file format, can be json (default) or csv", default="json")
 @click.option("-s", "--start", type=int, help="Begin scrape from this ID (int required, default 0)", default=0)
-@click.option("-e", "--end", type=int, help="End scrape at this ID (int required, default 5000)", default=5000)
+@click.option("-e", "--end", type=int, help="End scrape at this ID (int required, default 7000)", default=7000)
 @click.option("-v", "--verbose", is_flag=True, help="Print some helpful information when running")
 @click.option("-o", "--outfile", type=click.Path(), help="Output file (default is deputados.json)")
 @click.option("-i", "--indent", type=int, help="Spaces for JSON indentation (default is 2)", default=2)

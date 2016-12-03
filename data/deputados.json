@@ -30558,7 +30558,7 @@
       "Técnico de Turismo"
     ], 
     "party": "CDS-PP", 
-    "shortname": "Helder Amaral", 
+    "shortname": "Hélder Amaral", 
     "slug": "helder-amaral", 
     "url_democratica": "http://demo.cratica.org/deputados/helder-amaral/", 
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=1450"
@@ -54626,9 +54626,9 @@
       "Economista"
     ], 
     "party": "BE", 
-    "shortname": "Heitor de Sousa", 
-    "slug": "heitor-de-sousa", 
-    "url_democratica": "http://demo.cratica.org/deputados/heitor-de-sousa/", 
+    "shortname": "Heitor Sousa", 
+    "slug": "heitor-sousa", 
+    "url_democratica": "http://demo.cratica.org/deputados/heitor-sousa/", 
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4059"
   }, 
   "4064": {
@@ -61351,5 +61351,3267 @@
     "slug": "eugenia-taveira", 
     "url_democratica": "http://demo.cratica.org/deputados/eugenia-taveira/", 
     "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4642"
+  }, 
+  "5489": {
+    "active": true, 
+    "birthdate": "1954-09-02", 
+    "commissions": [
+      "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
+      "Comissão de Saúde [Suplente]", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
+      "Grupo de Trabalho - PJL Lei-Quadro das Entidades Reguladoras"
+    ], 
+    "current_jobs": [
+      "•\tDeputado à XIII Legislatura", 
+      "•\tMembro da Assembleia Municipal de Santa Maria da Feira", 
+      "•\tPresidente da Assembleia Geral do Clube Académico da Feira", 
+      "•\tPresidente do Conselho Fiscal da Associação Recreativa e Desportiva Vilamaiorense", 
+      "•\tMembro da Comissão Política Nacional do PSD", 
+      "•\tPresidente da Mesa da Assembleia Distrital do PSD de Aveiro"
+    ], 
+    "education": [
+      "Licenciatura em Engenharia Civil"
+    ], 
+    "id": 5489, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5489&type=deputado", 
+    "jobs": [
+      "•\tEngenheiro Civil - Profissional independente", 
+      "•\tVereador do Planeamento, Urbanismo e Obras Particulares da          Câmara Municipal de Santa Maria da Feira", 
+      "•\tMembro da Assembleia Municipal de Santa Maria da Feira", 
+      "•\tMembro da Assembleia de Freguesia de Vila Maior, Santa Maria da Feira", 
+      "•\tPresidente da Comissão Política Distrital do PSD de Aveiro", 
+      "•\tPresidente da Comissão Política Concelhia do PSD de Santa Maria da Feira", 
+      "•\t"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5489&lg=XIII", 
+        "constituency": "Aveiro", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5489&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "António André da Silva Topa", 
+    "occupation": [
+      "Eng.º Civil"
+    ], 
+    "party": "PSD", 
+    "shortname": "António Topa", 
+    "slug": "antonio-topa", 
+    "url_democratica": "http://demo.cratica.org/deputados/antonio-topa/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5489"
+  }, 
+  "5490": {
+    "active": true, 
+    "birthdate": "1977-03-22", 
+    "commissions": [
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto"
+    ], 
+    "current_jobs": [
+      "Segunda Secretaria da Assembleia Municipal de Oliveira de Azeméis (2013 - atualidade)", 
+      "Presidente do Núcleo das Mulheres Sociais Democratas de Oliveira de Azeméis (2013 - atualidade)"
+    ], 
+    "education": [
+      "Licenciatura em Contabilidade", 
+      "Curso de Formação Pedagógica de Formadores"
+    ], 
+    "id": 5490, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5490&type=deputado", 
+    "jobs": [
+      "Membro Suplente Assembleia Municipal de Oliveira de Azeméis (2009-2013)", 
+      "Escriturária de Seguros (2000-2014)", 
+      "Consultora Comercial de Seguros ( Desde 2015)"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5490&lg=XIII", 
+        "constituency": "Aveiro", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5490&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Helga Alexandra Freire Correia", 
+    "occupation": [
+      "Assistente Comercial Interna de Seguros"
+    ], 
+    "party": "PSD", 
+    "shortname": "Helga Correia", 
+    "slug": "helga-correia", 
+    "url_democratica": "http://demo.cratica.org/deputados/helga-correia/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5490"
+  }, 
+  "5491": {
+    "active": true, 
+    "birthdate": "1968-04-25", 
+    "commissions": [
+      "Comissão de Educação e Ciência [Suplente]", 
+      "Comissão de Trabalho e Segurança Social", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Coordenador GP]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas"
+    ], 
+    "current_jobs": [
+      "Deputada na Assembleia Municipal de São João da Madeira (2013/2017)", 
+      "Vice-coordenadora da bancada do PSD na Assembleia municipal de São João da Madeira", 
+      "Membro do Conselho Geral e de Supervisão da Habitar S. João - Empresa Municipal de Habitação, E.M. (2014/...)", 
+      "Presidente da Assembleia Geral da CERCI de São João da Madeira (2014/...)", 
+      ""
+    ], 
+    "education": [
+      "Licenciatura em Direito"
+    ], 
+    "id": 5491, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5491&type=deputado", 
+    "jobs": [
+      "Deputada na Assembleia Municipal de São João da Madeira (2009/2013)"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5491&lg=XIII", 
+        "constituency": "Aveiro", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5491&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Susana Maria de Oliveira Lamas", 
+    "occupation": [
+      "Advogada e Professora do Ensino Superior Politécnico"
+    ], 
+    "party": "PSD", 
+    "shortname": "Susana Lamas", 
+    "slug": "susana-lamas", 
+    "url_democratica": "http://demo.cratica.org/deputados/susana-lamas/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5491"
+  }, 
+  "5493": {
+    "active": false, 
+    "birthdate": "1977-05-19", 
+    "commissions": [], 
+    "current_jobs": [
+      "vereadora na Camara Municipal de Oliveira do Bairro(sem pelouros atribuídos)"
+    ], 
+    "education": [
+      "Licenciatura em Direito"
+    ], 
+    "id": 5493, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5493&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5493&lg=XIII", 
+        "constituency": "Aveiro", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "CDS-PP", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Lília Ana da Cruz Oliveira Martins Águas", 
+    "occupation": [
+      "Advogada"
+    ], 
+    "party": "CDS-PP", 
+    "shortname": "Lília Ana Águas", 
+    "slug": "lilia-ana-aguas", 
+    "url_democratica": "http://demo.cratica.org/deputados/lilia-ana-aguas/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5493"
+  }, 
+  "5500": {
+    "active": false, 
+    "birthdate": "1971-02-19", 
+    "commissions": [], 
+    "education": [
+      "Frequência  de Doutoramento em Direito, na especialidade de Ciências Jurídico-económicas"
+    ], 
+    "id": 5500, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5500&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5500&lg=XIII", 
+        "constituency": "Aveiro", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Fernando António Portela Rocha de Andrade", 
+    "occupation": [
+      "Docente Universitário"
+    ], 
+    "party": "PS", 
+    "shortname": "Fernando Rocha Andrade", 
+    "slug": "fernando-rocha-andrade", 
+    "url_democratica": "http://demo.cratica.org/deputados/fernando-rocha-andrade/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5500"
+  }, 
+  "5501": {
+    "active": true, 
+    "birthdate": "1977-11-16", 
+    "commissions": [], 
+    "current_jobs": [
+      "DEPUTADO DA XIII LEGISLATURA", 
+      "MEMBRO DA ASSEMBLEIA MUNICIPAL DE ÁGUEDA - 1ª SECRETÁRIA DA MESA", 
+      "PRESIDENTE DO DEPARTAMENTO FEDERATIVO DAS MULHERES SOCIALISTAS DE AVEIRO"
+    ], 
+    "education": [
+      "Licenciatura em DIREITO PELA FACULDADE DE DIREITO DA UNIVERSIDADE DE COIMBRA"
+    ], 
+    "id": 5501, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5501&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5501&lg=XIII", 
+        "constituency": "Aveiro", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5501&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Carla Eliana da Costa Tavares", 
+    "occupation": [
+      "ADVOGADA"
+    ], 
+    "party": "PS", 
+    "shortname": "Carla Tavares", 
+    "slug": "carla-tavares", 
+    "url_democratica": "http://demo.cratica.org/deputados/carla-tavares/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5501"
+  }, 
+  "5528": {
+    "active": false, 
+    "birthdate": "1968-04-28", 
+    "commissions": [], 
+    "id": 5528, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5528&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5528&lg=XIII", 
+        "constituency": "Braga", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Manuel de Herédia Caldeira Cabral", 
+    "occupation": [
+      "Professor Universitário"
+    ], 
+    "party": "PS", 
+    "shortname": "Manuel Caldeira Cabral", 
+    "slug": "manuel-caldeira-cabral", 
+    "url_democratica": "http://demo.cratica.org/deputados/manuel-caldeira-cabral/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5528"
+  }, 
+  "5529": {
+    "active": true, 
+    "birthdate": "1953-09-21", 
+    "commissions": [
+      "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
+      "Comissão de Saúde", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
+      "Grupo de Trabalho - Concessão de Audiências"
+    ], 
+    "current_jobs": [
+      "Deputado na Assembleia da República na XIII Legislatura"
+    ], 
+    "education": [
+      "1º Ciclo", 
+      "2º Ciclo", 
+      "3º Ciclo", 
+      "Ensino Secundário", 
+      "Licenciatura em Sociologia das Organizações"
+    ], 
+    "id": 5529, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5529&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5529&lg=XIII", 
+        "constituency": "Braga", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5529&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Domingos Ribeiro Pereira", 
+    "occupation": [
+      "Gestor Comercial"
+    ], 
+    "party": "PS", 
+    "shortname": "Domingos Pereira", 
+    "slug": "domingos-pereira", 
+    "url_democratica": "http://demo.cratica.org/deputados/domingos-pereira/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5529"
+  }, 
+  "5530": {
+    "active": true, 
+    "birthdate": "1955-08-30", 
+    "commissions": [
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
+      "Comissão de Agricultura e Mar [Suplente]", 
+      "Comissão de Educação e Ciência", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]"
+    ], 
+    "current_jobs": [
+      "Deputada da XIII Legislatura, com início em 2015."
+    ], 
+    "education": [
+      "Licenciatura em Geografia"
+    ], 
+    "id": 5530, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5530&type=deputado", 
+    "jobs": [
+      "Professora do ensino secundário, onde sempre desempenhou diversos cargos/funções de natureza pedagógica e de gestão", 
+      "Desempenho de cargos/funções político-partidárias, a nível concelhio, distrital e nacional."
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5530&lg=XIII", 
+        "constituency": "Braga", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5530&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Maria Augusta de Araújo Fontes dos Santos", 
+    "occupation": [
+      "Professora"
+    ], 
+    "party": "PS", 
+    "shortname": "Maria Augusta Santos", 
+    "slug": "maria-augusta-santos", 
+    "url_democratica": "http://demo.cratica.org/deputados/maria-augusta-santos/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5530"
+  }, 
+  "5531": {
+    "active": true, 
+    "birthdate": "1983-07-08", 
+    "commissions": [
+      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
+      "Comissão de Saúde", 
+      "Comissão de Trabalho e Segurança Social [Suplente]"
+    ], 
+    "current_jobs": [
+      "Membro da Assembleia de Freguesia de Caldelas, Guimarães", 
+      "Deputado da Assembleia Municipal de Guimarães"
+    ], 
+    "education": [
+      "Licenciatura em Direito", 
+      "Pós Graduação em Administração e Gestão do Turismo"
+    ], 
+    "id": 5531, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5531&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5531&lg=XIII", 
+        "constituency": "Braga", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5531&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Luís Miguel de Freitas Marques Carvalho Soares", 
+    "occupation": [
+      "Jurista"
+    ], 
+    "party": "PS", 
+    "shortname": "Luís Soares", 
+    "slug": "luis-soares", 
+    "url_democratica": "http://demo.cratica.org/deputados/luis-soares/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5531"
+  }, 
+  "5580": {
+    "active": true, 
+    "birthdate": "1988-06-08", 
+    "commissions": [
+      "Comissão de Educação e Ciência", 
+      "Comissão de Saúde [Suplente]", 
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites", 
+      "Grupo de Trabalho da Educação Especial", 
+      "Subcomissão para a Igualdade e Não Discriminação [Suplente]"
+    ], 
+    "current_jobs": [
+      "Membro da Assembleia Municipal de Cabeceiras de Basto", 
+      "Vice-Presidente da Comissão Política de secção de Cabeceiras de Basto", 
+      "Presidente da Mesa do Plenário da JSD da concelhia de Cabeceiras de Basto", 
+      "Vogal da Comissão Política Distrital de Braga", 
+      "Membro do Centro de Investigação em Estudos da Criança (CIEC) da Universidade do Minho"
+    ], 
+    "education": [
+      "Licenciatura em Educação", 
+      "Mestrado em Educação - Especialização em Mediação Educacional e Supervisão na Formação", 
+      "Frequência  de Doutoramento em Ciências da Educação - Especialização em Psicologia da Educação"
+    ], 
+    "id": 5580, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5580&type=deputado", 
+    "jobs": [
+      "Membro da Assembleia de Freguesia de Pedraça, Cabeceiras de Basto"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5580&lg=XIII", 
+        "constituency": "Braga", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5580&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Laura Patrícia de Sousa Monteiro Magalhães", 
+    "occupation": [
+      "Investigadora"
+    ], 
+    "party": "PSD", 
+    "shortname": "Laura Monteiro Magalhães", 
+    "slug": "laura-monteiro-magalhaes", 
+    "url_democratica": "http://demo.cratica.org/deputados/laura-monteiro-magalhaes/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5580"
+  }, 
+  "5581": {
+    "active": true, 
+    "birthdate": "1965-04-30", 
+    "commissions": [
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
+      "Comissão de Defesa Nacional"
+    ], 
+    "current_jobs": [
+      "Presidente da CPS do PSD Vila Verde", 
+      "Gestor Escolar", 
+      "Deputado AR, XIII Legislatura."
+    ], 
+    "education": [
+      "Licenciatura em Humanidades", 
+      "Mestrado em Literatura Portuguesa"
+    ], 
+    "id": 5581, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5581&type=deputado", 
+    "jobs": [
+      "Presidente da RGA da AE da ES Sá de Miranda, Braga", 
+      "Presidente da CPS da JSD Vila Verde", 
+      "Professor do Ensino Secundário;+", 
+      "Membro da AM Vila Verde", 
+      "Vereador da CM Vila Verde em Regime de Permanência", 
+      "Vice-Presidente da CM Vila Verde", 
+      "Presidente do CA da EPATV", 
+      "Presidente da AG do CIAB", 
+      "Membro do CA da PROVIVER; E.M.", 
+      "Membro da AD de Braga do PSD", 
+      "Membro da CPD de Braga do PSD", 
+      "Vice-Presidente da CPS do PSD de Vila Verde", 
+      "Conselheiro Nacional do PSD."
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5581&lg=XIII", 
+        "constituency": "Braga", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Rui Manuel Ferreira da Silva", 
+    "occupation": [
+      "Professor"
+    ], 
+    "party": "PSD", 
+    "shortname": "Rui Silva", 
+    "slug": "rui-silva", 
+    "url_democratica": "http://demo.cratica.org/deputados/rui-silva/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5581"
+  }, 
+  "5582": {
+    "active": false, 
+    "birthdate": "1985-02-25", 
+    "commissions": [], 
+    "current_jobs": [
+      "DEPUTADO DA ASSEMBLEIA MUNICIPAL DE VILA VERDE", 
+      "MEMBRO DA ASSEMBLEIA DE FREGUESIA DA VILA DE PRADO", 
+      "PRESIDENTE DO CONSELHO FISCAL DO GRUPO DESPORTIVO DO PRADO", 
+      "PRESIDENTE DA COMISSÃO POLITICA DA DISTRITAL DA JSD BRAGA"
+    ], 
+    "education": [
+      "Licenciatura em GESTÃO"
+    ], 
+    "id": 5582, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5582&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5582&lg=XIII", 
+        "constituency": "Braga", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Miguel Adelino Pereira Peixoto", 
+    "occupation": [
+      "GESTOR EMPRESAS"
+    ], 
+    "party": "PSD", 
+    "shortname": "Miguel Peixoto", 
+    "slug": "miguel-peixoto", 
+    "url_democratica": "http://demo.cratica.org/deputados/miguel-peixoto/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5582"
+  }, 
+  "5587": {
+    "active": false, 
+    "birthdate": "1951-10-28", 
+    "commissions": [], 
+    "education": [
+      "Master gestão Empresarial (P/ não licenciados)"
+    ], 
+    "id": 5587, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5587&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5587&lg=XIII", 
+        "constituency": "Bragança", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Jorge Manuel Nogueiro Gomes", 
+    "occupation": [
+      "Empresario"
+    ], 
+    "party": "PS", 
+    "shortname": "Jorge Gomes", 
+    "slug": "jorge-gomes", 
+    "url_democratica": "http://demo.cratica.org/deputados/jorge-gomes/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5587"
+  }, 
+  "5600": {
+    "active": true, 
+    "birthdate": "1972-03-15", 
+    "commissions": [
+      "Comissão de Assuntos Europeus [Vice-Presidente]", 
+      "Comissão de Orçamento, Finanças e Modernização Administrativa", 
+      "Grupo de Trabalho - Escrutínio de Iniciativas Europeias [Coordenador ]", 
+      "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Combate à criminalidade económica, financeira e fiscal"
+    ], 
+    "education": [
+      "Licenciatura em Gestão de Empresas", 
+      "Mestrado em Ciências Empresarias", 
+      "Doutoramento em Ciências Empresariais"
+    ], 
+    "id": 5600, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5600&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5600&lg=XIII", 
+        "constituency": "Castelo Branco", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5600&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Eurico Jorge Nogueira Leite Brilhante Dias", 
+    "occupation": [
+      "Professor Universitário"
+    ], 
+    "party": "PS", 
+    "shortname": "Eurico Brilhante Dias", 
+    "slug": "eurico-brilhante-dias", 
+    "url_democratica": "http://demo.cratica.org/deputados/eurico-brilhante-dias/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5600"
+  }, 
+  "5607": {
+    "active": false, 
+    "birthdate": "1962-09-24", 
+    "commissions": [], 
+    "education": [
+      "Doutoramento em Ecologia"
+    ], 
+    "id": 5607, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5607&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5607&lg=XIII", 
+        "constituency": "Coimbra", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5607&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Helena Maria de Oliveira Freitas", 
+    "occupation": [
+      "Professora Universitária"
+    ], 
+    "party": "PS", 
+    "shortname": "Helena Freitas", 
+    "slug": "helena-freitas", 
+    "url_democratica": "http://demo.cratica.org/deputados/helena-freitas/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5607"
+  }, 
+  "5617": {
+    "active": true, 
+    "birthdate": "1963-12-03", 
+    "commissions": [
+      "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]", 
+      "Comissão de Educação e Ciência [Vice-Presidente]", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco"
+    ], 
+    "education": [
+      "Doutoramento em Gestão"
+    ], 
+    "id": 5617, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5617&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5617&lg=XIII", 
+        "constituency": "Coimbra", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5617&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Margarida Isabel Mano Tavares Simões Lopes", 
+    "occupation": [
+      "Docente universitária"
+    ], 
+    "party": "PSD", 
+    "shortname": "Margarida Mano", 
+    "slug": "margarida-mano", 
+    "url_democratica": "http://demo.cratica.org/deputados/margarida-mano/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5617"
+  }, 
+  "5618": {
+    "active": true, 
+    "birthdate": "1980-09-14", 
+    "commissions": [
+      "Comissão de Assuntos Europeus", 
+      "Comissão de Trabalho e Segurança Social [Suplente]"
+    ], 
+    "education": [
+      "Doutoramento em Doutoramento"
+    ], 
+    "id": 5618, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5618&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5618&lg=XIII", 
+        "constituency": "Coimbra", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5618&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Manuel Luís Marrecas Ferreira Rodrigues", 
+    "occupation": [
+      "Docente"
+    ], 
+    "party": "PSD", 
+    "shortname": "Manuel Rodrigues", 
+    "slug": "manuel-rodrigues", 
+    "url_democratica": "http://demo.cratica.org/deputados/manuel-rodrigues/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5618"
+  }, 
+  "5635": {
+    "active": true, 
+    "birthdate": "1954-09-22", 
+    "commissions": [
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto"
+    ], 
+    "education": [
+      "Licenciatura em Administração e Gestão Escolar"
+    ], 
+    "id": 5635, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5635&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5635&lg=XIII", 
+        "constituency": "Évora", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5635&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Norberto António Lopes Patinho", 
+    "occupation": [
+      "Aposentado"
+    ], 
+    "party": "PS", 
+    "shortname": "Norberto Patinho", 
+    "slug": "norberto-patinho", 
+    "url_democratica": "http://demo.cratica.org/deputados/norberto-patinho/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5635"
+  }, 
+  "5645": {
+    "active": true, 
+    "birthdate": "1968-11-23", 
+    "commissions": [
+      "Comissão de Assuntos Europeus", 
+      "Comissão de Economia, Inovação e Obras Públicas [Coordenador GP]", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]"
+    ], 
+    "current_jobs": [
+      "Deputado"
+    ], 
+    "education": [
+      "Licenciatura em Economia (1992)", 
+      "1 - Pós-Graduação em Administração e Desenvolvimento Regional na Perspetiva das Comunidades Europeias (1994)", 
+      "2 - Formação CAGEP - Curso avançado de gestão pública -  Este curso constitui a formação específica a frequentar pelos titulares de cargos de direção superior (2014)"
+    ], 
+    "id": 5645, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5645&type=deputado", 
+    "jobs": [
+      "Desde Dezembro de 2014", 
+      "- Vogal Executivo da Comissão Diretiva, do PO – Programa Operacional do Alentejo (ALENTEJO 2020)", 
+      "Desde Abril de 2012", 
+      "- Vogal Executivo da Comissão Diretiva, do PO – Programa Operacional do Alentejo (INALENTEJO)", 
+      "Março de 2010 e Abril 2012", 
+      "- Secretário Técnico da Unidade de Fatores de Competitividade, do PO – Programa Operacional do Alentejo (INALENTEJO)", 
+      "Entre Outubro de 2005 e Março 2010", 
+      "- Consultor, com responsabilidades na área financeira, na realização de projetos de investimento, fundos comunitários e nacionais e estudos de caracterização socioeconómica e de análise prospetiva.", 
+      "Maio de 2001 a Setembro de 2005", 
+      "- Vereador da Cãmara Municipal de Viana do Alentejo", 
+      "- Vice-Presidente da Comissão de Coordenação de Desenvolvimento Regional do Alentejo (Outubro 2003 - Setembro 2005).", 
+      "- Conselheiro no CNE – Conselho Nacional de Educação – 2003-2005.", 
+      "- Conselheiro no IEFP – Instituto do Emprego e Formação Profissional – Delegação do Alentejo - 2003-2005", 
+      "- Representante na Região de Turismo de Évora do Secretário de Estado de Turismo – 2001-2003", 
+      "Entre1996 e 2001", 
+      "- Sócio – Gerente da empresa Ideias & Investimentos – Consultoria em Economia e Gestão, Lda; - Sócio – Gerente da Empresa URBERECICLAR – Reciclagem de Resíduos Sólidos Urbanos, Lda;; - Sócio – Gerente da Empresa Casas e Montes, Lda.; - Gerente da Empresa Aquemtejo, Lda; -", 
+      "- Diretor da Associação Terras Dentro – responsável financeiro e apoio técnico à elaboração de candidaturas ao abrigo dos seguintes programas: POEFDS – Eixo 1 e 5; Por Alentejo – Eixo 1 e 3; Ser Criança; Iniciativa Comunitária EQUAL; Leonardo da Vinci; PO da Cultura, entre outros.", 
+      "- Consultor nas áreas da economia e gestão.", 
+      "- Formador e coordenador de ações de formação profissional.", 
+      "- Consultor do CRIA - Comissão Técnica para a Reestruturação, Inovação e Alternativas no Concelho de Aljustrel - Apoio a projetos de investimento locais de ex-trabalhadores das Pirites Alentejanas, S.A. (1996 e 1997), através do Ministério da Economia.", 
+      "- Co-autor de um estudo de Análise Prospetiva da Evolução Socioeconómica do Parque Natural do Sudoeste Alentejano e Costa Vicentina e de Novas Profissões e Necessidades de Qualificação, para a Associação Vicentina no âmbito o programa YOUTHSTART. (2000/1) - Co-autor de um estudo de Análise Prospetiva da Evolução Socioeconómica da Zona de Intervenção da ESDIME, documento suporte à Candidatura para Gestão do PRODER Eixo 3 – 2008."
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5645&lg=XIII", 
+        "constituency": "Évora", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5645&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "António Francisco Costa da Silva", 
+    "occupation": [
+      "Economista"
+    ], 
+    "party": "PSD", 
+    "shortname": "António Costa Silva", 
+    "slug": "antonio-costa-silva", 
+    "url_democratica": "http://demo.cratica.org/deputados/antonio-costa-silva/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5645"
+  }, 
+  "5676": {
+    "active": true, 
+    "birthdate": "1966-10-10", 
+    "commissions": [
+      "Comissão de Defesa Nacional [Suplente]", 
+      "Comissão de Economia, Inovação e Obras Públicas", 
+      "Comissão de Educação e Ciência [Suplente]", 
+      "Grupo de Trabalho - Turismo", 
+      "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação"
+    ], 
+    "current_jobs": [
+      "Deputado da XIII Legislatura", 
+      "Presidente da Federação do PS Algarve."
+    ], 
+    "education": [
+      "Licenciatura em Engenharia Civil", 
+      "Mestrado em Construção", 
+      "Especialista em Gestão da Construção"
+    ], 
+    "id": 5676, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5676&type=deputado", 
+    "jobs": [
+      "Primeiro Secretário da Comunidade Intermunicipal do Algarve", 
+      "Presidente da Assembleia Municipal de São Brás de Alportel", 
+      "Presidente da Câmara Municipal de São Brás de Alportel", 
+      "Vice-presidente da Comunidade Intermunicipal do Algarve", 
+      "Vice-presidente da Comissão Permanente do Conselho Regional da CCDR Algarve", 
+      "Membro do Conselho Económico e Social da Universidade do Algarve", 
+      "Professor Adjunto da Universidade do Algarve."
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5676&lg=XIII", 
+        "constituency": "Faro", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5676&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "António Paulo Jacinto Eusébio", 
+    "occupation": [
+      "Professor Universitário"
+    ], 
+    "party": "PS", 
+    "shortname": "António Eusébio", 
+    "slug": "antonio-eusebio", 
+    "url_democratica": "http://demo.cratica.org/deputados/antonio-eusebio/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5676"
+  }, 
+  "5677": {
+    "active": true, 
+    "birthdate": "1972-08-16", 
+    "commissions": [
+      "Comissão de Saúde", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática do VIH/Sida e Hepatites [Coordenador ]"
+    ], 
+    "current_jobs": [
+      "Vereador na Câmara Municipal de Faro"
+    ], 
+    "education": [
+      "Frequência  de Licenciatura em Ciências da Comunicação"
+    ], 
+    "id": 5677, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5677&type=deputado", 
+    "jobs": [
+      "Adjunto do presidente da Câmara Municipal de Lagos (2001-2005)", 
+      "Adjunto do presidente da Câmara Municipal de Faro (2005-2009)"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5677&lg=XIII", 
+        "constituency": "Faro", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5677&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Luís Miguel da Graça Nunes", 
+    "occupation": [
+      "Funcionário público"
+    ], 
+    "party": "PS", 
+    "shortname": "Luís Graça", 
+    "slug": "luis-graca", 
+    "url_democratica": "http://demo.cratica.org/deputados/luis-graca/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5677"
+  }, 
+  "5678": {
+    "active": false, 
+    "birthdate": "1967-05-31", 
+    "commissions": [], 
+    "education": [
+      "Doutoramento em Genética/Biologia Molecular"
+    ], 
+    "id": 5678, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5678&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5678&lg=XIII", 
+        "constituency": "Faro", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5678&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Ana Lúcia Silva de Passos", 
+    "occupation": [
+      "Bióloga"
+    ], 
+    "party": "PS", 
+    "shortname": "Ana Passos", 
+    "slug": "ana-passos", 
+    "url_democratica": "http://demo.cratica.org/deputados/ana-passos/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5678"
+  }, 
+  "5685": {
+    "active": true, 
+    "birthdate": "1963-07-19", 
+    "commissions": [
+      "Comissão de Agricultura e Mar [Suplente]", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
+      "Grupo de Trabalho - Apreciação dos Projetos de Lei 124/XIII/1.ª - PCP e 151/XIII/1.ª - BE"
+    ], 
+    "education": [
+      "Licenciatura em ARQUITECTURA PAISAGISTA"
+    ], 
+    "id": 5685, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5685&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5685&lg=XIII", 
+        "constituency": "Faro", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5685&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "José Carlos Costa Barros", 
+    "occupation": [
+      "ARQUITECTO PAISAGISTA"
+    ], 
+    "party": "PSD", 
+    "shortname": "José Carlos Barros", 
+    "slug": "jose-carlos-barros", 
+    "url_democratica": "http://demo.cratica.org/deputados/jose-carlos-barros/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5685"
+  }, 
+  "5705": {
+    "active": true, 
+    "birthdate": "1979-03-22", 
+    "commissions": [
+      "Comissão de Educação e Ciência [Coordenador GP]", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
+      "Grupo de Trabalho Parlamento dos Jovens", 
+      "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades", 
+      "Grupo de Trabalho - Mercado Único Digital", 
+      "Grupo de Trabalho - Concessão de Audiências", 
+      "Grupo de Trabalho - Apreciação dos Projetos de Lei 124/XIII/1.ª - PCP e 151/XIII/1.ª - BE", 
+      "Grupo de Trabalho - Número de Alunos por Turma", 
+      "Grupo de Trabalho - Regime de Classificação e Proteção de Lojas e Entidades com Interesses Histórico e Cultural (PJL n.º 155/XIII/1.ª - PS)"
+    ], 
+    "education": [
+      "Licenciatura em Arqueologia e História"
+    ], 
+    "id": 5705, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5705&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5705&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5705&leg=XIII", 
+        "legislature": 13, 
+        "party": "PCP", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Ana Cristina Cardoso Dias Mesquita", 
+    "occupation": [
+      "Arqueóloga"
+    ], 
+    "party": "PCP", 
+    "shortname": "Ana Mesquita", 
+    "slug": "ana-mesquita", 
+    "url_democratica": "http://demo.cratica.org/deputados/ana-mesquita/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5705"
+  }, 
+  "5748": {
+    "active": true, 
+    "birthdate": "1973-08-27", 
+    "commissions": [
+      "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
+      "Comissão de Educação e Ciência [Coordenador GP;Vice-Presidente]", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
+      "Grupo de Trabalho da Educação Especial", 
+      "Grupo de Trabalho - Número de Alunos por Turma", 
+      "Subcomissão para a Igualdade e Não Discriminação"
+    ], 
+    "current_jobs": [
+      "Deputada - Grupo Parlamentar CDS-PP"
+    ], 
+    "education": [
+      "Licenciatura em Economia", 
+      "Mestrado em Ciências Educativas"
+    ], 
+    "id": 5748, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5748&type=deputado", 
+    "jobs": [
+      "LeYa, S.A.: Diretora da LeYa Educação (2010-2015)", 
+      "EPIS- Empresários pela Inclusão Social: Diretora do projeto \"Escolas de Futuro\" (2008-2010)", 
+      "Media Capital: Diretora IOL.pt (2000-2008)", 
+      "Unilever: Market Research Manager (1997-2000)", 
+      "Universidade Católica Portuguesa: Assistente nos cursos de Economia e Gestão (1995-2001)"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5748&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5748&leg=XIII", 
+        "legislature": 13, 
+        "party": "CDS-PP", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Ana Rita Barreira Duarte Bessa", 
+    "occupation": [
+      "Gestora"
+    ], 
+    "party": "CDS-PP", 
+    "shortname": "Ana Rita Bessa", 
+    "slug": "ana-rita-bessa", 
+    "url_democratica": "http://demo.cratica.org/deputados/ana-rita-bessa/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5748"
+  }, 
+  "5749": {
+    "active": true, 
+    "birthdate": "1974-06-23", 
+    "commissions": [
+      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
+      "Comissão de Saúde [Suplente]", 
+      "Comissão de Trabalho e Segurança Social", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades", 
+      "Subcomissão para a Igualdade e Não Discriminação"
+    ], 
+    "current_jobs": [
+      "Deputada da XIII Legislatura"
+    ], 
+    "education": [
+      "Licenciatura em Direito"
+    ], 
+    "id": 5749, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5749&type=deputado", 
+    "jobs": [
+      "Vereadora na Câmara Municipal de Odivelas"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5749&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5749&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Sandra Cristina de Sequeiros Pereira", 
+    "occupation": [
+      "Jurista"
+    ], 
+    "party": "PSD", 
+    "shortname": "Sandra Pereira", 
+    "slug": "sandra-pereira", 
+    "url_democratica": "http://demo.cratica.org/deputados/sandra-pereira/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5749"
+  }, 
+  "5751": {
+    "active": true, 
+    "birthdate": "1972-09-23", 
+    "commissions": [
+      "Comissão de Assuntos Europeus", 
+      "Comissão de Trabalho e Segurança Social", 
+      "Grupo de Trabalho - Escrutínio de Iniciativas Europeias", 
+      "Grupo de Trabalho - Audiências"
+    ], 
+    "education": [
+      "Licenciatura em Direito"
+    ], 
+    "id": 5751, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5751&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5751&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "CDS-PP", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "António Filipe da Providência Santarém Anacoreta Correia", 
+    "occupation": [
+      "Advogado"
+    ], 
+    "party": "CDS-PP", 
+    "shortname": "Filipe Anacoreta Correia", 
+    "slug": "filipe-anacoreta-correia", 
+    "url_democratica": "http://demo.cratica.org/deputados/filipe-anacoreta-correia/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5751"
+  }, 
+  "5752": {
+    "active": false, 
+    "birthdate": "1977-07-30", 
+    "commissions": [], 
+    "current_jobs": [
+      "Presidente da Associação Humanitária dos Bombeiros Voluntários do Dafundo", 
+      "Presidente da Associação Sem Fins Lucrativos Luchapa"
+    ], 
+    "education": [
+      "Frequência  de Licenciatura em Sociologia"
+    ], 
+    "id": 5752, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5752&type=deputado", 
+    "jobs": [
+      "Deputado Municipal 2002 - 2005", 
+      "Adjunto do Presidente da Câmara Municipal de Oeiras 2005 - 2009", 
+      "Membro do Conselho Nacional do PSD 2004 - 2007 e 2012 - 2014", 
+      "Presidente da Assembleia do PSD Oeiras 2011 - 2013", 
+      "Presidente da CNES JSD 2000 - 2002"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5752&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Armando Agria Cardoso Soares", 
+    "occupation": [
+      "Sociólogo"
+    ], 
+    "party": "PSD", 
+    "shortname": "Armando Soares", 
+    "slug": "armando-soares", 
+    "url_democratica": "http://demo.cratica.org/deputados/armando-soares/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5752"
+  }, 
+  "5777": {
+    "active": true, 
+    "birthdate": "1976-04-02", 
+    "commissions": [
+      "Comissão de Economia, Inovação e Obras Públicas", 
+      "Comissão de Agricultura e Mar [Coordenador GP]", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
+      "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)", 
+      "Grupo de Trabalho - Setor Leiteiro", 
+      "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais", 
+      "Grupo de Trabalho - Concessão de Audiências", 
+      "Grupo de Trabalho - Reorganização Territorial de Freguesias", 
+      "Grupo de Trabalho PJL sobre publicidade de produtos alimentares", 
+      "Grupo de Trabalho - Petição nº 103/XIII/1ª - Despenalização da morte assistida", 
+      "Grupo de Trabalho - Iniciativas legislativas sobre Direitos dos Animais"
+    ], 
+    "education": [
+      "Mestrado em Património Arquitectónico e Artístico"
+    ], 
+    "id": 5777, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5777&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5777&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5777&leg=XIII", 
+        "legislature": 13, 
+        "party": "PAN", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "André Lourenço e Silva", 
+    "occupation": [
+      "Engenheiro Civil"
+    ], 
+    "party": "PAN", 
+    "shortname": "André Silva", 
+    "slug": "andre-silva", 
+    "url_democratica": "http://demo.cratica.org/deputados/andre-silva/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5777"
+  }, 
+  "5829": {
+    "active": false, 
+    "birthdate": "1966-12-09", 
+    "commissions": [], 
+    "education": [
+      "Doutoramento em Economia"
+    ], 
+    "id": 5829, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5829&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5829&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Mário José Gomes de Freitas Centeno", 
+    "occupation": [
+      "Economista"
+    ], 
+    "party": "PS", 
+    "shortname": "Mário Centeno", 
+    "slug": "mario-centeno", 
+    "url_democratica": "http://demo.cratica.org/deputados/mario-centeno/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5829"
+  }, 
+  "5830": {
+    "active": false, 
+    "birthdate": "1971-08-13", 
+    "commissions": [], 
+    "education": [
+      "Frequência  de Licenciatura em Direito", 
+      "Frequência  de Mestrado em Sociologia do Direito", 
+      "Doutoramento em Sociologia"
+    ], 
+    "id": 5830, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5830&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5830&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Graça Maria Fonseca Caetano Gonçalves", 
+    "occupation": [
+      "jurista"
+    ], 
+    "party": "PS", 
+    "shortname": "Graça Fonseca", 
+    "slug": "graca-fonseca", 
+    "url_democratica": "http://demo.cratica.org/deputados/graca-fonseca/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5830"
+  }, 
+  "5831": {
+    "active": true, 
+    "birthdate": "1986-02-10", 
+    "commissions": [
+      "Comissão de Defesa Nacional", 
+      "Comissão de Educação e Ciência", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
+      "Grupo de Trabalho Parlamento dos Jovens", 
+      "Grupo de Trabalho - Regime de Classificação e Proteção de Lojas e Entidades com Interesses Histórico e Cultural (PJL n.º 155/XIII/1.ª - PS) [Coordenador ]"
+    ], 
+    "current_jobs": [
+      "Secretário-Geral Adjunto da Juventude Socialista", 
+      "Presidente da Federação da Área Urbana de Lisboa da Juventude Socialista", 
+      "Membro da Assembleia Municipal de Lisboa", 
+      "Membro do Secretariado do Partido Socialista de Lisboa", 
+      "Membro da Comissão Política Nacional do Partido Socialista"
+    ], 
+    "education": [
+      "Licenciatura em História com minor em Ciência Política", 
+      "Frequência  de Mestrado em História Contemporânea"
+    ], 
+    "id": 5831, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5831&type=deputado", 
+    "jobs": [
+      "Direcção do Conselho Nacional de Juventude", 
+      "Presidente da Direcção e da Mesa RGA da Associação de Estudantes da FCSH-UNL", 
+      "Presidente do Conselho Fiscal da Federação Académica da Universidade Nova de Lisboa", 
+      "Membro do Senado da Universidade Nova de Lisboa", 
+      "Membro das Assembleias de Representantes da FCSH-UNL e da UNL", 
+      "Membro da Direcção do Grupo Municipal do PS na Assembleia Municipal de Lisboa", 
+      "Membro do Conselho Municipal de Desporto do Município de Lisboa", 
+      "Presidente da JS Lisboa", 
+      "Membro da Comissão Nacional do PS", 
+      "Vereador Substituto na CML"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5831&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5831&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Diogo Feijóo Leão Campos Rodrigues", 
+    "occupation": [
+      "Historiador"
+    ], 
+    "party": "PS", 
+    "shortname": "Diogo Leão", 
+    "slug": "diogo-leao", 
+    "url_democratica": "http://demo.cratica.org/deputados/diogo-leao/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5831"
+  }, 
+  "5833": {
+    "active": true, 
+    "birthdate": "1955-06-26", 
+    "commissions": [
+      "Comissão de Saúde [Suplente]", 
+      "Comissão de Trabalho e Segurança Social"
+    ], 
+    "current_jobs": [
+      "Presidente do Sindicato dos Bancários do Sul e Ilhas", 
+      "Presidente do SAMS-Serviço de Assistencia Medico-Social do SBSI", 
+      "Vice Presidente da UGT"
+    ], 
+    "education": [
+      "Licenciatura em Antropologia Social"
+    ], 
+    "id": 5833, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5833&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5833&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5833&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Rui Fernando da Cunha Mendes Riso", 
+    "occupation": [
+      "Bancario"
+    ], 
+    "party": "PS", 
+    "shortname": "Rui Riso", 
+    "slug": "rui-riso", 
+    "url_democratica": "http://demo.cratica.org/deputados/rui-riso/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5833"
+  }, 
+  "5835": {
+    "active": true, 
+    "birthdate": "1975-08-11", 
+    "commissions": [
+      "Comissão de Orçamento, Finanças e Modernização Administrativa", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
+      "Grupo de Trabalho - IVA nas terapeuticas não convencionais (PJL`s 289, 293 e 301/XIII/1.ª)"
+    ], 
+    "current_jobs": [
+      "Eleito Deputado na XIII Legislatura, pelo Distrito de Lisboa; Vereador da Câmara Municipal de Loures; Presidente da Comissão Politica Concelhia de Loures do Partido Socialista."
+    ], 
+    "education": [
+      "1º Ciclo", 
+      "2º Ciclo", 
+      "3º Ciclo", 
+      "Ensino Secundário", 
+      "Licenciatura em  Gestão de Empresas"
+    ], 
+    "id": 5835, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5835&type=deputado", 
+    "jobs": [
+      "Vereador da Câmara Municipal de Loures; Administrador dos Serviços Municipalizados de Loures; Adjunto da Presidente da Câmara Municipal da Amadora."
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5835&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5835&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Ricardo Jorge Colaço Leão", 
+    "occupation": [
+      "Tecnico Oficial de Contas"
+    ], 
+    "party": "PS", 
+    "shortname": "Ricardo Leão", 
+    "slug": "ricardo-leao", 
+    "url_democratica": "http://demo.cratica.org/deputados/ricardo-leao/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5835"
+  }, 
+  "5836": {
+    "active": false, 
+    "birthdate": "1970-08-25", 
+    "commissions": [], 
+    "current_jobs": [
+      "Eleito Deputado na XIII Legislatura, pelo Distrito de Lisboa", 
+      "Vogal da Direção da Associação de Pais dos Alunos do 1º Ciclo/Jardim de Infância da Escola Básica Integrada com JI da Escola D. Carlos I - Sintra", 
+      "Membro da Comissão Política Concelhia de Sintra do Partido Socialista", 
+      "Membro da Comissão Política da Federação da Área urbana de Lisboa do Partido Socialista."
+    ], 
+    "education": [
+      "1º Ciclo", 
+      "2º Ciclo", 
+      "3º Ciclo", 
+      "Ensino Secundário", 
+      "Frequência  de Licenciatura em Direito"
+    ], 
+    "id": 5836, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5836&type=deputado", 
+    "jobs": [
+      "Deputado Municipal na Assembleia Municipal de Sintra", 
+      "Vogal na Assembleia de Freguesia de Santa Maria e São Miguel - Sintra", 
+      "Adjunto de Vereador na Câmara Municipal de Sintra."
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5836&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5836&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Paulo Jorge Duarte Marques", 
+    "occupation": [
+      "Consultor de Comunicação"
+    ], 
+    "party": "PS", 
+    "shortname": "Paulo Duarte Marques", 
+    "slug": "paulo-duarte-marques", 
+    "url_democratica": "http://demo.cratica.org/deputados/paulo-duarte-marques/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5836"
+  }, 
+  "5854": {
+    "active": true, 
+    "birthdate": "1990-06-21", 
+    "commissions": [
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
+      "Comissão de Assuntos Europeus [Coordenador GP]", 
+      "Comissão de Trabalho e Segurança Social", 
+      "Grupo de Trabalho - Escrutínio de Iniciativas Europeias", 
+      "Grupo de Trabalho - Audiências"
+    ], 
+    "education": [
+      "Mestrado em Ciência Política"
+    ], 
+    "id": 5854, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5854&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5854&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5854&leg=XIII", 
+        "legislature": 13, 
+        "party": "BE", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Isabel Cristina Rua Pires", 
+    "occupation": [
+      "operadora de call cen´ter"
+    ], 
+    "party": "BE", 
+    "shortname": "Isabel Pires", 
+    "slug": "isabel-pires", 
+    "url_democratica": "http://demo.cratica.org/deputados/isabel-pires/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5854"
+  }, 
+  "5855": {
+    "active": true, 
+    "birthdate": "1953-12-07", 
+    "commissions": [
+      "Comissão de Saúde", 
+      "Comissão de Trabalho e Segurança Social [Suplente]"
+    ], 
+    "education": [
+      "Licenciatura em Arquitectura"
+    ], 
+    "id": 5855, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5855&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5855&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5855&leg=XIII", 
+        "legislature": 13, 
+        "party": "BE", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Jorge Manuel Torres Falcato Simões", 
+    "occupation": [
+      "Arquitecto"
+    ], 
+    "party": "BE", 
+    "shortname": "Jorge Falcato Simões", 
+    "slug": "jorge-falcato-simoes", 
+    "url_democratica": "http://demo.cratica.org/deputados/jorge-falcato-simoes/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5855"
+  }, 
+  "5856": {
+    "active": false, 
+    "birthdate": "1946-12-09", 
+    "commissions": [], 
+    "education": [
+      "Doutoramento em História Moderna (2013)", 
+      "Mestrado em Bibliotecas (MA in Librarianship, Leeds, 1983); Mestrado em Património (UNL, 2009)"
+    ], 
+    "id": 5856, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5856&type=deputado", 
+    "jobs": [
+      "Subdirectora da Biblioteca Nacional (1985-1992)", 
+      "Directora de Serviços de Aquisições, Processamento e Conservação da Biblioteca Nacional (1997-2007)"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5856&lg=XIII", 
+        "constituency": "Lisboa", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5856&leg=XIII", 
+        "legislature": 13, 
+        "party": "BE", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Maria Luísa Rosendo Cabral", 
+    "occupation": [
+      "Bibliotecária (Aposentada FP)"
+    ], 
+    "party": "BE", 
+    "shortname": "Maria Luísa Cabral", 
+    "slug": "maria-luisa-cabral", 
+    "url_democratica": "http://demo.cratica.org/deputados/maria-luisa-cabral/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5856"
+  }, 
+  "5900": {
+    "active": true, 
+    "birthdate": "1961-06-01", 
+    "commissions": [
+      "Comissão de Educação e Ciência [Suplente]", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
+      "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação"
+    ], 
+    "current_jobs": [
+      "Deputada à Assembleia da República na XIII Legislatura", 
+      "Vereadora na Câmara Municipal da Maia"
+    ], 
+    "education": [
+      "1º Ciclo", 
+      "2º Ciclo", 
+      "3º Ciclo", 
+      "Ensino Secundário", 
+      "Licenciatura em Línguas e Literaturas Modernas Variante de Português e Francês"
+    ], 
+    "id": 5900, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5900&type=deputado", 
+    "jobs": [
+      "Professora"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5900&lg=XIII", 
+        "constituency": "Porto", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5900&leg=XIII", 
+        "legislature": 13, 
+        "party": "PCP", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Ana Virgínia da Costa Pereira", 
+    "occupation": [
+      "Professora"
+    ], 
+    "party": "PCP", 
+    "shortname": "Ana Virgínia Pereira", 
+    "slug": "ana-virginia-pereira", 
+    "url_democratica": "http://demo.cratica.org/deputados/ana-virginia-pereira/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5900"
+  }, 
+  "5930": {
+    "active": true, 
+    "birthdate": "1945-08-09", 
+    "commissions": [
+      "Comissão de Educação e Ciência [Presidente]", 
+      "Comissão de Saúde [Suplente]"
+    ], 
+    "education": [
+      "Doutoramento em Física"
+    ], 
+    "id": 5930, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5930&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5930&lg=XIII", 
+        "constituency": "Porto", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5930&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Alexandre Tiedtke Quintanilha", 
+    "occupation": [
+      "Professor Universitário Jubilado"
+    ], 
+    "party": "PS", 
+    "shortname": "Alexandre Quintanilha", 
+    "slug": "alexandre-quintanilha", 
+    "url_democratica": "http://demo.cratica.org/deputados/alexandre-quintanilha/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5930"
+  }, 
+  "5933": {
+    "active": true, 
+    "birthdate": "1970-06-05", 
+    "commissions": [
+      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto", 
+      "Grupo de Trabalho - Mercado Único Digital [Coordenador ]", 
+      "Grupo de Trabalho - Apreciação dos Projetos de Lei 124/XIII/1.ª - PCP e 151/XIII/1.ª - BE", 
+      "Subcomissão para a Igualdade e Não Discriminação [Suplente]"
+    ], 
+    "education": [
+      "Licenciatura em Ciências da Comunicação", 
+      "Curso Profissional de Interpretação da Academia Contemporânea do Espectáculo"
+    ], 
+    "id": 5933, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5933&type=deputado", 
+    "jobs": [
+      "Programadora do Festival Spoken Word- Festival de Palavras Ditas", 
+      "Fundadora da companhia de teatro As Boas Raparigas...", 
+      "Vereadora pelo Partido Socialista na Câmara Municipal do Porto"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5933&lg=XIII", 
+        "constituency": "Porto", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5933&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Carla Alexandra Magalhães de Sousa", 
+    "occupation": [
+      "Atriz e Produtora cultural"
+    ], 
+    "party": "PS", 
+    "shortname": "Carla Sousa", 
+    "slug": "carla-sousa", 
+    "url_democratica": "http://demo.cratica.org/deputados/carla-sousa/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5933"
+  }, 
+  "5949": {
+    "active": true, 
+    "birthdate": "1993-01-29", 
+    "commissions": [
+      "Comissão de Educação e Ciência", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto", 
+      "Grupo de Trabalho Desporto", 
+      "Grupo de Trabalho Parlamento dos Jovens"
+    ], 
+    "education": [
+      "Frequência  de Mestrado em Museologia"
+    ], 
+    "id": 5949, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5949&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5949&lg=XIII", 
+        "constituency": "Porto", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5949&leg=XIII", 
+        "legislature": 13, 
+        "party": "BE", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Luís Valentim Pereira Monteiro", 
+    "occupation": [
+      "Estudante"
+    ], 
+    "party": "BE", 
+    "shortname": "Luís Monteiro", 
+    "slug": "luis-monteiro", 
+    "url_democratica": "http://demo.cratica.org/deputados/luis-monteiro/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5949"
+  }, 
+  "5950": {
+    "active": true, 
+    "birthdate": "1946-01-25", 
+    "commissions": [
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas"
+    ], 
+    "education": [
+      "Frequência  de 3º Ciclo"
+    ], 
+    "id": 5950, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5950&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5950&lg=XIII", 
+        "constituency": "Porto", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5950&leg=XIII", 
+        "legislature": 13, 
+        "party": "BE", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Domicilia Maria Correia da Costa", 
+    "party": "BE", 
+    "shortname": "Domicilia Costa", 
+    "slug": "domicilia-costa", 
+    "url_democratica": "http://demo.cratica.org/deputados/domicilia-costa/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5950"
+  }, 
+  "5984": {
+    "active": true, 
+    "birthdate": "1968-06-08", 
+    "commissions": [
+      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
+      "Comissão de Educação e Ciência", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
+      "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação", 
+      "Subcomissão para a Igualdade e Não Discriminação [Suplente]"
+    ], 
+    "education": [
+      "Licenciatura em Direito"
+    ], 
+    "id": 5984, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5984&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5984&lg=XIII", 
+        "constituency": "Porto", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5984&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Maria Germana de Sousa Rocha", 
+    "occupation": [
+      "Técnica Superior Jurista"
+    ], 
+    "party": "PSD", 
+    "shortname": "Maria Germana Rocha", 
+    "slug": "maria-germana-rocha", 
+    "url_democratica": "http://demo.cratica.org/deputados/maria-germana-rocha/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5984"
+  }, 
+  "5985": {
+    "active": true, 
+    "birthdate": "1962-11-10", 
+    "commissions": [
+      "Comissão de Defesa Nacional", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto", 
+      "Grupo de Trabalho - Apreciação dos Projetos de Lei 124/XIII/1.ª - PCP e 151/XIII/1.ª - BE [Coordenador ]"
+    ], 
+    "id": 5985, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5985&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5985&lg=XIII", 
+        "constituency": "Porto", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5985&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Firmino Jorge Anjos Pereira", 
+    "occupation": [
+      "Empresário"
+    ], 
+    "party": "PSD", 
+    "shortname": "Firmino Pereira", 
+    "slug": "firmino-pereira", 
+    "url_democratica": "http://demo.cratica.org/deputados/firmino-pereira/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5985"
+  }, 
+  "5986": {
+    "active": true, 
+    "birthdate": "1974-07-18", 
+    "commissions": [
+      "Comissão de Assuntos Europeus", 
+      "Comissão de Orçamento, Finanças e Modernização Administrativa [Suplente]"
+    ], 
+    "education": [
+      "Doutoramento em Ciência Política"
+    ], 
+    "id": 5986, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5986&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5986&lg=XIII", 
+        "constituency": "Porto", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5986&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Miguel Ferreira Morgado", 
+    "occupation": [
+      "Professor Universitário"
+    ], 
+    "party": "PSD", 
+    "shortname": "Miguel Morgado", 
+    "slug": "miguel-morgado", 
+    "url_democratica": "http://demo.cratica.org/deputados/miguel-morgado/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5986"
+  }, 
+  "5988": {
+    "active": false, 
+    "birthdate": "1973-05-27", 
+    "commissions": [], 
+    "education": [
+      "Doutoramento em Gestão"
+    ], 
+    "id": 5988, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5988&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5988&lg=XIII", 
+        "constituency": "Porto", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5988&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Maria Teresa Ribeiro Candeias", 
+    "occupation": [
+      "Professora Universitária"
+    ], 
+    "party": "PSD", 
+    "shortname": "Teresa Candeias", 
+    "slug": "teresa-candeias", 
+    "url_democratica": "http://demo.cratica.org/deputados/teresa-candeias/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5988"
+  }, 
+  "5989": {
+    "active": false, 
+    "birthdate": "1981-11-23", 
+    "commissions": [], 
+    "current_jobs": [
+      "Deputado na Assembleia da República, XIII Legislatura", 
+      "Advogado", 
+      "Membro da Assembleia Municipal de Felgueiras", 
+      "Vogal da Comissão Política do PSD da Secção de Felgueiras", 
+      "Vogal do Conselho de Jurisdição do PSD do Distrito do Porto"
+    ], 
+    "education": [
+      "Licenciatura em Direito", 
+      "Pós Graduação em Direito Fiscal;", 
+      "Curso de Preparação para a prática Tributária, DGCI."
+    ], 
+    "id": 5989, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5989&type=deputado", 
+    "jobs": [
+      "Secretário da Comissão Política do JSD da Secção de Felgueiras: 2007-2009", 
+      "Vogal da Comissão Política do PSD da Secção de Felgueiras: 2009-2011, 2011-2013, 2013-presente", 
+      "Membro da Assembleia Municipal de Felgueiras, pelo PSD: 2009-2013", 
+      "Vogal do Conselho de Jurisdição do PSD do Distrito do Porto: 2014 até ao presente", 
+      "1º Secretário e Vice-presidente da Assembleia Municipal de Felgueiras, pelo PSD: 2013 até ao presente"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=5989&lg=XIII", 
+        "constituency": "Porto", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=5989&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Leonel Fernando Pinto Coelho da Costa", 
+    "occupation": [
+      "Advogado"
+    ], 
+    "party": "PSD", 
+    "shortname": "Leonel Costa", 
+    "slug": "leonel-costa", 
+    "url_democratica": "http://demo.cratica.org/deputados/leonel-costa/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=5989"
+  }, 
+  "6013": {
+    "active": true, 
+    "birthdate": "1983-07-17", 
+    "commissions": [
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
+      "Comissão de Economia, Inovação e Obras Públicas", 
+      "Comissão de Agricultura e Mar [Suplente]", 
+      "Grupo de Trabalho - Indústria"
+    ], 
+    "current_jobs": [
+      "Membro da Assembleia Municipal de Tomar", 
+      "Membro da Assembleia da Comunidade Intermunicipal do Médio Tejo", 
+      "Presidente do PS Tomar", 
+      "Membro da Comissão Nacional do PS"
+    ], 
+    "education": [
+      "Licenciatura em Economia", 
+      "Frequência  de Mestrado em Economia e Políticas Públicas"
+    ], 
+    "id": 6013, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6013&type=deputado", 
+    "jobs": [
+      "Adjunto do Gabinete da Presidência do Município de Tomar", 
+      "Secretário Nacional da JS (2006-2012)", 
+      "Presidente da JS Distrital de Santarém (2010-2014)"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6013&lg=XIII", 
+        "constituency": "Santarém", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6013&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Hugo Miguel Carvalheiro dos Santos Costa", 
+    "occupation": [
+      "Economista"
+    ], 
+    "party": "PS", 
+    "shortname": "Hugo Costa", 
+    "slug": "hugo-costa", 
+    "url_democratica": "http://demo.cratica.org/deputados/hugo-costa/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6013"
+  }, 
+  "6037": {
+    "active": true, 
+    "birthdate": "1972-06-05", 
+    "commissions": [
+      "Comissão de Agricultura e Mar [Coordenador GP]", 
+      "Comissão de Saúde [Suplente]", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
+      "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)", 
+      "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais", 
+      "Grupo de Trabalho - Concessão de Audiências", 
+      "Grupo de Trabalho - IVA nas terapeuticas não convencionais (PJL`s 289, 293 e 301/XIII/1.ª)"
+    ], 
+    "education": [
+      "Licenciatura em Engenharia Agronómica"
+    ], 
+    "id": 6037, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6037&type=deputado", 
+    "jobs": [
+      "Adjunta no Gabinete Da Ministra da Agricultura e do Mar", 
+      "Secretária Geral da Associação dos Agricultores do Ribatejo", 
+      "Assistente Convidada na Escola Superior Agrária de Santarém", 
+      "Quadro técnico da Agroges - Sociedade de Estudos e Projectos"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6037&lg=XIII", 
+        "constituency": "Santarém", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6037&leg=XIII", 
+        "legislature": 13, 
+        "party": "CDS-PP", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Patrícia Carla Bonança de Mattamouros Resende Fonseca de Oliveira", 
+    "occupation": [
+      "Eng Agrónoma"
+    ], 
+    "party": "CDS-PP", 
+    "shortname": "Patrícia Fonseca", 
+    "slug": "patricia-fonseca", 
+    "url_democratica": "http://demo.cratica.org/deputados/patricia-fonseca/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6037"
+  }, 
+  "6045": {
+    "active": true, 
+    "birthdate": "1959-11-03", 
+    "commissions": [
+      "Comissão de Assuntos Europeus [Suplente]", 
+      "Comissão de Orçamento, Finanças e Modernização Administrativa [Vice-Presidente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Vice-Presidente]"
+    ], 
+    "education": [
+      "Doutoramento em Economia"
+    ], 
+    "id": 6045, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6045&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6045&lg=XIII", 
+        "constituency": "Setúbal", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6045&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Paulo Trigo Cortez Pereira", 
+    "occupation": [
+      "Professor Catedrático"
+    ], 
+    "party": "PS", 
+    "shortname": "Paulo Trigo Pereira", 
+    "slug": "paulo-trigo-pereira", 
+    "url_democratica": "http://demo.cratica.org/deputados/paulo-trigo-pereira/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6045"
+  }, 
+  "6046": {
+    "active": false, 
+    "birthdate": "1974-07-22", 
+    "commissions": [], 
+    "education": [
+      "Mestrado em Economia"
+    ], 
+    "id": 6046, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6046&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6046&lg=XIII", 
+        "constituency": "Setúbal", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Ricardo Emanuel Martins Mourinho Félix", 
+    "occupation": [
+      "Economista"
+    ], 
+    "party": "PS", 
+    "shortname": "Ricardo Mourinho", 
+    "slug": "ricardo-mourinho", 
+    "url_democratica": "http://demo.cratica.org/deputados/ricardo-mourinho/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6046"
+  }, 
+  "6048": {
+    "active": true, 
+    "birthdate": "1987-06-03", 
+    "commissions": [
+      "Comissão de Orçamento, Finanças e Modernização Administrativa", 
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]"
+    ], 
+    "current_jobs": [
+      "Vereador em Regime de Substituição da Câmara Municipal de Almada"
+    ], 
+    "education": [
+      "Licenciatura em Ciências da Engenharia", 
+      "Frequência  de Mestrado em Engenharia"
+    ], 
+    "id": 6048, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6048&type=deputado", 
+    "jobs": [
+      "Presidente da Associação dos Estudantes do Instituto Superior Técnico"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6048&lg=XIII", 
+        "constituency": "Setúbal", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6048&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Ivan da Costa Gonçalves", 
+    "occupation": [
+      "Técnico Superior de Gestão de Processos"
+    ], 
+    "party": "PS", 
+    "shortname": "Ivan Gonçalves", 
+    "slug": "ivan-goncalves", 
+    "url_democratica": "http://demo.cratica.org/deputados/ivan-goncalves/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6048"
+  }, 
+  "6049": {
+    "active": true, 
+    "birthdate": "1974-09-06", 
+    "commissions": [
+      "Comissão de Agricultura e Mar [Suplente]", 
+      "Comissão de Trabalho e Segurança Social", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]", 
+      "Grupo de Trabalho - Audiências"
+    ], 
+    "education": [
+      "Licenciatura em Psicologia Clínica", 
+      "Pós Graduação"
+    ], 
+    "id": 6049, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6049&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6049&lg=XIII", 
+        "constituency": "Setúbal", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6049&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Ana Sofia Ferreira Araújo", 
+    "occupation": [
+      "Psicóloga Clínica"
+    ], 
+    "party": "PS", 
+    "shortname": "Sofia Araújo", 
+    "slug": "sofia-araujo", 
+    "url_democratica": "http://demo.cratica.org/deputados/sofia-araujo/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6049"
+  }, 
+  "6050": {
+    "active": true, 
+    "birthdate": "1984-04-13", 
+    "commissions": [
+      "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
+      "Comissão de Educação e Ciência", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]"
+    ], 
+    "current_jobs": [
+      "Eleito na Assembleia Municipal do Barreiro.", 
+      "Membro do Grupo Parlamentar de Amizade Portugal - Palestina", 
+      "Membro do Grupo Parlamentar de Amizade Portugal - Irão", 
+      "Membro do Grupo Parlamentar de Amizade Portugal - Japão", 
+      "Membro do Conselho Consultivo da Reserva Natural da Mata da Machada.", 
+      "Membro da Comissão de Toponímia da A.M.B.", 
+      "Membro da Comissão Permanente de Educação, Cultura e Associativismo da A.M.B."
+    ], 
+    "education": [
+      "Frequência  de Licenciatura em Ciências da Comunicação"
+    ], 
+    "id": 6050, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6050&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6050&lg=XIII", 
+        "constituency": "Setúbal", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6050&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "André Alexandre Pinotes Batista", 
+    "occupation": [
+      "Comunicação e Marketing"
+    ], 
+    "party": "PS", 
+    "shortname": "André Pinotes Batista", 
+    "slug": "andre-pinotes-batista", 
+    "url_democratica": "http://demo.cratica.org/deputados/andre-pinotes-batista/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6050"
+  }, 
+  "6051": {
+    "active": true, 
+    "birthdate": "1963-04-17", 
+    "commissions": [
+      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias [Suplente]", 
+      "Comissão de Assuntos Europeus", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]"
+    ], 
+    "current_jobs": [
+      "Vereadora não executiva na Câmara Municipal de Almada"
+    ], 
+    "education": [
+      "Licenciatura em Direito"
+    ], 
+    "id": 6051, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6051&type=deputado", 
+    "jobs": [
+      "Presidente de Junta de Freguesia de 2005 a 2013"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6051&lg=XIII", 
+        "constituency": "Setúbal", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6051&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Francisca Luís Baptista Parreira", 
+    "occupation": [
+      "Jurista - Proteção Jurídica Seguros"
+    ], 
+    "party": "PS", 
+    "shortname": "Francisca Parreira", 
+    "slug": "francisca-parreira", 
+    "url_democratica": "http://demo.cratica.org/deputados/francisca-parreira/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6051"
+  }, 
+  "6063": {
+    "active": true, 
+    "birthdate": "1986-06-24", 
+    "commissions": [
+      "Comissão de Educação e Ciência [Coordenador GP]", 
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Grupo de Trabalho da Educação Especial", 
+      "Grupo de Trabalho de Acompanhamento das Transferências de Competências na Educação", 
+      "Grupo de Trabalho - Número de Alunos por Turma"
+    ], 
+    "current_jobs": [
+      "Deputada na Assembleia da Republica na XIII Legislatura"
+    ], 
+    "education": [
+      "1º Ciclo", 
+      "2º Ciclo", 
+      "3º Ciclo", 
+      "Ensino Secundário", 
+      "Licenciatura em relações internacionais", 
+      "Frequência  de Mestrado em relações internacionais"
+    ], 
+    "id": 6063, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6063&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6063&lg=XIII", 
+        "constituency": "Setúbal", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6063&leg=XIII", 
+        "legislature": 13, 
+        "party": "BE", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Joana Rodrigues Mortágua", 
+    "party": "BE", 
+    "shortname": "Joana Mortágua", 
+    "slug": "joana-mortagua", 
+    "url_democratica": "http://demo.cratica.org/deputados/joana-mortagua/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6063"
+  }, 
+  "6081": {
+    "active": false, 
+    "birthdate": "1977-06-27", 
+    "commissions": [], 
+    "current_jobs": [
+      "Vice presidente da CPS-PSD Grândola", 
+      "Membro da Assembleia Municipal de Grândola"
+    ], 
+    "education": [
+      "Licenciatura em Relações Internacionais"
+    ], 
+    "id": 6081, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6081&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6081&lg=XIII", 
+        "constituency": "Setúbal", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Sonia dos Reis", 
+    "occupation": [
+      "Técnica de Relações Internacionais"
+    ], 
+    "party": "PSD", 
+    "shortname": "Sonia dos Reis", 
+    "slug": "sonia-dos-reis", 
+    "url_democratica": "http://demo.cratica.org/deputados/sonia-dos-reis/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6081"
+  }, 
+  "6112": {
+    "active": false, 
+    "birthdate": "1977-06-03", 
+    "commissions": [], 
+    "education": [
+      "1º Ciclo", 
+      "2º Ciclo", 
+      "3º Ciclo", 
+      "Ensino Secundário", 
+      "Licenciatura em Licenciatura", 
+      "Doutoramento em Doutoramento"
+    ], 
+    "id": 6112, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6112&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6112&lg=XIII", 
+        "constituency": "Viana do Castelo", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Tiago Brandão Rodrigues", 
+    "occupation": [
+      "Investigador científico"
+    ], 
+    "party": "PS", 
+    "shortname": "Tiago Brandão Rodrigues", 
+    "slug": "tiago-brandao-rodrigues", 
+    "url_democratica": "http://demo.cratica.org/deputados/tiago-brandao-rodrigues/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6112"
+  }, 
+  "6119": {
+    "active": true, 
+    "birthdate": "1971-03-14", 
+    "commissions": [
+      "Comissão de Agricultura e Mar [Suplente]", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
+      "Grupo de Trabalho - Acompanhamento da Temática dos Incêndios Florestais"
+    ], 
+    "current_jobs": [
+      "Deputada Municipal na Assembleia Municipal de Arcos de Valdevez", 
+      "Membro da Assembleia da Comunidade Intermunicipal do Alto MInho"
+    ], 
+    "education": [
+      "Licenciatura em Direito"
+    ], 
+    "id": 6119, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6119&type=deputado", 
+    "jobs": [
+      "Presidente da Delegação de Arcos de Valdevez da Ordem dos Advogados", 
+      "Membro da Comissão Alargada da CPCJ de Arcos de Valdevez"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6119&lg=XIII", 
+        "constituency": "Viana do Castelo", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6119&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Maria Emília e Sousa Cerqueira", 
+    "occupation": [
+      "Advogada"
+    ], 
+    "party": "PSD", 
+    "shortname": "Emília Cerqueira", 
+    "slug": "emilia-cerqueira", 
+    "url_democratica": "http://demo.cratica.org/deputados/emilia-cerqueira/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6119"
+  }, 
+  "6120": {
+    "active": false, 
+    "birthdate": "1987-04-27", 
+    "commissions": [], 
+    "education": [
+      "Mestrado em Mestrado Integrado em Ciências Farmacêuticas", 
+      "Frequência  de Doutoramento em Ciências Farmacêuticas (Áreas de Epidemiologia, Saúde Pública e Economia da Saúde)"
+    ], 
+    "id": 6120, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6120&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6120&lg=XIII", 
+        "constituency": "Viana do Castelo", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6120&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "António Duarte Teixeira Afonso Rodrigues", 
+    "occupation": [
+      "Farmacêutico, Investigador Científico"
+    ], 
+    "party": "PSD", 
+    "shortname": "António Rodrigues", 
+    "slug": "antonio-rodrigues", 
+    "url_democratica": "http://demo.cratica.org/deputados/antonio-rodrigues/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6120"
+  }, 
+  "6126": {
+    "active": false, 
+    "awards": [
+      "Comendadora da Ordem de Instrução Pública"
+    ], 
+    "birthdate": "1952-08-23", 
+    "commissions": [], 
+    "current_jobs": [
+      "Vice-Presidente da Association Internationale de Droit Economique"
+    ], 
+    "education": [
+      "Doutoramento em Economia", 
+      "Agregação"
+    ], 
+    "id": 6126, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6126&type=deputado", 
+    "jobs": [
+      "Secretária de Estado da Modernização Administrativa (2007-2011)", 
+      "Membro do High Level Group on Administrative Burdens da Comissão Europeia (Bélgica). (setembro de 2013 a outubro de 2014)", 
+      "Professora Catedrática da Faculdade de Economia da Universidade de Coimbra", 
+      "Presidente do Conselho Científico da Faculdade de Economia da Universidade de Coimbra (1996 a 1998).", 
+      "Administradora não Executiva da Fundação Francisco Manuel dos Santos (2013-2015)"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6126&lg=XIII", 
+        "constituency": "Viseu", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Maria Manuel de Lemos Leitão Marques", 
+    "occupation": [
+      "Professora Universitária"
+    ], 
+    "party": "PS", 
+    "shortname": "Maria Manuel Leitão Marques", 
+    "slug": "maria-manuel-leitao-marques", 
+    "url_democratica": "http://demo.cratica.org/deputados/maria-manuel-leitao-marques/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6126"
+  }, 
+  "6127": {
+    "active": true, 
+    "awards": [
+      "Comenda da Ordem do Mérito"
+    ], 
+    "birthdate": "1955-07-20", 
+    "commissions": [
+      "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
+      "Comissão de Agricultura e Mar"
+    ], 
+    "current_jobs": [
+      "Deputado da XIII legislatura", 
+      "Presidente da Assembleia Municipal de Resende", 
+      "Presidente da Federação Distrital de Viseu do Partido socialista"
+    ], 
+    "education": [
+      "Licenciatura em Licenciatura"
+    ], 
+    "id": 6127, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6127&type=deputado", 
+    "jobs": [
+      "Administrador da Empresa de Gestão de Obras Públicas, EM, Porto", 
+      "Presidente da Câmara Municipal de Resende", 
+      "Presidente do Conselho Diretivo da Associação de Municípios do Vale Douro Sul", 
+      "Presidente do Conselho de Administração da Companhia das Águas de Caldas de Aregos, EM", 
+      "Presidente do Conselho de Administração da Gaianima, Em, Vila Nova de Gaia"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6127&lg=XIII", 
+        "constituency": "Viseu", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6127&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "António Manuel Leitão Borges", 
+    "occupation": [
+      "engenheiro civil"
+    ], 
+    "party": "PS", 
+    "shortname": "António Borges", 
+    "slug": "antonio-borges", 
+    "url_democratica": "http://demo.cratica.org/deputados/antonio-borges/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6127"
+  }, 
+  "6128": {
+    "active": true, 
+    "birthdate": "2009-01-01", 
+    "commissions": [
+      "Comissão de Saúde", 
+      "Comissão de Trabalho e Segurança Social [Suplente]", 
+      "Grupo de Trabalho para o Acompanhamento das Doenças Oncológicas"
+    ], 
+    "education": [
+      "Licenciatura em Direito"
+    ], 
+    "id": 6128, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6128&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6128&lg=XIII", 
+        "constituency": "Viseu", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6128&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Marisabel dos Santos Rocha Moutela", 
+    "occupation": [
+      "Jurista"
+    ], 
+    "party": "PS", 
+    "shortname": "Marisabel Moutela", 
+    "slug": "marisabel-moutela", 
+    "url_democratica": "http://demo.cratica.org/deputados/marisabel-moutela/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6128"
+  }, 
+  "6136": {
+    "active": true, 
+    "birthdate": "1977-05-12", 
+    "commissions": [
+      "Comissão de Assuntos Europeus", 
+      "Comissão de Orçamento, Finanças e Modernização Administrativa", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]", 
+      "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Impenhorabilidade da Habitação Própria Permanente (PJL´s 86/XIII/1.ª - BE, 87/XIII/1.ª - PS, 88/XIII/1.ª - PCP, 89/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Combate à criminalidade económica, financeira e fiscal"
+    ], 
+    "education": [
+      "Mestrado em Economia"
+    ], 
+    "id": 6136, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6136&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6136&lg=XIII", 
+        "constituency": "Viseu", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6136&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Inês Carmelo Rosa Calado Lopes Domingos", 
+    "occupation": [
+      "Economista"
+    ], 
+    "party": "PSD", 
+    "shortname": "Inês Domingos", 
+    "slug": "ines-domingos", 
+    "url_democratica": "http://demo.cratica.org/deputados/ines-domingos/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6136"
+  }, 
+  "6137": {
+    "active": true, 
+    "birthdate": "1964-01-12", 
+    "commissions": [
+      "Comissão de Agricultura e Mar", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Grupo de Trabalho - Reorganização Territorial de Freguesias"
+    ], 
+    "current_jobs": [
+      "Presidente da Direção da Pesqueiramiga - Associação de Solidariedade Social", 
+      "Presidente da Mesa da Assembleia Geral da Caixa de Crédito Agrícola do Douro e Côa", 
+      "Vogal do Conselho Fiscal da Associação Bagos D'Ouro"
+    ], 
+    "education": [
+      "Licenciatura em Engenharia civil"
+    ], 
+    "id": 6137, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6137&type=deputado", 
+    "jobs": [
+      "Presidente da Câmara Municipal de São João da Pesqueira - 1994/2009", 
+      "Sócio-gerente da Dourologia, Lda. - 2010/2015"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6137&lg=XIII", 
+        "constituency": "Viseu", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6137&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "António José Lima Costa", 
+    "occupation": [
+      "Engenheiro civil"
+    ], 
+    "party": "PSD", 
+    "shortname": "António Lima Costa", 
+    "slug": "antonio-lima-costa", 
+    "url_democratica": "http://demo.cratica.org/deputados/antonio-lima-costa/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6137"
+  }, 
+  "6138": {
+    "active": true, 
+    "birthdate": "1957-08-10", 
+    "commissions": [
+      "Comissão de Saúde", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes"
+    ], 
+    "current_jobs": [
+      "Vogal da direcção do Centro de Dia Creche e Jardim de Infância de Vilar Seco"
+    ], 
+    "education": [
+      "Licenciatura em medicina"
+    ], 
+    "id": 6138, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6138&type=deputado", 
+    "jobs": [
+      "Presidente da Camara de Nelas"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6138&lg=XIII", 
+        "constituency": "Viseu", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6138&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Isaura Leonor Marques de Figueiredo Silva Pedro", 
+    "occupation": [
+      "Médica"
+    ], 
+    "party": "PSD", 
+    "shortname": "Isaura Pedro", 
+    "slug": "isaura-pedro", 
+    "url_democratica": "http://demo.cratica.org/deputados/isaura-pedro/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6138"
+  }, 
+  "6139": {
+    "active": false, 
+    "birthdate": "1975-01-18", 
+    "commissions": [], 
+    "education": [
+      "Licenciatura em Direito"
+    ], 
+    "id": 6139, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6139&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6139&lg=XIII", 
+        "constituency": "Viseu", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Eugénia Maria de Oliveira Duarte", 
+    "occupation": [
+      "Advogada"
+    ], 
+    "party": "PSD", 
+    "shortname": "Eugénia Duarte", 
+    "slug": "eugenia-duarte", 
+    "url_democratica": "http://demo.cratica.org/deputados/eugenia-duarte/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6139"
+  }, 
+  "6147": {
+    "active": true, 
+    "awards": [
+      "Personalidade Feminina de 2006\" na categoria Política, atribuída pela revista Lux e TVI", 
+      "◾\"Figura do Futuro\" na área da Política, em 2009,numa iniciativa do Correio da Manhã", 
+      "Mulher do Ano 2009\" nas relações Portugal-Brasil, atribuído pelo Conselho Nacional das Mulheres do Brasil", 
+      "◾\"Prémio Internacional de Liderança de 2011\", atribuído pela PALCUS (Portuguese American Leadership Council of the United States)", 
+      "◾\"Personalidade Política do Ano 2012\" pela revista Saber Açores"
+    ], 
+    "birthdate": "2009-01-01", 
+    "commissions": [
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação"
+    ], 
+    "current_jobs": [
+      "Deputada -Assembleia da Republica", 
+      "Vice Presidente do Grupo Parlamentar do PSD"
+    ], 
+    "education": [
+      "Licenciatura em Economia e Finanças", 
+      "Curso de Especialização em Gestão Avançada pelo Hautes Etudes Comerciauxx-Paris", 
+      "Programa Avançado de gestão para Executivos pela Universidade Católica Portuguesa", 
+      "Curso de Airline Management pela Universidade de Cranfield"
+    ], 
+    "id": 6147, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6147&type=deputado", 
+    "jobs": [
+      "Diretora Regional do Tesouro", 
+      "Diretora Regional dos Transportes e Comunicações", 
+      "Membro do CA da Empresa de Electricidade dos Açores", 
+      "Presidente do CA da Sata Air Açores", 
+      "Secretária Regional das Finanças na RAA", 
+      "Deputada e Lider parlamentar do PSD na ALRA", 
+      "Presidente da Câmara Municipal de Ponta Delgada e Presidente dos SMAS", 
+      "Presidente da AMRA e Membro do Conselho Diretivo da ANMP", 
+      "Secretaria de Estado Adjunta e da Defesa Nacional do XIX Governo", 
+      "Presidente do PSD Açores entre 2008 e 2012"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6147&lg=XIII", 
+        "constituency": "Açores", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6147&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Berta Maria Correia de Almeida de Melo Cabral", 
+    "occupation": [
+      "Economista"
+    ], 
+    "party": "PSD", 
+    "shortname": "Berta Cabral", 
+    "slug": "berta-cabral", 
+    "url_democratica": "http://demo.cratica.org/deputados/berta-cabral/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6147"
+  }, 
+  "6148": {
+    "active": true, 
+    "birthdate": "1968-03-11", 
+    "commissions": [
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas [Suplente]", 
+      "Comissão de Assuntos Europeus [Suplente]", 
+      "Comissão de Orçamento, Finanças e Modernização Administrativa", 
+      "Comissão de Agricultura e Mar", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas [Suplente]", 
+      "Grupo de Trabalho - Setor Leiteiro [Coordenador ]"
+    ], 
+    "education": [
+      "Licenciatura em Licenciatura", 
+      "Mestrado em Engenharia Zootécnica", 
+      "Mestrado em Tecnologia Leiteira"
+    ], 
+    "id": 6148, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6148&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6148&lg=XIII", 
+        "constituency": "Açores", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6148&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "António Lima Cardoso Ventura", 
+    "occupation": [
+      "Técnico Superior"
+    ], 
+    "party": "PSD", 
+    "shortname": "António Ventura", 
+    "slug": "antonio-ventura", 
+    "url_democratica": "http://demo.cratica.org/deputados/antonio-ventura/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6148"
+  }, 
+  "6149": {
+    "active": false, 
+    "birthdate": "1975-12-09", 
+    "commissions": [], 
+    "current_jobs": [
+      "Deputada da XIII Legislatura"
+    ], 
+    "education": [
+      "Licenciatura em Filosofia", 
+      "Pós-Graduação em Comunicação e Informação", 
+      "Estudos Especializados em Valores e Sociedade"
+    ], 
+    "id": 6149, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6149&type=deputado", 
+    "jobs": [
+      "Presidente da Direção da Casa de Infância de Santo António", 
+      "Vereadora da Câmara Municipal da Horta 2009/2013"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6149&lg=XIII", 
+        "constituency": "Açores", 
+        "end_date": "", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Rosa Maria Brasil Dart", 
+    "occupation": [
+      "Técnico Superior Educação Ambiental"
+    ], 
+    "party": "PSD", 
+    "shortname": "Rosa Dart", 
+    "slug": "rosa-dart", 
+    "url_democratica": "http://demo.cratica.org/deputados/rosa-dart/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6149"
+  }, 
+  "6157": {
+    "active": true, 
+    "birthdate": "1978-11-06", 
+    "commissions": [
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
+      "Comissão de Defesa Nacional [Suplente]", 
+      "Comissão de Assuntos Europeus [Suplente]"
+    ], 
+    "current_jobs": [
+      "Membro da direção do IAAERI - Instituto Açoriano de Assuntos Europeus e Relações Internacionais."
+    ], 
+    "education": [
+      "Licenciatura em Licenciatura em Ciência Política e Relações Internacionais pela Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa", 
+      "Mestrado em Relações Internacionais", 
+      "Master in Business and Administration (MBA)", 
+      "Formação em Liderança no Séc. XXI: Formação Avançada de Executivos, na Harvard Kennedy School"
+    ], 
+    "id": 6157, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6157&type=deputado", 
+    "jobs": [
+      "Administradora da SDEA – Sociedade para o Desenvolvimento Empresarial dos Açores, EPER, desde Março de 2013 até Outubro de 2015", 
+      "Deputada na Assembleia Legislativa Regional – entre Novembro de 2012 e", 
+      "Fevereiro de 2013", 
+      "Membro da Comissão de Economia da Assembleia Legislativa Regional dos Açores - entre Novembro de 2012 e Fevereiro de 2013", 
+      "Secretária-Geral da Câmara de Comércio de Angra do Heroísmo - entre", 
+      "16 de Dezembro de 2010 até 4 de Novembro de 2012", 
+      "Assessora da Direção da Câmara de Comércio de Angra do Heroísmo - entre", 
+      "Fevereiro de 2007 até 15 de Dezembro de 2010", 
+      "Técnica Superior de Relações Internacionais na Câmara de Comércio de Angra", 
+      "do Heroísmo – entre De 1 Março de 2005 até 31 de Janeiro de 2007"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6157&lg=XIII", 
+        "constituency": "Açores", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6157&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Lara Fernandes Martinho", 
+    "occupation": [
+      "Administradora"
+    ], 
+    "party": "PS", 
+    "shortname": "Lara Martinho", 
+    "slug": "lara-martinho", 
+    "url_democratica": "http://demo.cratica.org/deputados/lara-martinho/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6157"
+  }, 
+  "6158": {
+    "active": true, 
+    "birthdate": "1971-01-24", 
+    "commissions": [
+      "Comissão de Assuntos Europeus [Suplente]", 
+      "Comissão de Agricultura e Mar", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto", 
+      "Grupo de Trabalho - Setor Leiteiro", 
+      "Grupo de Trabalho Desporto"
+    ], 
+    "current_jobs": [
+      "Deputado à Assembleia da Republica - XIII Legislatura"
+    ], 
+    "education": [
+      "1º Ciclo", 
+      "2º Ciclo", 
+      "3º Ciclo", 
+      "Ensino Secundário", 
+      "Licenciatura em Educação Física e Desporto", 
+      "Mestrado em Gestão do Desporto", 
+      "Mestrado em Gestão Portuária", 
+      "Pós Graduação - Especialização em Gestão Portuária"
+    ], 
+    "id": 6158, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6158&type=deputado", 
+    "jobs": [
+      "Coordenação/Instalação da Escola do Mar dos Açores - SRMCT/DRAM", 
+      "Presidente da Câmara Municipal da Horta", 
+      "Vice Presidente da Câmara Municipal da Horta", 
+      "Diretor dos Serviços do Desporto - SRE/RAA", 
+      "Diretor Técnico da UAAA", 
+      "Professor - SRE/RAA"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6158&lg=XIII", 
+        "constituency": "Açores", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6158&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "João Fernando Brum de Azevedo e Castro", 
+    "occupation": [
+      "Professor"
+    ], 
+    "party": "PS", 
+    "shortname": "João Azevedo Castro", 
+    "slug": "joao-azevedo-castro", 
+    "url_democratica": "http://demo.cratica.org/deputados/joao-azevedo-castro/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6158"
+  }, 
+  "6165": {
+    "active": true, 
+    "birthdate": "1972-06-22", 
+    "commissions": [
+      "Comissão de Orçamento, Finanças e Modernização Administrativa", 
+      "Comissão de Economia, Inovação e Obras Públicas", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco [Suplente]", 
+      "Grupo de Trabalho - Produtos Alimentares nas Cantinas e Refeitórios Públicos (PJL´s 13/XIII/1.ª - PEV, 58/XIII/1.ª - BE, 66/XIII/1.ª - PAN, 71/XIII/1.ª - PS e PJR 41/XIII/1.ª - PSD/CDS-PP)", 
+      "Grupo de Trabalho - Conta Base e Condições dos Contratos de Crédito (PJL´s 52/XIII/1.ª - PCP, 90/XIII/1.ª - BE, 83/XIII/1.ª - BE e 92/XIII/1.ª - PCP)", 
+      "Grupo de Trabalho - Turismo", 
+      "Grupo de Trabalho - IVA nas terapeuticas não convencionais (PJL`s 289, 293 e 301/XIII/1.ª)"
+    ], 
+    "current_jobs": [
+      "Vogal da mesa da Assembleia Geral da Associação Grupo Cultural Flores de Maio"
+    ], 
+    "education": [
+      "Licenciatura em Economia"
+    ], 
+    "id": 6165, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6165&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6165&lg=XIII", 
+        "constituency": "Madeira", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6165&leg=XIII", 
+        "legislature": 13, 
+        "party": "BE", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "José Paulino Carvalho de Ascenção", 
+    "occupation": [
+      "Economista"
+    ], 
+    "party": "BE", 
+    "shortname": "Paulino Ascenção", 
+    "slug": "paulino-ascencao", 
+    "url_democratica": "http://demo.cratica.org/deputados/paulino-ascencao/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6165"
+  }, 
+  "6176": {
+    "active": true, 
+    "birthdate": "1978-09-15", 
+    "commissions": [
+      "Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias", 
+      "Comissão de Saúde [Suplente]", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
+      "Grupo de Trabalho - Mercado Único Digital", 
+      "Subcomissão de Ética"
+    ], 
+    "current_jobs": [
+      "Deputada na Assembleia da República", 
+      "Vice- Presidente da Direção do Grupo Parlamentar do PSD", 
+      "Vogal da Comissão Política Regional do PSD - Madeira", 
+      "Vogal da Assembleia de Freguesia de Santo António"
+    ], 
+    "education": [
+      "Licenciatura em Direito, pela Faculdade de Direito de Lisboa.", 
+      "Pós- Graduação em Direito do Ordenamento do Território, do Urbanismo e do Ambiente, pela Faculdade de Direito de Coímbra."
+    ], 
+    "id": 6176, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6176&type=deputado", 
+    "jobs": [
+      "Deputada na Assembleia Leg. da Madeira", 
+      "Vice Presid. da Direção do Grupo Parlamentar do PSD-Madeira", 
+      "Presid. da 6.º Comissão da Educação, Desporto e Cultura", 
+      "Secr. 1.ª Comissão de Politica Geral e Juventude", 
+      "Relatora da Comissão Eventual para a Reforma do Sistema Político", 
+      "Presid. da Com. Política de Freg. de Sto. António", 
+      "Secr. do Cons. de Jurisdição do PSD-Madeira", 
+      "Secr. da Mesa do Congresso da JSD-Nacional", 
+      "Vogal da Com. Política Regional da JSD- Madeira", 
+      "Vogal do Cons. de Jurisdição da JSD- Madeira"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6176&lg=XIII", 
+        "constituency": "Madeira", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6176&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Sara Martins Marques dos Santos Madruga da Costa", 
+    "occupation": [
+      "Advogada"
+    ], 
+    "party": "PSD", 
+    "shortname": "Sara Madruga da Costa", 
+    "slug": "sara-madruga-da-costa", 
+    "url_democratica": "http://demo.cratica.org/deputados/sara-madruga-da-costa/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6176"
+  }, 
+  "6177": {
+    "active": true, 
+    "birthdate": "1982-11-11", 
+    "commissions": [
+      "Comissão de Assuntos Europeus", 
+      "Comissão de Orçamento, Finanças e Modernização Administrativa", 
+      "Grupo de Trabalho - IVA nas terapeuticas não convencionais (PJL`s 289, 293 e 301/XIII/1.ª)"
+    ], 
+    "education": [
+      "Licenciatura em Economia e Ciência Política", 
+      "Mestrado em Política Europeia"
+    ], 
+    "id": 6177, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6177&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6177&lg=XIII", 
+        "constituency": "Madeira", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6177&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Rubina Everlien Berardo", 
+    "occupation": [
+      "Economista"
+    ], 
+    "party": "PSD", 
+    "shortname": "Rubina Berardo", 
+    "slug": "rubina-berardo", 
+    "url_democratica": "http://demo.cratica.org/deputados/rubina-berardo/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6177"
+  }, 
+  "6178": {
+    "active": true, 
+    "birthdate": "1967-07-09", 
+    "commissions": [
+      "Comissão de Negócios Estrangeiros e Comunidades Portuguesas", 
+      "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
+      "Grupo de Trabalho - Turismo"
+    ], 
+    "education": [
+      "Mestrado em Comportamento Organizacional"
+    ], 
+    "id": 6178, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6178&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6178&lg=XIII", 
+        "constituency": "Madeira", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6178&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Paulo Alexandre de Sousa Neves", 
+    "occupation": [
+      "professor"
+    ], 
+    "party": "PSD", 
+    "shortname": "Paulo Neves", 
+    "slug": "paulo-neves", 
+    "url_democratica": "http://demo.cratica.org/deputados/paulo-neves/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6178"
+  }, 
+  "6187": {
+    "active": true, 
+    "birthdate": "1969-08-30", 
+    "commissions": [
+      "Comissão de Assuntos Europeus", 
+      "Comissão de Economia, Inovação e Obras Públicas", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco", 
+      "Grupo de Trabalho - Turismo", 
+      "Grupo de Trabalho - PJL Lei-Quadro das Entidades Reguladoras"
+    ], 
+    "current_jobs": [
+      "Presidente do PS-Madeira", 
+      "Vice-Presidente do grupo parlamentar do PS na Assembleia da República", 
+      "Consultor independente da Comissão Europeia para o Horizonte 2020"
+    ], 
+    "education": [
+      "Licenciatura em Economia", 
+      "Duas pós graduações: Economia Rural (ISA); Gestão do Turismo (UMa)"
+    ], 
+    "id": 6187, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6187&type=deputado", 
+    "jobs": [
+      "Presidente do Grupo Parlamentar do PS-M na Assembleia Legislativa da RAM", 
+      "Presidente da Delegação Regional da Ordem dos Economistas", 
+      "Director da Sociedade de Desenvolvimento da Madeira- entidade que gere a zona franca da Madeira", 
+      "Vereador na Câmara Municipal do Funchal", 
+      "Assistente Convidado na Universidade da Madeira", 
+      "Secretário Geral da Associação Comercial e Industrial do Funchal- Câmara de Comércio e Indústria da Madeira", 
+      "Director Financeiro do Centro de Ciência e Tecnologia da Madeira"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6187&lg=XIII", 
+        "constituency": "Madeira", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6187&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Carlos João Pereira", 
+    "occupation": [
+      "economista"
+    ], 
+    "party": "PS", 
+    "shortname": "Carlos Pereira", 
+    "slug": "carlos-pereira", 
+    "url_democratica": "http://demo.cratica.org/deputados/carlos-pereira/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6187"
+  }, 
+  "6188": {
+    "active": true, 
+    "birthdate": "1963-07-07", 
+    "commissions": [
+      "Comissão de Economia, Inovação e Obras Públicas [Suplente]", 
+      "Comissão de Saúde [Suplente]", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
+      "Grupo de Trabalho - Habitação, Reabilitação Urbana e Políticas de Cidades"
+    ], 
+    "education": [
+      "Licenciatura em Arquitectura"
+    ], 
+    "id": 6188, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6188&type=deputado", 
+    "jobs": [
+      "Vereador sem pelouro da Câmara Municipal do Funchal - 2005-2007", 
+      "Presidente do Conselho Nacional de Delegados da Ordem dos Arquitectos 2010/2013"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6188&lg=XIII", 
+        "constituency": "Madeira", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6188&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Luís Miguel Vilhena de Carvalho", 
+    "occupation": [
+      "arquitecto"
+    ], 
+    "party": "PS", 
+    "shortname": "Luís Vilhena", 
+    "slug": "luis-vilhena", 
+    "url_democratica": "http://demo.cratica.org/deputados/luis-vilhena/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6188"
+  }, 
+  "6197": {
+    "active": true, 
+    "birthdate": "1962-06-03", 
+    "commissions": [
+      "Comissão de Assuntos Europeus", 
+      "Comissão de Saúde", 
+      "Comissão de Ambiente, Ordenamento do Território, Descentralização, Poder Local e Habitação [Suplente]", 
+      "Grupo de Trabalho para o Acompanhamento da Problemática da Diabetes", 
+      "Grupo de Trabalho para o Acompanhamento das Doenças Oncológicas"
+    ], 
+    "current_jobs": [
+      "DEPUTADO A ASSEMBLEIA DA REPUBLICA NA XIII LEGISLATURA"
+    ], 
+    "education": [
+      "1º Ciclo", 
+      "2º Ciclo", 
+      "3º Ciclo", 
+      "Ensino Secundário", 
+      "Licenciatura em MEDICINA"
+    ], 
+    "id": 6197, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6197&type=deputado", 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6197&lg=XIII", 
+        "constituency": "Leiria", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6197&leg=XIII", 
+        "legislature": 13, 
+        "party": "PS", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "António Lacerda Sales", 
+    "occupation": [
+      "MEDICO"
+    ], 
+    "party": "PS", 
+    "shortname": "António Sales", 
+    "slug": "antonio-sales", 
+    "url_democratica": "http://demo.cratica.org/deputados/antonio-sales/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6197"
+  }, 
+  "6207": {
+    "active": true, 
+    "birthdate": "1989-09-24", 
+    "commissions": [
+      "Comissão de Orçamento, Finanças e Modernização Administrativa", 
+      "Comissão de Educação e Ciência [Suplente]", 
+      "Comissão de Cultura, Comunicação, Juventude e Desporto [Suplente]", 
+      "Comissão Eventual para o Reforço da Transparência no Exercício de Funções Públicas", 
+      "Comissão Parlamentar de Inquérito à Recapitalização da Caixa Geral de Depósitos e à Gestão do Banco", 
+      "Subcomissão para a Igualdade e Não Discriminação [Suplente]"
+    ], 
+    "current_jobs": [
+      "Secretária-Geral da Comissão Política Nacional da JSD", 
+      "Conselheira Nacional do PSD", 
+      "Membro da Assembleia Municipal da Marinha Grande"
+    ], 
+    "education": [
+      "Licenciatura em Direito", 
+      "Mestrado em Direito e Gestão"
+    ], 
+    "id": 6207, 
+    "image_url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6207&type=deputado", 
+    "jobs": [
+      "Tesoureira da Direção da Associação Académica da Faculdade de Direito de Lisboa", 
+      "Tesoureira da Direção da Associação Europeia de Estudantes de Direito da Faculdade de Direito de Lisboa – ELSA FDL", 
+      "Representante dos estudantes no Conselho Académico da Faculdade de Direito de Lisboa", 
+      "Vogal da Direção da Associação Académica da Faculdade de Direito de Lisboa", 
+      "Presidente da Associação de Estudantes da Escola Secundária Acácio Calazans Duarte"
+    ], 
+    "mandates": [
+      {
+        "activity_url": "http://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=6207&lg=XIII", 
+        "constituency": "Leiria", 
+        "end_date": "", 
+        "interest_url": "http://www.parlamento.pt/DeputadoGP/Paginas/XIIL_RegInteresses.aspx?BID=6207&leg=XIII", 
+        "legislature": 13, 
+        "party": "PSD", 
+        "start_date": "2015-10-23"
+      }
+    ], 
+    "name": "Ana Margarida Balseiro de Sousa Lopes", 
+    "occupation": [
+      "Consultora fiscal"
+    ], 
+    "party": "PSD", 
+    "shortname": "Margarida Balseiro Lopes", 
+    "slug": "margarida-balseiro-lopes", 
+    "url_democratica": "http://demo.cratica.org/deputados/margarida-balseiro-lopes/", 
+    "url_parlamento": "http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=6207"
   }
 }

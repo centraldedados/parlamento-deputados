@@ -28,5 +28,7 @@ SHORTNAME_REPLACES = {
         u'Carlos Amorim': u'Carlos Abreu Amorim',
         u'João Mota Amaral': u'Mota Amaral',
         u'Isabel Alves Moreira': u'Isabel Moreira',
+        u'Helder Amaral': u'Hélder Amaral',
+        u'Heitor de Sousa': u'Heitor Sousa',
         }
 
