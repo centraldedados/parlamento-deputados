@@ -31,4 +31,5 @@ SHORTNAME_REPLACES = {
     u"Maria das Mercês Borges": u"Maria das Mercês Soares",
     u"Eduardo Ferro Rodrigues": u"Ferro Rodrigues",
     u"Rosa Maria Bastos Albernaz": u"Rosa Maria Albernaz",
+    u"Domicilia Costa": u"Domicília Costa",
 }
