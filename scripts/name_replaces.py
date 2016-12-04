@@ -19,7 +19,6 @@ SHORTNAME_REPLACES = {
     u'Manuel Isaac': u'Fialho Isaac',
     u'Carlos Amorim': u'Carlos Abreu Amorim',
     u'João Mota Amaral': u'Mota Amaral',
-    u'Isabel Moreira': u'Isabel Alves Moreira',
     u'Helder Amaral': u'Hélder Amaral',
     u'Heitor de Sousa': u'Heitor Sousa',
     u'Pedro do ó Ramos': u'Pedro do Ó Ramos',
