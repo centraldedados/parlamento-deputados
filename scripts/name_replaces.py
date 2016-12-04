@@ -19,7 +19,7 @@ SHORTNAME_REPLACES = {
     u'Manuel Isaac': u'Fialho Isaac',
     u'Carlos Amorim': u'Carlos Abreu Amorim',
     u'João Mota Amaral': u'Mota Amaral',
-    u'Isabel Alves Moreira': u'Isabel Moreira',
+    u'Isabel Moreira': u'Isabel Alves Moreira',
     u'Helder Amaral': u'Hélder Amaral',
     u'Heitor de Sousa': u'Heitor Sousa',
     u'Pedro do ó Ramos': u'Pedro do Ó Ramos',
@@ -30,4 +30,6 @@ SHORTNAME_REPLACES = {
     u"Regina Bastos": u"Regina Ramos Bastos",
     u"Maria Antónia de Almeida Santos": u"Maria Antónia Almeida Santos",
     u"Maria das Mercês Borges": u"Maria das Mercês Soares",
+    u"Eduardo Ferro Rodrigues": u"Ferro Rodrigues",
+    u"Rosa Maria Bastos Albernaz": u"Rosa Maria Albernaz",
 }
