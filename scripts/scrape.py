@@ -142,7 +142,9 @@ def process_mp(i):
         if current_jobs:
             mprow['current_jobs'] = extract_multiline_details(current_jobs)
         if coms:
-            mprow['commissions'] = extract_details(coms)
+            commissions = extract_details(coms)
+            if commissions:
+                mprow['commissions'] = commissions
         if awards:
             mprow['awards'] = extract_multiline_details(awards)
         if mandates:
