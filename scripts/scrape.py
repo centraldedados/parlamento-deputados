@@ -129,6 +129,8 @@ def process_mp(i):
         # individual cases
         if mprow['shortname'] == "Jorge Costa" and mprow['party'] == 'BE':
             mprow['shortname'] = "Jorge Duarte Costa"
+            mprow['slug'] = slugify(mprow['shortname'])
+            mprow['url_democratica'] = 'http://demo.cratica.org/deputados/%s/' % mprow['slug']
 
         if education:
             # TODO: break educations string into multiple entries, ';' is the separator
