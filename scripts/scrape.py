@@ -13,13 +13,13 @@ import click
 from bs4 import BeautifulSoup
 from name_replaces import SHORTNAME_REPLACES
 from utils import getpage, slugify
+from collections import OrderedDict
+from zenlog import log
 
 logger = logging.getLogger(__name__)
 
 FIELDNAMES = ['id', 'shortname', 'slug', 'name', 'party', 'active', 'education', 'birthdate', 'occupation', 'current_jobs',
               'jobs', 'commissions', 'mandates', 'awards', 'url_democratica', 'url_parlamento', 'image_url']
-
-DEFAULT_MAX = 5700
 
 ROMAN_NUMERALS = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5,
                   'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10,
@@ -108,32 +108,37 @@ def process_mp(i):
         mandates = soup.find('table', id=RE_MANDATES)
         image_src = soup.find('td', {'class': 'tdFotoBio'}).img['src']
 
-        mprow = {'id': i,
-                 'name': name.text,
-                 'url_parlamento': url}
+        mprow = OrderedDict()
+        mprow['id'] = i
+        mprow['name'] = name.text
+        mprow['url_parlamento'] = url
 
-        if short:
-            # replace by canonical shortnames if appropriate
-            if short.text in SHORTNAME_REPLACES:
-                t = SHORTNAME_REPLACES[short.text]
-            else:
-                t = short.text
-            mprow['shortname'] = t
-            mprow['slug'] = slugify(t)
-            mprow['url_democratica'] = 'http://demo.cratica.org/deputados/%s/' % slugify(t)
+        # Ver se é um dos nomes que devemos rectificar
+        if short.text in SHORTNAME_REPLACES:
+            t = SHORTNAME_REPLACES[short.text]
+        else:
+            t = short.text
+
+        # Casos específicos de desambiguação
+        if t == "Jorge Costa" and party.text == 'BE':
+            t = "Jorge Duarte Costa"
+        elif t == "Carla Tavares" and mprow['id'] == 1634:
+            t = "Carla Tavares Gaspar"
+        elif t == u"António Rodrigues" and mprow['id'] == 1132:
+            t = u"António Costa Rodrigues"
+        elif t == "Paulo Neves" and mprow['id'] == 1360:
+            t = "Paulo Santos Neves"
+        elif t == "Carlos Pereira" and mprow['id'] == 29:
+            t = "Carlos Lopes Pereira"
+
+        mprow['shortname'] = t
+        mprow['slug'] = slugify(t)
+        mprow['url_democratica'] = 'http://demo.cratica.org/deputados/%s/' % slugify(t)
         if birthdate:
             mprow['birthdate'] = birthdate.text
         if party:
             mprow['party'] = party.text
-
-        # individual cases
-        if mprow['shortname'] == "Jorge Costa" and mprow['party'] == 'BE':
-            mprow['shortname'] = "Jorge Duarte Costa"
-            mprow['slug'] = slugify(mprow['shortname'])
-            mprow['url_democratica'] = 'http://demo.cratica.org/deputados/%s/' % mprow['slug']
-
         if education:
-            # TODO: break educations string into multiple entries, ';' is the separator
             mprow['education'] = extract_details(education)
         if occupation:
             mprow['occupation'] = extract_details(occupation)
@@ -156,13 +161,12 @@ def process_mp(i):
                 number, start, end = parse_legislature(l)
                 end = end.rstrip(']\n')
 
-                mandate = {
-                    'legislature': number,
-                    'start_date': start,
-                    'end_date': end,
-                    'constituency': leg[4].text,
-                    'party': leg[5].text
-                }
+                mandate = OrderedDict()
+                mandate['legislature'] = number
+                mandate['party'] = leg[5].text
+                mandate['constituency'] = leg[4].text
+                mandate['start_date'] = start
+                mandate['end_date'] = end
 
                 if leg[2].find("a"):
                     # atividade parlamentar
@@ -204,7 +208,10 @@ def scrape(format, start=1, end=7000, outfile='', indent=1, processes=2):
         pool.terminate()
 
     for processed_mp in processed_mps:
-        mprows[processed_mp['id']] = processed_mp
+        shortname = processed_mp['shortname']
+        if shortname in mprows:
+            log.warning("Duplicate shortname: %s (%s, %s)" % (shortname, mprows[shortname]['id'], processed_mp['id']))
+        mprows[shortname] = processed_mp
 
     for k in mprows.keys():
         if mprows[k]['id'] in active_ids:
@@ -212,14 +219,17 @@ def scrape(format, start=1, end=7000, outfile='', indent=1, processes=2):
         else:
             mprows[k]['active'] = False
 
+    # Ordenar segundo o shortname (ordenamos pela slug para não dar molho com os acentos)
+    mprows = OrderedDict(sorted(mprows.items(), key=lambda x: slugify(x[0])))
+
     logger.info("Saving to file %s..." % outfile)
     if format == "json":
         depsfp = io.open(outfile, 'w+')
-        depsfp.write(dumps(mprows, encoding='utf-8', ensure_ascii=False, indent=indent, sort_keys=True))
+        depsfp.write(dumps(mprows, encoding='utf-8', ensure_ascii=False, indent=indent))
         depsfp.close()
     elif format == "csv":
         depsfp = open(outfile, 'w+')
-        writer = csv.DictWriter(depsfp, delimiter=",", quoting=csv.QUOTE_NONNUMERIC, quotechar='"', fieldnames=FIELDNAMES)
+        writer = csv.DictWriter(depsfp, fieldnames=FIELDNAMES)
         writer.writeheader()
         for rownumber in mprows:
             row = mprows[rownumber]
@@ -230,7 +240,6 @@ def scrape(format, start=1, end=7000, outfile='', indent=1, processes=2):
                     row[key] = "; ".join(row[key])
             row = {k: v.strip().encode('utf-8') if type(v) in (str, unicode) else v for k, v in row.items()}
             writer.writerow(row)
-    logger.info("Done.")
 
 
 @click.command()
