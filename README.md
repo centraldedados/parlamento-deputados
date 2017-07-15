@@ -1,7 +1,17 @@
-parlamento-deputados
-====================
+Este dataset contém informação dos deputados extraída do Parlamento.pt.
 
-TODO
+Importa notar que a versão JSON dos dados contém mais campos que o CSV não tem:
+
+* `mandates` -- informação sobre cada mandato individual
+* `jobs` -- cargos ocupados no passado
+* `current_jobs` -- cargos ocupados no presente
+
+A documentação do scraper (descrita abaixo) contém mais informação sobre os dados e a sua disposição..
+
+## Scraper
+
+Os pormenores sobre o scraper que usamos para extrair os dados do Parlamento.pt está documentado [no seu diretório](https://github.com/centraldedados/parlamento-deputados/blob/master/scripts/README.md).
+
 
 Receitas
 --------
