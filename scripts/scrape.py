@@ -19,7 +19,9 @@ from zenlog import log
 logger = logging.getLogger(__name__)
 
 FIELDNAMES = ['id', 'shortname', 'slug', 'name', 'party', 'active', 'education', 'birthdate', 'occupation', 'current_jobs',
-              'jobs', 'commissions', 'mandates', 'awards', 'url_democratica', 'url_parlamento', 'image_url']
+              'jobs', 'commissions', 'mandates', 'awards', 'url_democratica', 'url_parlamento',
+              # 'url_hemiciclo', 
+              'image_url']
 
 ROMAN_NUMERALS = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5,
                   'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10,
@@ -183,13 +185,14 @@ def process_mp(i):
                 mprow['mandates'].append(mandate)
         if image_src:
             mprow['image_url'] = image_src
+        # mprow['url_hemiciclo'] = 'http://hemiciclo.pt/%s/%d/' % (mprow['party'].lower().replace("-pp", ""), i)
 
         logger.info("Scraped MP: %s" % short.text)
 
         return mprow
 
 
-def scrape(format, start=1, end=7000, outfile='', indent=1, processes=2):
+def scrape(to_csv=False, to_json=True, start=1, end=7000, outfile=None, indent=1, processes=2):
     # Start with including the old MP list (those not on Parlamento.pt)
     # TODO
     # from utils import getpage, load_csv
@@ -222,12 +225,18 @@ def scrape(format, start=1, end=7000, outfile='', indent=1, processes=2):
     # Ordenar segundo o shortname (ordenamos pela slug para não dar molho com os acentos)
     mprows = OrderedDict(sorted(mprows.items(), key=lambda x: slugify(x[0])))
 
-    logger.info("Saving to file %s..." % outfile)
-    if format == "json":
+    if to_json:
+        if not outfile:
+            outfile = "deputados.json"
+        logger.info("Saving to file %s..." % outfile)
         depsfp = io.open(outfile, 'w+')
         depsfp.write(dumps(mprows, encoding='utf-8', ensure_ascii=False, indent=indent))
         depsfp.close()
-    elif format == "csv":
+        outfile = None
+    if to_csv:
+        if not outfile:
+            outfile = "deputados.csv"
+        logger.info("Saving to file %s..." % outfile)
         depsfp = open(outfile, 'w+')
         writer = csv.DictWriter(depsfp, fieldnames=FIELDNAMES)
         writer.writeheader()
@@ -243,15 +252,16 @@ def scrape(format, start=1, end=7000, outfile='', indent=1, processes=2):
 
 
 @click.command()
-@click.option("-f", "--format", help="Output file format, can be json (default) or csv", default="json")
+@click.option("-c", "--to-csv", help="Output in CSV format", is_flag=True)
+@click.option("-j", "--to-json", help="Output in JSON format (default)", is_flag=True)
 @click.option("-s", "--start", type=int, help="Begin scrape from this ID (int required, default 0)", default=0)
 @click.option("-e", "--end", type=int, help="End scrape at this ID (int required, default 7000)", default=7000)
 @click.option("-v", "--verbose", is_flag=True, help="Print some helpful information when running")
-@click.option("-o", "--outfile", type=click.Path(), help="Output file (default is deputados.json)")
+@click.option("-o", "--outfile", type=click.Path(), help="Output file (default is deputados.csv)")
 @click.option("-i", "--indent", type=int, help="Spaces for JSON indentation (default is 2)", default=2)
 @click.option("-p", "--processes", type=int, help="Simultaneous processes to run (default is 2)", default=2)
-@click.option("-c", "--clear-cache", help="Clean the local webpage cache", is_flag=True)
-def main(format, start, end, verbose, outfile, indent, clear_cache, processes):
+@click.option("-x", "--clear-cache", help="Clean the local webpage cache", is_flag=True)
+def main(to_csv, to_json, start, end, verbose, outfile, indent, clear_cache, processes):
     if verbose:
         import sys
         root = logging.getLogger()
@@ -259,15 +269,13 @@ def main(format, start, end, verbose, outfile, indent, clear_cache, processes):
         ch.setLevel(logging.INFO)
         root.setLevel(logging.INFO)
         root.addHandler(ch)
-    if not outfile and format == "csv":
-        outfile = "deputados.csv"
-    elif not outfile and format == "json":
-        outfile = "deputados.json"
+    if not to_csv and not to_json:
+        # CSV by default
+        to_json = True
     if clear_cache:
         logger.info("Clearing old cache...")
         shutil.rmtree("cache/")
-
-    scrape(format, start, end, outfile, indent, processes)
+    scrape(to_csv, to_json, start, end, outfile, indent, processes)
 
 if __name__ == "__main__":
     main()
