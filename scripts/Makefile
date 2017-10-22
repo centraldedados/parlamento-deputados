@@ -5,3 +5,7 @@ install:
 scrape:
 	. `pwd`/.env/bin/activate; python scrape.py --to-csv --to-json
 	mv -f deputados.csv deputados.json ../data
+
+scrape-clear-cache:
+	. `pwd`/.env/bin/activate; python scrape.py --to-csv --to-json --clear-cache
+	mv -f deputados.csv deputados.json ../data

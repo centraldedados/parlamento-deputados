@@ -20,14 +20,15 @@ logger = logging.getLogger(__name__)
 
 FIELDNAMES = ['id', 'shortname', 'slug', 'name', 'party', 'active', 'education', 'birthdate', 'occupation', 'current_jobs',
               'jobs', 'commissions', 'mandates', 'awards', 'url_democratica', 'url_parlamento',
-              # 'url_hemiciclo', 
+              # 'url_hemiciclo',
               'image_url']
 
 ROMAN_NUMERALS = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5,
                   'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10,
                   'XI': 11, 'XII': 12, 'XIII': 13, 'XIV': 14, 'XV': 15,
                   'XVI': 16, 'XVII': 17, 'XVIII': 18, 'XIX': 19, 'XX': 20,
-                  'XXI': 21, 'XXII': 22, 'XXIII': 23, 'XXIV': 24, 'XXV': 25}
+                  'XXI': 21, 'XXII': 22, 'XXIII': 23, 'XXIV': 24, 'XXV': 25,
+                  u'Cons': 'Constituinte'}
 
 ACTIVE_MP_URL = 'http://www.parlamento.pt/DeputadoGP/Paginas/Deputadoslista.aspx'
 MP_BIO_URL_FORMATTER = 'http://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=%d'
@@ -92,12 +93,11 @@ def extract_multiline_details(block):
 
 
 def process_mp(i):
-    logger.debug("Trying ID %d..." % i)
-
     url = MP_BIO_URL_FORMATTER % i
     soup = BeautifulSoup(getpage(url), "lxml")
     name = soup.find('span', id=RE_NAME)
     if name:
+        # logger.info("Got hit for ID %d" % i)
         short = soup.find('span', id=RE_SHORT)
         birthdate = soup.find('span', id=RE_BIRTHDATE)
         party = soup.find('span', id=RE_PARTY)
@@ -122,7 +122,8 @@ def process_mp(i):
             t = short.text
 
         # Casos específicos de desambiguação
-        if t == "Jorge Costa" and party.text == 'BE':
+        if mprow['id'] == 4194:
+            # Jorge Costa -> Jorge Duarte Costa
             t = "Jorge Duarte Costa"
         elif t == "Carla Tavares" and mprow['id'] == 1634:
             t = "Carla Tavares Gaspar"
@@ -133,6 +134,7 @@ def process_mp(i):
         elif t == "Carlos Pereira" and mprow['id'] == 29:
             t = "Carlos Lopes Pereira"
 
+        t = t.replace("  ", " ")
         mprow['shortname'] = t
         mprow['slug'] = slugify(t)
         mprow['url_democratica'] = 'http://demo.cratica.org/deputados/%s/' % slugify(t)
@@ -224,15 +226,9 @@ def scrape(to_csv=False, to_json=True, start=1, end=7000, outfile=None, indent=1
 
     # Ordenar segundo o shortname (ordenamos pela slug para não dar molho com os acentos)
     mprows = OrderedDict(sorted(mprows.items(), key=lambda x: slugify(x[0])))
+    import copy
+    json_mprows = copy.deepcopy(mprows)
 
-    if to_json:
-        if not outfile:
-            outfile = "deputados.json"
-        logger.info("Saving to file %s..." % outfile)
-        depsfp = io.open(outfile, 'w+')
-        depsfp.write(dumps(mprows, encoding='utf-8', ensure_ascii=False, indent=indent))
-        depsfp.close()
-        outfile = None
     if to_csv:
         if not outfile:
             outfile = "deputados.csv"
@@ -249,6 +245,14 @@ def scrape(to_csv=False, to_json=True, start=1, end=7000, outfile=None, indent=1
                     row[key] = "; ".join(row[key])
             row = {k: v.strip().encode('utf-8') if type(v) in (str, unicode) else v for k, v in row.items()}
             writer.writerow(row)
+        outfile = None
+    if to_json:
+        if not outfile:
+            outfile = "deputados.json"
+        logger.info("Saving to file %s..." % outfile)
+        depsfp = io.open(outfile, 'w+')
+        depsfp.write(dumps(json_mprows, encoding='utf-8', ensure_ascii=False, indent=indent))
+        depsfp.close()
 
 
 @click.command()
@@ -276,6 +280,7 @@ def main(to_csv, to_json, start, end, verbose, outfile, indent, clear_cache, pro
         logger.info("Clearing old cache...")
         shutil.rmtree("cache/")
     scrape(to_csv, to_json, start, end, outfile, indent, processes)
+
 
 if __name__ == "__main__":
     main()
