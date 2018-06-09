@@ -26,6 +26,11 @@
             "description": "Nome abreviado"
           },
           {
+            "name": "slug",
+            "type": "string",
+            "description": "Identificador de texto"
+          },
+          {
             "name": "name",
             "type": "string",
             "description": "Nome completo"

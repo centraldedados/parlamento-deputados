@@ -1,5 +1,7 @@
 Este dataset contém informação dos deputados extraída do Parlamento.pt.
 
+[![goodtables.io](https://goodtables.io/badge/github/centraldedados/parlamento-deputados.svg)](https://goodtables.io/github/centraldedados/parlamento-deputados)
+
 Importa notar que a versão JSON dos dados contém mais campos que o CSV não tem:
 
 * `mandates` -- informação sobre cada mandato individual
