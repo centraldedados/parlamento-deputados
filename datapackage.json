@@ -41,6 +41,11 @@
             "description": "Partido"
           },
           {
+            "name": "active",
+            "type": "boolean",
+            "description": "Em funções?"
+          },
+          {
             "name": "education",
             "type": "string",
             "description": "Formação"
