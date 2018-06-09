@@ -76,7 +76,12 @@
             "description": "Condecorações"
           },
           {
-            "name": "url",
+            "name": "url_democratica",
+            "type": "string",
+            "description": "URL do demo.cratica.org"
+          },
+          {
+            "name": "url_parlamento",
             "type": "string",
             "description": "URL do parlamento.pt"
           },
@@ -85,7 +90,6 @@
             "type": "string",
             "description": "URL da foto"
           }
-
         ]
       }
     }
