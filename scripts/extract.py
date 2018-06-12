@@ -18,18 +18,19 @@ infolist = []
 # Registos de interesses
 rgilist = []
 
-for leg in range(2, 14):
+legs = range(2, 14)
+
+for leg in legs:
     # legislaturas 2 a 13
     if not str(leg).startswith("1"):
         leg = "0" + str(leg)
 
     biofile = os.path.join(data_dir, "data/registo-biografico-{}.json".format(leg))
-    infofile = os.path.join(data_dir, "data/info-base-{}.json".format(leg))
-
     biodata = json.load(open(biofile, 'r'))
-    infodata = json.load(open(infofile, 'r'))
-
     biolist.extend(biodata["RegistoBiografico"]["RegistoBiograficoList"]["pt_ar_wsgode_objectos_DadosRegistoBiograficoWeb"])
+
+    infofile = os.path.join(data_dir, "data/info-base-{}.json".format(leg))
+    infodata = json.load(open(infofile, 'r'))
     infolist.extend(infodata["Legislatura"]["Deputados"]["pt_ar_wsgode_objectos_DadosDeputadoSearch"])
     # rgilist.extend(biodata["RegistoBiografico"]["RegistoInteressesV2List"])
 
