@@ -43,4 +43,5 @@ def lower_given_name(txt):
             # capitalização normal
             word = word.title()
         newtxt += word + " "
-    return newtxt.strip()
+    newtxt = newtxt.strip().replace("  ", " ")
+    return newtxt

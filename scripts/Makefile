@@ -1,6 +1,7 @@
 scrape:
 	./extract.py
 	mv -f deputados.csv ../data
+	mv -f deputados.json ../data
 	
 install:
 	virtualenv .env --python=/usr/bin/python3 --no-site-packages --distribute
